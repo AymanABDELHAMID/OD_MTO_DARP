@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Vazifeh, M. M.
+AU  - Santi, P.
+AU  - Resta, G.
+AU  - Strogatz, S. H.
+AU  - Ratti, C.
+PY  - 2018
+DA  - 2018/05/01
+TI  - Addressing the minimum fleet problem in on-demand urban mobility
+JO  - Nature
+SP  - 534
+EP  - 538
+VL  - 557
+IS  - 7706
+AB  - Information and communication technologies have opened the way to new solutions for urban mobility that provide better ways to match individuals with on-demand vehicles. However, a fundamental unsolved problem is how best to size and operate a fleet of vehicles, given a certain demand for personal mobility. Previous studies1–5 either do not provide a scalable solution or require changes in human attitudes towards mobility. Here we provide a network-based solution to the following ‘minimum fleet problem’, given a collection of trips (specified by origin, destination and start time), of how to determine the minimum number of vehicles needed to serve all the trips without incurring any delay to the passengers. By introducing the notion of a ‘vehicle-sharing network’, we present an optimal computationally efficient solution to the problem, as well as a nearly optimal solution amenable to real-time implementation. We test both solutions on a dataset of 150 million taxi trips taken in the city of New York over one year6. The real-time implementation of the method with near-optimal service levels allows a 30 per cent reduction in fleet size compared to current taxi operation. Although constraints on driver availability and the existence of abnormal trip demands may lead to a relatively larger optimal value for the fleet size than that predicted here, the fleet size remains robust for a wide range of variations in historical trip demand. These predicted reductions in fleet size follow directly from a reorganization of taxi dispatching that could be implemented with a simple urban app; they do not assume ride sharing7–9, nor require changes to regulations, business models, or human attitudes towards mobility to become effective. Our results could become even more relevant in the years ahead as fleets of networked, self-driving cars become commonplace10–14.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-018-0095-1
+DO  - 10.1038/s41586-018-0095-1
+ID  - Vazifeh2018
+ER  - 

@@ -1,0 +1,22 @@
+This survey reviewed different variants of shared mobility systems along with their modeling choices
+and solution approaches. The papers reviewed covered mobility systems where people share their rides
+and mobility systems where people and goods are combined. We presented a set of case studies either
+analysing shared mobility system performances or studying their potential impacts on people’s lives and
+future transportation systems.
+New shared mobility systems for both people and freight transportation have the potential to provide
+major societal, economic and environmental benefits. The development of algorithms for planning and
+operating such systems is at the heart of the shared mobility concept. This survey highlighted a number
+of promising optimization opportunities and challenges that arise when developing new systems to support
+shared mobility. Relevant operations research models in this area have also been reviewed. Although
+ridesharing is not a new concept, we have seen that the interest in enhancing dynamic ridesharing systems
+and developing new systems for matching passengers on-the-fly continues to grow. More research is now
+needed on systems that consider trip synchronization and traveler cost aspects, or more generally the quality
+of the provided service. One of the latest big trends appears to be research on deploying new autonomous
+mobility services. We now need more research on how these new services can operate and how they can
+impact future transportation systems, and there is also a need to introduce new models and algorithms
+that consider vehicle charging and maintenance operations. The potential integration of passenger and
+freight transportation is another promising opportunity that is steadily gaining currency. As such, more
+studies on developing realistic models and effcient algorithms that consider different objectives (including
+environmental issues) and different sources of uncertainty are also needed, along with new public policies
+to regulate this integration. We believe that these challenges and new innovations provide a rich vein of
+research opportunities, and we anticipate

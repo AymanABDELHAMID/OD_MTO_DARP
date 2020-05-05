@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Rapport_fin_mars_AM.aux
+The style file: ieeetr.bst
+Database file #1: references.bib
+Warning--empty publisher in bookexpalg
+You've used 34 entries,
+            1876 wiz_defined-function locations,
+            682 strings with 10754 characters,
+and the built_in function-call counts, 7898 in all, are:
+= -- 792
+> -- 279
+< -- 0
++ -- 110
+- -- 76
+* -- 522
+:= -- 1068
+add.period$ -- 50
+call.type$ -- 34
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 421
+empty$ -- 782
+format.name$ -- 76
+if$ -- 1981
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 27
+newline$ -- 121
+num.names$ -- 25
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 292
+stack$ -- 0
+substring$ -- 470
+swap$ -- 178
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 57
+width$ -- 36
+write$ -- 322
+(There was 1 warning)
