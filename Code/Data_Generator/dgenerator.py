@@ -4,3 +4,4 @@
 # input: (<--) :
 # output: (-->) :
 
+import numpy as np
