@@ -1,8 +1,6 @@
-#  April 2020 - Ayman Mahmoud
-#
-# this code generates booking data
-# input: (<--) :
-# output: (-->) :
+"""
+A script de generate request datas
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -18,5 +16,3 @@ total_size = station_size*9 # possible locations to have
 Graph = nx.Graph()
 
 Graph.add_nodes_from([2,3])
-
-
