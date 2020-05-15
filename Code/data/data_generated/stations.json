@@ -1,0 +1,172 @@
+[
+    {
+        "name": "s0",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            0,
+            0
+        ]
+    },
+    {
+        "name": "s1",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            0,
+            15
+        ]
+    },
+    {
+        "name": "s2",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            0,
+            30
+        ]
+    },
+    {
+        "name": "s3",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            0,
+            45
+        ]
+    },
+    {
+        "name": "s4",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            15,
+            0
+        ]
+    },
+    {
+        "name": "s5",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            15,
+            15
+        ]
+    },
+    {
+        "name": "s6",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            15,
+            30
+        ]
+    },
+    {
+        "name": "s7",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            30,
+            0
+        ]
+    },
+    {
+        "name": "s8",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            15,
+            45
+        ]
+    },
+    {
+        "name": "s9",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            30,
+            15
+        ]
+    },
+    {
+        "name": "s10",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            30,
+            30
+        ]
+    },
+    {
+        "name": "s11",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            30,
+            45
+        ]
+    },
+    {
+        "name": "s12",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            45,
+            0
+        ]
+    },
+    {
+        "name": "s13",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            45,
+            15
+        ]
+    },
+    {
+        "name": "s14",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            45,
+            30
+        ]
+    },
+    {
+        "name": "s15",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            45,
+            45
+        ]
+    },
+    {
+        "name": "s16",
+        "pickup": false,
+        "dropoff": true,
+        "max_capacity": null,
+        "location": [
+            25,
+            75
+        ]
+    }
+]
