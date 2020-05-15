@@ -1,0 +1,890 @@
+{
+  "bookings": [
+    {
+      "id": 16566388,
+      "price": 1370,
+      "passengers": 1,
+      "maximumDuration": 2100,
+      "jobs": [
+        {
+          "id": 23926039,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 42600,
+          "timeWindowEndDate": 43500,
+          "duration": 60,
+          "latitude": 49.01606369018555,
+          "longitude": 1.6916327476501465,
+          "station": "s16"
+        },
+        {
+          "id": 23926040,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 42600,
+          "timeWindowEndDate": 45143,
+          "duration": 60,
+          "latitude": 48.989906311035156,
+          "longitude": 1.7033958435058594,
+          "station": "s1"
+        }
+      ]
+    },
+    {
+      "id": 16566470,
+      "price": 1450,
+      "passengers": 2,
+      "maximumDuration": 2160,
+      "jobs": [
+        {
+          "id": 23926210,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 48900,
+          "timeWindowEndDate": 49800,
+          "duration": 60,
+          "latitude": 49.038970947265625,
+          "longitude": 1.8017100095748901,
+          "station": "s18"
+        },
+        {
+          "id": 23926211,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 48900,
+          "timeWindowEndDate": 51551,
+          "duration": 60,
+          "latitude": 48.98380661010742,
+          "longitude": 1.7153891324996948,
+          "station": "s19"
+        }
+      ]
+    },
+    {
+      "id": 17149523,
+      "price": 1160,
+      "passengers": 1,
+      "maximumDuration": 2100,
+      "jobs": [
+        {
+          "id": 25109598,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 44158,
+          "timeWindowEndDate": 45058,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        },
+        {
+          "id": 25109599,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 44158,
+          "timeWindowEndDate": 46836,
+          "duration": 60,
+          "latitude": 48.97529983520508,
+          "longitude": 1.6450599431991577,
+          "station": "s7"
+        }
+      ]
+    },
+    {
+      "id": 17160738,
+      "price": 1150,
+      "passengers": 1,
+      "maximumDuration": 2100,
+      "jobs": [
+        {
+          "id": 25132378,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 51600,
+          "timeWindowEndDate": 52500,
+          "duration": 60,
+          "latitude": 49.01248550415039,
+          "longitude": 1.6957569122314453,
+          "station": "s17"
+        },
+        {
+          "id": 25132379,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 51600,
+          "timeWindowEndDate": 53980,
+          "duration": 60,
+          "latitude": 48.989906311035156,
+          "longitude": 1.7033958435058594,
+          "station": "s1"
+        }
+      ]
+    },
+    {
+      "id": 17149326,
+      "price": 1410,
+      "passengers": 1,
+      "maximumDuration": 2220,
+      "jobs": [
+        {
+          "id": 25109204,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 57300,
+          "timeWindowEndDate": 58200,
+          "duration": 60,
+          "latitude": 48.997901916503906,
+          "longitude": 1.6880216598510742,
+          "station": "s20"
+        },
+        {
+          "id": 25109205,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 57300,
+          "timeWindowEndDate": 59920,
+          "duration": 60,
+          "latitude": 49.01248550415039,
+          "longitude": 1.6957569122314453,
+          "station": "s17"
+        }
+      ]
+    },
+    {
+      "id": 16653139,
+      "price": 990,
+      "passengers": 2,
+      "maximumDuration": 1980,
+      "jobs": [
+        {
+          "id": 24102822,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 37177,
+          "timeWindowEndDate": 38077,
+          "duration": 60,
+          "latitude": 48.95273971557617,
+          "longitude": 1.710129976272583,
+          "station": "s21"
+        },
+        {
+          "id": 24102823,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 37177,
+          "timeWindowEndDate": 39603,
+          "duration": 60,
+          "latitude": 48.9903564453125,
+          "longitude": 1.719363808631897,
+          "station": "s4"
+        }
+      ]
+    },
+    {
+      "id": 17164825,
+      "price": 1090,
+      "passengers": 1,
+      "maximumDuration": 1980,
+      "jobs": [
+        {
+          "id": 25140674,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 42024,
+          "timeWindowEndDate": 42924,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        },
+        {
+          "id": 25140675,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 42024,
+          "timeWindowEndDate": 44448,
+          "duration": 60,
+          "latitude": 49.02164840698242,
+          "longitude": 1.7139604091644287,
+          "station": "s22"
+        }
+      ]
+    },
+    {
+      "id": 17161793,
+      "price": 1670,
+      "passengers": 1,
+      "maximumDuration": 2160,
+      "jobs": [
+        {
+          "id": 25134522,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 50092,
+          "timeWindowEndDate": 50992,
+          "duration": 60,
+          "latitude": 49.011451721191406,
+          "longitude": 1.636857032775879,
+          "station": "s23"
+        },
+        {
+          "id": 25134523,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 50092,
+          "timeWindowEndDate": 52661,
+          "duration": 60,
+          "latitude": 48.99260330200195,
+          "longitude": 1.7342689037322998,
+          "station": "s24"
+        }
+      ]
+    },
+    {
+      "id": 17162739,
+      "price": 1810,
+      "passengers": 1,
+      "maximumDuration": 2280,
+      "jobs": [
+        {
+          "id": 25136432,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 53700,
+          "timeWindowEndDate": 54600,
+          "duration": 60,
+          "latitude": 48.997901916503906,
+          "longitude": 1.6880216598510742,
+          "station": "s20"
+        },
+        {
+          "id": 25136433,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 53700,
+          "timeWindowEndDate": 56531,
+          "duration": 60,
+          "latitude": 48.9571647644043,
+          "longitude": 1.8128900527954102,
+          "station": "s25"
+        }
+      ]
+    },
+    {
+      "id": 17164183,
+      "price": 1180,
+      "passengers": 1,
+      "maximumDuration": 1920,
+      "jobs": [
+        {
+          "id": 25139379,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 55358,
+          "timeWindowEndDate": 56258,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        },
+        {
+          "id": 25139380,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 55358,
+          "timeWindowEndDate": 58296,
+          "duration": 60,
+          "latitude": 49.01606369018555,
+          "longitude": 1.6916327476501465,
+          "station": "s16"
+        }
+      ]
+    },
+    {
+      "id": 17161964,
+      "price": 1490,
+      "passengers": 1,
+      "maximumDuration": 2220,
+      "jobs": [
+        {
+          "id": 25134864,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 53700,
+          "timeWindowEndDate": 54600,
+          "duration": 60,
+          "latitude": 49.053653717041016,
+          "longitude": 1.7626891136169434,
+          "station": "s26"
+        },
+        {
+          "id": 25134865,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 53700,
+          "timeWindowEndDate": 56327,
+          "duration": 60,
+          "latitude": 48.99797439575195,
+          "longitude": 1.710541009902954,
+          "station": "s27"
+        }
+      ]
+    },
+    {
+      "id": 17164167,
+      "price": 1070,
+      "passengers": 2,
+      "maximumDuration": 1920,
+      "jobs": [
+        {
+          "id": 25139347,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 46800,
+          "timeWindowEndDate": 47700,
+          "duration": 60,
+          "latitude": 49.01606369018555,
+          "longitude": 1.6916327476501465,
+          "station": "s16"
+        },
+        {
+          "id": 25139348,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 46800,
+          "timeWindowEndDate": 49184,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        }
+      ]
+    },
+    {
+      "id": 17161029,
+      "price": 1150,
+      "passengers": 1,
+      "maximumDuration": 2100,
+      "jobs": [
+        {
+          "id": 25132978,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 51600,
+          "timeWindowEndDate": 52500,
+          "duration": 60,
+          "latitude": 49.01248550415039,
+          "longitude": 1.6957569122314453,
+          "station": "s17"
+        },
+        {
+          "id": 25132979,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 51600,
+          "timeWindowEndDate": 53980,
+          "duration": 60,
+          "latitude": 48.989906311035156,
+          "longitude": 1.7033958435058594,
+          "station": "s1"
+        }
+      ]
+    },
+    {
+      "id": 17172336,
+      "price": 1530,
+      "passengers": 1,
+      "maximumDuration": 2100,
+      "jobs": [
+        {
+          "id": 25155923,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 56452,
+          "timeWindowEndDate": 57352,
+          "duration": 60,
+          "latitude": 48.99260330200195,
+          "longitude": 1.7342689037322998,
+          "station": "s24"
+        },
+        {
+          "id": 25155924,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 56452,
+          "timeWindowEndDate": 59577,
+          "duration": 60,
+          "latitude": 49.011451721191406,
+          "longitude": 1.636857032775879,
+          "station": "s23"
+        }
+      ]
+    },
+    {
+      "id": 17125214,
+      "price": 1540,
+      "passengers": 1,
+      "maximumDuration": 2220,
+      "jobs": [
+        {
+          "id": 25060099,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 49098,
+          "timeWindowEndDate": 49998,
+          "duration": 60,
+          "latitude": 49.01248550415039,
+          "longitude": 1.6957569122314453,
+          "station": "s17"
+        },
+        {
+          "id": 25060100,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 49098,
+          "timeWindowEndDate": 51645,
+          "duration": 60,
+          "latitude": 48.997901916503906,
+          "longitude": 1.6880216598510742,
+          "station": "s20"
+        }
+      ]
+    },
+    {
+      "id": 16722485,
+      "price": 1170,
+      "passengers": 3,
+      "maximumDuration": 2040,
+      "jobs": [
+        {
+          "id": 24244107,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 48802,
+          "timeWindowEndDate": 49702,
+          "duration": 60,
+          "latitude": 49.01961898803711,
+          "longitude": 1.6949435472488403,
+          "station": "s28"
+        },
+        {
+          "id": 24244108,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 48802,
+          "timeWindowEndDate": 51970,
+          "duration": 60,
+          "latitude": 48.989402770996094,
+          "longitude": 1.7586915493011475,
+          "station": "s14"
+        }
+      ]
+    },
+    {
+      "id": 16722446,
+      "price": 1230,
+      "passengers": 1,
+      "maximumDuration": 1980,
+      "jobs": [
+        {
+          "id": 24244025,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 55500,
+          "timeWindowEndDate": 56400,
+          "duration": 60,
+          "latitude": 48.989402770996094,
+          "longitude": 1.7586915493011475,
+          "station": "s14"
+        },
+        {
+          "id": 24244027,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 55500,
+          "timeWindowEndDate": 57922,
+          "duration": 60,
+          "latitude": 49.01961898803711,
+          "longitude": 1.6949435472488403,
+          "station": "s28"
+        }
+      ]
+    },
+    {
+      "id": 16722421,
+      "price": 1170,
+      "passengers": 1,
+      "maximumDuration": 2040,
+      "jobs": [
+        {
+          "id": 24243975,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 48802,
+          "timeWindowEndDate": 49702,
+          "duration": 60,
+          "latitude": 49.01961898803711,
+          "longitude": 1.6949435472488403,
+          "station": "s28"
+        },
+        {
+          "id": 24243977,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 48802,
+          "timeWindowEndDate": 51970,
+          "duration": 60,
+          "latitude": 48.989402770996094,
+          "longitude": 1.7586915493011475,
+          "station": "s14"
+        }
+      ]
+    },
+    {
+      "id": 16898752,
+      "price": 2120,
+      "passengers": 1,
+      "maximumDuration": 2520,
+      "jobs": [
+        {
+          "id": 24601133,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 45837,
+          "timeWindowEndDate": 46737,
+          "duration": 60,
+          "latitude": 49.011451721191406,
+          "longitude": 1.636857032775879,
+          "station": "s23"
+        },
+        {
+          "id": 24601134,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 45837,
+          "timeWindowEndDate": 48905,
+          "duration": 60,
+          "latitude": 49.00252151489258,
+          "longitude": 1.6937179565429688,
+          "station": "s29"
+        }
+      ]
+    },
+    {
+      "id": 16976188,
+      "price": 930,
+      "passengers": 1,
+      "maximumDuration": 1860,
+      "jobs": [
+        {
+          "id": 24758260,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 44821,
+          "timeWindowEndDate": 45721,
+          "duration": 60,
+          "latitude": 48.997901916503906,
+          "longitude": 1.6880216598510742,
+          "station": "s20"
+        },
+        {
+          "id": 24758261,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 44821,
+          "timeWindowEndDate": 47136,
+          "duration": 60,
+          "latitude": 48.97529983520508,
+          "longitude": 1.6450599431991577,
+          "station": "s7"
+        }
+      ]
+    },
+    {
+      "id": 16976174,
+      "price": 1150,
+      "passengers": 2,
+      "maximumDuration": 1920,
+      "jobs": [
+        {
+          "id": 24758232,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 36300,
+          "timeWindowEndDate": 37200,
+          "duration": 60,
+          "latitude": 48.97529983520508,
+          "longitude": 1.6450599431991577,
+          "station": "s7"
+        },
+        {
+          "id": 24758233,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 36300,
+          "timeWindowEndDate": 38749,
+          "duration": 60,
+          "latitude": 48.997901916503906,
+          "longitude": 1.6880216598510742,
+          "station": "s20"
+        }
+      ]
+    },
+    {
+      "id": 17032681,
+      "price": 1550,
+      "passengers": 1,
+      "maximumDuration": 2460,
+      "jobs": [
+        {
+          "id": 24873049,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 32700,
+          "timeWindowEndDate": 33600,
+          "duration": 60,
+          "latitude": 49.016502380371094,
+          "longitude": 1.7122138738632202,
+          "station": "s11"
+        },
+        {
+          "id": 24873050,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 32700,
+          "timeWindowEndDate": 35553,
+          "duration": 60,
+          "latitude": 48.97859573364258,
+          "longitude": 1.6863584518432617,
+          "station": "s8"
+        }
+      ]
+    },
+    {
+      "id": 17027011,
+      "price": 1400,
+      "passengers": 1,
+      "maximumDuration": 2220,
+      "jobs": [
+        {
+          "id": 24861548,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 35400,
+          "timeWindowEndDate": 36300,
+          "duration": 60,
+          "latitude": 48.97529983520508,
+          "longitude": 1.6450599431991577,
+          "station": "s7"
+        },
+        {
+          "id": 24861549,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 35400,
+          "timeWindowEndDate": 38613,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        }
+      ]
+    },
+    {
+      "id": 17057163,
+      "price": 1880,
+      "passengers": 1,
+      "maximumDuration": 2580,
+      "jobs": [
+        {
+          "id": 24922563,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 61193,
+          "timeWindowEndDate": 62093,
+          "duration": 60,
+          "latitude": 49.0430908203125,
+          "longitude": 1.801650047302246,
+          "station": "s30"
+        },
+        {
+          "id": 24922564,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 61193,
+          "timeWindowEndDate": 64296,
+          "duration": 60,
+          "latitude": 48.989906311035156,
+          "longitude": 1.7033958435058594,
+          "station": "s1"
+        }
+      ]
+    },
+    {
+      "id": 17113978,
+      "price": 1070,
+      "passengers": 1,
+      "maximumDuration": 1920,
+      "jobs": [
+        {
+          "id": 25037359,
+          "type": "PickUpJob",
+          "timeWindowBeginDate": 42300,
+          "timeWindowEndDate": 43200,
+          "duration": 60,
+          "latitude": 49.01606369018555,
+          "longitude": 1.6916327476501465,
+          "station": "s16"
+        },
+        {
+          "id": 25037360,
+          "type": "DropOffJob",
+          "timeWindowBeginDate": 42300,
+          "timeWindowEndDate": 44707,
+          "duration": 60,
+          "latitude": 48.98927307128906,
+          "longitude": 1.715390682220459,
+          "station": "s10"
+        }
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "id": 3238042,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9714126,
+          "type": "ShiftBegin",
+          "timeDate": 45000,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9714125,
+          "type": "ShiftEnd",
+          "timeDate": 58800,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3238029,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9714087,
+          "type": "ShiftBegin",
+          "timeDate": 31200,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9714086,
+          "type": "ShiftEnd",
+          "timeDate": 41400,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237957,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713871,
+          "type": "ShiftBegin",
+          "timeDate": 52200,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713870,
+          "type": "ShiftEnd",
+          "timeDate": 64200,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237951,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713853,
+          "type": "ShiftBegin",
+          "timeDate": 36600,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713852,
+          "type": "ShiftEnd",
+          "timeDate": 48600,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237862,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713586,
+          "type": "ShiftBegin",
+          "timeDate": 48600,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713585,
+          "type": "ShiftEnd",
+          "timeDate": 62400,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237852,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713556,
+          "type": "ShiftBegin",
+          "timeDate": 34800,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713555,
+          "type": "ShiftEnd",
+          "timeDate": 45000,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237789,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713367,
+          "type": "ShiftBegin",
+          "timeDate": 48600,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713366,
+          "type": "ShiftEnd",
+          "timeDate": 58800,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    },
+    {
+      "id": 3237783,
+      "capacity": 4,
+      "maximumTurnover": 6000,
+      "jobs": [
+        {
+          "id": -9713349,
+          "type": "ShiftBegin",
+          "timeDate": 31200,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        },
+        {
+          "id": -9713348,
+          "type": "ShiftEnd",
+          "timeDate": 41400,
+          "latitude": 48.99266052246094,
+          "longitude": 1.6903244256973267,
+          "station": "s0"
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 In this script we are going to use p-median
 method to solve the station allocation problem
 
-v0 : static input data treating a single timeslot
+v2 : constraints are modified to introduce the user distance limit "dl"
 """
 
 import gurobipy as gp
@@ -60,7 +60,7 @@ m.addConstrs((assign[(c, f)] <= select[f] for c, f in cartesian_prod), name='Num
 m.addConstrs((gp.quicksum(assign[(c, f)] for f in range(num_pickup_stations)) == 1 for c in range(num_bookings)), name='serveOnce')
 
 # Save model
-m.write('pickup_pmedian_v1.lp')
+m.write('pickup_pmedian_v2.lp')
 
 m.setObjective(assign.prod(matching_cost), GRB.MINIMIZE)
 

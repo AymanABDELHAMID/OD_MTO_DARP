@@ -1,0 +1,502 @@
+[
+    {
+        "id": 16566388,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 23926039,
+                "duration": 60,
+                "latitude": 49.01606369018555,
+                "longitude": 1.6916327476501465,
+                "station": "s26",
+                "timeslot": 10,
+                "distancelimit": 2000,
+                "location": [
+                    1,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16566470,
+        "passengers": 2,
+        "maximumDuration": 2160,
+        "jobs": [
+            {
+                "id": 23926210,
+                "duration": 60,
+                "latitude": 49.038970947265625,
+                "longitude": 1.8017100095748901,
+                "station": "s26",
+                "timeslot": 2,
+                "distancelimit": 2000,
+                "location": [
+                    0,
+                    21
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17149523,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25109598,
+                "duration": 60,
+                "latitude": 48.98927307128906,
+                "longitude": 1.715390682220459,
+                "station": "s26",
+                "timeslot": 7,
+                "distancelimit": 2000,
+                "location": [
+                    31,
+                    39
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17160738,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25132378,
+                "duration": 60,
+                "latitude": 49.01248550415039,
+                "longitude": 1.6957569122314453,
+                "station": "s26",
+                "timeslot": 9,
+                "distancelimit": 2000,
+                "location": [
+                    26,
+                    47
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17149326,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": [
+            {
+                "id": 25109204,
+                "duration": 60,
+                "latitude": 48.997901916503906,
+                "longitude": 1.6880216598510742,
+                "station": "s26",
+                "timeslot": 8,
+                "distancelimit": 2000,
+                "location": [
+                    4,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16653139,
+        "passengers": 2,
+        "maximumDuration": 1980,
+        "jobs": [
+            {
+                "id": 24102822,
+                "duration": 60,
+                "latitude": 48.95273971557617,
+                "longitude": 1.710129976272583,
+                "station": "s26",
+                "timeslot": 10,
+                "distancelimit": 2000,
+                "location": [
+                    16,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17164825,
+        "passengers": 1,
+        "maximumDuration": 1980,
+        "jobs": [
+            {
+                "id": 25140674,
+                "duration": 60,
+                "latitude": 48.98927307128906,
+                "longitude": 1.715390682220459,
+                "station": "s26",
+                "timeslot": 6,
+                "distancelimit": 2000,
+                "location": [
+                    32,
+                    43
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17161793,
+        "passengers": 1,
+        "maximumDuration": 2160,
+        "jobs": [
+            {
+                "id": 25134522,
+                "duration": 60,
+                "latitude": 49.011451721191406,
+                "longitude": 1.636857032775879,
+                "station": "s26",
+                "timeslot": 4,
+                "distancelimit": 2000,
+                "location": [
+                    17,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17162739,
+        "passengers": 1,
+        "maximumDuration": 2280,
+        "jobs": [
+            {
+                "id": 25136432,
+                "duration": 60,
+                "latitude": 48.997901916503906,
+                "longitude": 1.6880216598510742,
+                "station": "s26",
+                "timeslot": 3,
+                "distancelimit": 2000,
+                "location": [
+                    42,
+                    23
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17164183,
+        "passengers": 1,
+        "maximumDuration": 1920,
+        "jobs": [
+            {
+                "id": 25139379,
+                "duration": 60,
+                "latitude": 48.98927307128906,
+                "longitude": 1.715390682220459,
+                "station": "s26",
+                "timeslot": 2,
+                "distancelimit": 2000,
+                "location": [
+                    17,
+                    18
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17161964,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": [
+            {
+                "id": 25134864,
+                "duration": 60,
+                "latitude": 49.053653717041016,
+                "longitude": 1.7626891136169434,
+                "station": "s26",
+                "timeslot": 5,
+                "distancelimit": 2000,
+                "location": [
+                    28,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17164167,
+        "passengers": 2,
+        "maximumDuration": 1920,
+        "jobs": [
+            {
+                "id": 25139347,
+                "duration": 60,
+                "latitude": 49.01606369018555,
+                "longitude": 1.6916327476501465,
+                "station": "s26",
+                "timeslot": 10,
+                "distancelimit": 2000,
+                "location": [
+                    27,
+                    48
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17161029,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25132978,
+                "duration": 60,
+                "latitude": 49.01248550415039,
+                "longitude": 1.6957569122314453,
+                "station": "s26",
+                "timeslot": 8,
+                "distancelimit": 2000,
+                "location": [
+                    24,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17172336,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25155923,
+                "duration": 60,
+                "latitude": 48.99260330200195,
+                "longitude": 1.7342689037322998,
+                "station": "s26",
+                "timeslot": 5,
+                "distancelimit": 2000,
+                "location": [
+                    44,
+                    27
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17125214,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": [
+            {
+                "id": 25060099,
+                "duration": 60,
+                "latitude": 49.01248550415039,
+                "longitude": 1.6957569122314453,
+                "station": "s26",
+                "timeslot": 6,
+                "distancelimit": 2000,
+                "location": [
+                    24,
+                    16
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16722485,
+        "passengers": 3,
+        "maximumDuration": 2040,
+        "jobs": [
+            {
+                "id": 24244107,
+                "duration": 60,
+                "latitude": 49.01961898803711,
+                "longitude": 1.6949435472488403,
+                "station": "s26",
+                "timeslot": 5,
+                "distancelimit": 2000,
+                "location": [
+                    46,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16722446,
+        "passengers": 1,
+        "maximumDuration": 1980,
+        "jobs": [
+            {
+                "id": 24244025,
+                "duration": 60,
+                "latitude": 48.989402770996094,
+                "longitude": 1.7586915493011475,
+                "station": "s26",
+                "timeslot": 10,
+                "distancelimit": 2000,
+                "location": [
+                    0,
+                    17
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16722421,
+        "passengers": 1,
+        "maximumDuration": 2040,
+        "jobs": [
+            {
+                "id": 24243975,
+                "duration": 60,
+                "latitude": 49.01961898803711,
+                "longitude": 1.6949435472488403,
+                "station": "s26",
+                "timeslot": 9,
+                "distancelimit": 2000,
+                "location": [
+                    44,
+                    37
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16898752,
+        "passengers": 1,
+        "maximumDuration": 2520,
+        "jobs": [
+            {
+                "id": 24601133,
+                "duration": 60,
+                "latitude": 49.011451721191406,
+                "longitude": 1.636857032775879,
+                "station": "s26",
+                "timeslot": 5,
+                "distancelimit": 2000,
+                "location": [
+                    38,
+                    29
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16976188,
+        "passengers": 1,
+        "maximumDuration": 1860,
+        "jobs": [
+            {
+                "id": 24758260,
+                "duration": 60,
+                "latitude": 48.997901916503906,
+                "longitude": 1.6880216598510742,
+                "station": "s26",
+                "timeslot": 9,
+                "distancelimit": 2000,
+                "location": [
+                    34,
+                    17
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16976174,
+        "passengers": 2,
+        "maximumDuration": 1920,
+        "jobs": [
+            {
+                "id": 24758232,
+                "duration": 60,
+                "latitude": 48.97529983520508,
+                "longitude": 1.6450599431991577,
+                "station": "s26",
+                "timeslot": 6,
+                "distancelimit": 2000,
+                "location": [
+                    40,
+                    13
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17032681,
+        "passengers": 1,
+        "maximumDuration": 2460,
+        "jobs": [
+            {
+                "id": 24873049,
+                "duration": 60,
+                "latitude": 49.016502380371094,
+                "longitude": 1.7122138738632202,
+                "station": "s26",
+                "timeslot": 3,
+                "distancelimit": 2000,
+                "location": [
+                    48,
+                    40
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17027011,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": [
+            {
+                "id": 24861548,
+                "duration": 60,
+                "latitude": 48.97529983520508,
+                "longitude": 1.6450599431991577,
+                "station": "s26",
+                "timeslot": 4,
+                "distancelimit": 2000,
+                "location": [
+                    27,
+                    49
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17057163,
+        "passengers": 1,
+        "maximumDuration": 2580,
+        "jobs": [
+            {
+                "id": 24922563,
+                "duration": 60,
+                "latitude": 49.0430908203125,
+                "longitude": 1.801650047302246,
+                "station": "s26",
+                "timeslot": 4,
+                "distancelimit": 2000,
+                "location": [
+                    35,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17113978,
+        "passengers": 1,
+        "maximumDuration": 1920,
+        "jobs": [
+            {
+                "id": 25037359,
+                "duration": 60,
+                "latitude": 49.01606369018555,
+                "longitude": 1.6916327476501465,
+                "station": "s26",
+                "timeslot": 1,
+                "distancelimit": 2000,
+                "location": [
+                    28,
+                    2
+                ]
+            }
+        ]
+    }
+]

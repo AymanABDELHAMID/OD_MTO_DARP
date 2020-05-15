@@ -1,0 +1,114 @@
+[
+    {
+        "id": 16566388,
+        "price": 1370,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 23926039,
+                "type": "PickUpJob",
+                "timeWindowBeginDate": 42600,
+                "timeWindowEndDate": 43500,
+                "duration": 60,
+                "latitude": 49.01606369018555,
+                "longitude": 1.6916327476501465,
+                "station": "s16"
+            },
+            {
+                "id": 23926040,
+                "type": "DropOffJob",
+                "timeWindowBeginDate": 42600,
+                "timeWindowEndDate": 45143,
+                "duration": 60,
+                "latitude": 48.989906311035156,
+                "longitude": 1.7033958435058594,
+                "station": "s1"
+            }
+        ]
+    },
+    {
+        "id": 16566470,
+        "price": 1450,
+        "passengers": 2,
+        "maximumDuration": 2160,
+        "jobs": [
+            {
+                "id": 23926210,
+                "type": "PickUpJob",
+                "timeWindowBeginDate": 48900,
+                "timeWindowEndDate": 49800,
+                "duration": 60,
+                "latitude": 49.038970947265625,
+                "longitude": 1.8017100095748901,
+                "station": "s18"
+            },
+            {
+                "id": 23926211,
+                "type": "DropOffJob",
+                "timeWindowBeginDate": 48900,
+                "timeWindowEndDate": 51551,
+                "duration": 60,
+                "latitude": 48.98380661010742,
+                "longitude": 1.7153891324996948,
+                "station": "s19"
+            }
+        ]
+    },
+    {
+        "id": 17149523,
+        "price": 1160,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25109598,
+                "type": "PickUpJob",
+                "timeWindowBeginDate": 44158,
+                "timeWindowEndDate": 45058,
+                "duration": 60,
+                "latitude": 48.98927307128906,
+                "longitude": 1.715390682220459,
+                "station": "s10"
+            },
+            {
+                "id": 25109599,
+                "type": "DropOffJob",
+                "timeWindowBeginDate": 44158,
+                "timeWindowEndDate": 46836,
+                "duration": 60,
+                "latitude": 48.97529983520508,
+                "longitude": 1.6450599431991577,
+                "station": "s7"
+            }
+        ]
+    },
+    {
+        "id": 17160738,
+        "price": 1150,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 25132378,
+                "type": "PickUpJob",
+                "timeWindowBeginDate": 51600,
+                "timeWindowEndDate": 52500,
+                "duration": 60,
+                "latitude": 49.01248550415039,
+                "longitude": 1.6957569122314453,
+                "station": "s17"
+            },
+            {
+                "id": 25132379,
+                "type": "DropOffJob",
+                "timeWindowBeginDate": 51600,
+                "timeWindowEndDate": 53980,
+                "duration": 60,
+                "latitude": 48.989906311035156,
+                "longitude": 1.7033958435058594,
+                "station": "s1"
+            }
+        ]
+    }
+]
