@@ -7,4 +7,5 @@ This module generates all data corresponding to shifts
 - location
 - shiftbegin / shiftend
 - maximum turnover
+- average speed
 """

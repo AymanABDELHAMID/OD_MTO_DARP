@@ -11,11 +11,10 @@ import json
 
 stations_size = 15
 " you need to automate station location generation "
-
-
 pickup_stations = [(0, 0), (0, 15), (0, 30), (0, 45), (15, 0), (15, 15), (15, 30),
                    (30, 0), (15, 45), (30, 15), (30, 30), (30, 45), (45, 0), (45, 15),
                    (45,30), (45, 45)]
+
 stations = []
 station = {
   "name": [],
