@@ -51,7 +51,7 @@ matching_cost = {(c, f): cost_per_step*compute_distance(bookings[c], pickup_stat
 
 # MIP  model formulation
 
-m = gp.Model('facility_location')
+m = gp.Model('pickup_stations')
 
 select = m.addVars(num_pickup_stations, vtype=GRB.BINARY, name='Select')
 assign = m.addVars(cartesian_prod, ub=1, vtype=GRB.CONTINUOUS, name='Assign')

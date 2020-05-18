@@ -51,6 +51,7 @@ shifts = data["shifts"]  # not needed for now
 "Define variables"
 timeslot_size = 10  # size can be changed later to display a larger array of items
 graph_size = range(0, 50)  # range of points the booking can be at
+pickup_stations_size = 16
 
 "Start modifying data here"
 for booking in range(len(bookings)):
@@ -75,8 +76,9 @@ for booking in range(len(bookings)):
         del bookings[booking]["jobs"][0]["timeWindowEndDate"]
     except KeyError:
         print("Key 'time window' not found")
-    "#5 - change destination station to be the same (S + number of bookings + 1)"
-    bookings[booking]["jobs"][0]["station"] = "s" + str(len(bookings) + 1)
+    "#5 - change destination station to be the same (S + number of stations available + 1)"
+    # bookings[booking]["jobs"][0]["station"] = "s" + str(len(bookings) + 1)
+    bookings[booking]["jobs"][0]["station"] = "s" + str(pickup_stations_size + 1)
     "#6 - add new key: timeslot"
     bookings[booking]["jobs"][0]["timeslot"] = random.randint(1, timeslot_size)
     "#7 - add new key: distancelimit"
