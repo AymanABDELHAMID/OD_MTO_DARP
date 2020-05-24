@@ -17,12 +17,16 @@
 \contentsline {subsection}{\numberline {6.1}Introduction}{15}%
 \contentsline {subsection}{\numberline {6.2}Problem Visualisation}{16}%
 \contentsline {subsection}{\numberline {6.3} Problem Formulation}{17}%
-\contentsline {subsection}{\numberline {6.4}Time Sequence}{18}%
-\contentsline {subsection}{\numberline {6.5}Model}{21}%
-\contentsline {section}{\numberline {7}Solution Approaches}{22}%
-\contentsline {subsection}{\numberline {7.1}Data Structure}{22}%
-\contentsline {subsection}{\numberline {7.2}Defining Pickup Stations}{23}%
-\contentsline {subsubsection}{\numberline {7.2.1}Algorithm}{23}%
-\contentsline {subsection}{\numberline {7.3}The matching problem}{25}%
-\contentsline {subsection}{\numberline {7.4}Next Steps}{26}%
-\contentsline {section}{\numberline {8}Conclusion}{27}%
+\contentsline {subsubsection}{\numberline {6.3.1}Introduction}{17}%
+\contentsline {subsubsection}{\numberline {6.3.2}Part I: Station Matching Optimization}{18}%
+\contentsline {subsubsection}{\numberline {6.3.3}Model}{19}%
+\contentsline {subsubsection}{\numberline {6.3.4}Part II: Driver Matching Optimization}{20}%
+\contentsline {subsection}{\numberline {6.4}Time Sequence}{21}%
+\contentsline {subsubsection}{\numberline {6.4.1}Model}{23}%
+\contentsline {section}{\numberline {7}Solution Approaches}{25}%
+\contentsline {subsection}{\numberline {7.1}Data Structure}{25}%
+\contentsline {subsection}{\numberline {7.2}Defining Pickup Stations}{26}%
+\contentsline {subsubsection}{\numberline {7.2.1}Algorithm}{26}%
+\contentsline {subsection}{\numberline {7.3}The matching problem}{27}%
+\contentsline {subsection}{\numberline {7.4}Next Steps}{28}%
+\contentsline {section}{\numberline {8}Conclusion}{30}%

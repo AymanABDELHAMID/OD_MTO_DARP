@@ -430,14 +430,30 @@ In the following section I am going to present the problem in a mathematical mod
 
 \subsection*{Problem Statement \& Mathematical Description:}
 
-The problem represented is twofold, firstly we tackle an allocation problem where we try to minimize the pickup locations by matching the requests corresponding to the same time window with a nearby pick up station. Once the pickup stations are determined the problem transitions into a many to one dial-a-ride problem with time windows, many-to-one are generalized dial-a-ride problems with an edge. All bookings realized are destined to reach the same end destination with respect to the timeslot chosen, the solution approaches are in section (\ref{sec:Methodd}).
+\subsubsection{Introduction}
+Although with respect to sequence the problem can be divided into two separate parts, we don't neglect the fact that all the problem can be represented and formulated in a single mathematical formulation which, in the context of optimization, can lead to a more optimal solution. This path has not been taken for the reasons listed below:
+\begin{list}{}{}
+\item • The mathematical model that can formulated to solve this problem will be quite large and I will risk not including all the constraints.
+\item • Based on my current level of coding in Python, the work on the coding will be much clearer if the problem is formulated in two sub-mathematical formulations.
+\item • Based on the rhythm of work chosen during the semester it was a wiser choice to handle each part separately in order to get separate results instead of working on a big model and keep the results to the end, it was a micro lean programming cycle. %you can input the lean programming startup figure here
+\end{list}
+
+Following these arguments the problem formulation is going to be presented in two mathematical models; the first is going to handle the first part which is the station allocation problem and the second formulation for the driver allocation problem. We can now state that in this context the problem represented is twofold.
+Firstly we tackle an allocation problem where we try to minimize the pickup locations by matching the requests corresponding to the same time window with a nearby pick up station. Once the pickup stations are determined the problem transitions into a many to one dial-a-ride problem with time windows, many-to-one are generalized dial-a-ride problems with an edge. All bookings realized are destined to reach the same end destination with respect to the timeslot chosen, the solution approaches are in section (\ref{sec:Methodd}).
 
 
-In this part we will describe the problem only at peak hours when the mobility on demand is only serving a many-to-one (Many pick up stations to one drop-off station), in the case of normal operating hours, the service runs a generalized 
-mobility on demand service where its mathematical model can be found in the following paper. \citep{2008_Cordeau_Laporte}
+In section \ref{subsec:next_steps} I will discuss the possibility of formulating the problem into a single mathematical model which then can be optimized in one take and discuss the pros and cons of taking this step in my view.
+
+This part is represented as follows, a simple formulation for the sets included in the data, then in section \ref{sebsec:st_alloc} (part $1$ of the problem), we will represent a linear programming model to minimize the number of pickup stations, following in section \ref{subsec:darp} (part $2$ of the problem) we will represent the linear programming model to minimize the number of service vehicles and total distance travelled.
+
+%In this part we will describe the problem only at peak hours when the mobility on demand is only serving a many-to-one (Many pick up stations to one drop-off station), in the case of normal operating hours, the service runs a generalized 
+%mobility on demand service where its mathematical model can be found in the following paper. \citep{2008_Cordeau_Laporte}
 
 
-Consider a set of $n$ number of users (or requests), $b$ number of vehicles in the fleet, $m$ is the number of pickup stations available and $s$ is the number of stations the customers can be dropped-off at (These stations must have clear and predefined timetables such as train stations and Educational Institutions). $P = \{ 1, ..., n \}$ is the set of pick up requests, $L = \{ 1, ..., n \}$ are the respective locations, $D =  \{ 1, ..., s \}$ is the set of drop-off stations,  $B =  \{ 1, ..., b \}$ is the set of pick and $B =  \{ 1, ..., b \}$ is the set of vehicles available.
+\subsubsection*{Problem formulation}
+
+
+Consider a set of $n$ number of users (or requests), $b$ number of vehicles in the fleet, $m$ is the number of pickup stations available and $s$ is the number of stations the customers can be dropped-off at (These stations must have clear and predefined timetables such as train stations and Educational Institutions). $P = \{ 1, ..., n \}$ is the set of pick up requests, $L = \{ 1, ..., n \}$ are the respective locations, $D =  \{ 1, ..., s \}$ is the set of drop-off stations,  $M =  \{ 1, ..., m \}$ is the set of pickup stations, and $B =  \{ 1, ..., b \}$ is the set of vehicles available.
 
 For simpler model formulation we will change the size of $D$ to be equal to the size of $P$, in the context of this problem $D = \{1,2\},\ 1 = Train Station,\ 2 = School$. The new formulation of $D$ is as follows:
 \begin{equation*}
@@ -449,6 +465,55 @@ where\ D_i = \{1,2\}, \ i \in M \\
 \end{array}
 \end{equation*}
 
+\subsubsection{Part I: Station Matching Optimization}
+\label{sebsec:st_alloc}
+
+The first part can be represented in the form of a classical facility location optimization problem, the idea is that we have a set of potential pickup stations (  $M =  \{ 1, ..., m \}$ ) and we choose the best among these potential stations to open and receive bookings, this choice is of course subject to constraints requiring that all booking must be services by the established stations.The objective is to minimize costs, the cost here is directly proportional to the distance between the actual location of the bookings and the pickup stations. OR. these typically include a part which is proportional to the sum of the distances from the demand points to the pickup stations, in addition to costs of opening them at the chosen sites.
+
+\label{sec:walk_limit}
+As we can see this is an optimization problem where the pick up will be realised by a cluster of demands sharing the same geographical area, there will be a designed algorithm (in section \ref{subsec:alg})
+that calculates the location of the best virtual pick-up station, for this algorithm we will introduce a distance limit denoted by $dl_i$ which is the maximum distance the customer is willing to make to reach the pick up station,  because when transporting passengers, reducing user inconvenience must be balanced against minimizing operating costs. The optimization problem is visualized in the figure \ref{fig:p-median}
+% remember that there is a diffrerence between explaining the problem formulation and the algorithm, here we don't need to show the list of potential stations, suffice to show the matching between both
+
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=\linewidth]{pictures/pmedian}
+  \caption{blue dots are the locations of the booking and red square are the potential pickup stations}
+\label{fig:p-median}
+\end{figure}
+
+The model is going to represent an uncapacitated  pickup stations where there is no limit to how many can be at the station at once.
+
+
+% LP Presentation here:
+\subsubsection{Model}
+\label{subsection:model_partI}
+
+Consider $n$ customers $i \in \{1,2,...,n\}$ and $m$ pickup stations $ j \in \{1,2,…,m\}$. Define binary variables $x_{ij} \in \{0, 1\}$,  $x_{ij} = 1$ if station $j$ is going to receive booking $i$, 
+and binary variable $y_{j} \in \{0,1\}$, $y_{j}= 1$ if a station is open at location $j$, $y_{j}=0$ otherwise. $f_j$ is a continuous variable that describes the activation cost of stations $j$ and $c_{ij}$ is the distance cost that should not pass a certain limit.
+Finally as mentioned before $dl_i$ is the maximum walking distance the driver is willing to make to get to the pickup station.
+ An integer-optimization model for the problem can now be specified as follows:
+
+
+\begin{equation*}
+\def\arraystretch{2}
+\begin{array}{lllcll} %{ll@{}ll}
+\text{Minimize:}  && \displaystyle\sum\limits_{j=1}^{m}f_{j} y_{j} + \sum\limits_{i=1}^{n}\sum\limits_{j=1}^{m}c_{ij}x_{ij} && & \\
+	&	&	&	&	&  \\
+\text{subject to:}&   &  &  & &\\
+	&	&	& 	&	& \\
+	 \displaystyle\sum\limits_{j=1}^{m}x_{ij} &=& 1 &  \forall i \in \{1,2,...,n\} & & (1) \\  
+	  still \ don't know &=& 1 &  \forall  i \in \{1,2,...,n\}  & & (2) \\ 
+	 c_{ij} &\leq& dl_i &  i \in \{1,2,...,n\} &j \in \{1,2,...,m\}  & (3) \\ 
+	 x_{ij} &=& \{0,1\} &  \forall  i \in \{1,2,...,n\} &j \in \{1,2,...,m\} & (4) \\ 
+	 y_{j} &=& \{0,1\} &  \forall i \in \{1,2,...,n\} & & (5) \\ 
+\end{array}
+\end{equation*}
+
+The first constraints $(1)$ require that each customer’s demand must be satisfied. Constraint $(2)$ provide variable upper bounds; even though they are redundant, they yield a much tighter linear programming. The constraint $(3)$ assures that no travelled distance by any customer passes the distance limit $dl_i$. The constraints $(4)$ and $(5)$ define that $x_{ij}$ and $y_j$ are binaries.
+
+\subsubsection{Part II: Driver Matching Optimization}
+\label{subsec:darp}
 
 The DARP may be defined on a complete directed graph $G = (N,A)$ where:
 
@@ -456,9 +521,7 @@ The DARP may be defined on a complete directed graph $G = (N,A)$ where:
 \subsubsection*{N}
 
 $N = P \cup D \cup \{0, n + s + 1\}$, nodes $0 \ and \  n + s + 1$ represent the origin and destination depots.
-\label{sec:walk_limit}
-As we can see this is an optimization problem that requires a lot of preprocessing, simply because the pick up will be realised by a cluster of demands sharing the same geographical area, there will be a designed algorithm (in section \ref{subsec:alg})
-that calculates the location of the best virtual pick-up station, for this algorithm we will introduce a distance limit denoted by $dl_i$ which is the maximum distance the customer is willing to make to reach the pick up station,  because when transporting passengers, reducing user inconvenience must be balanced against minimizing operating costs.
+% here there was previously the walk limit paragraph
 
 A request is a couple $(i,j)$, where $i \in N\  \& \  j \in N $ the travel time of this couple will be denoted $t_{ij}$,  consider $t_{ij}$ the trip duration from$i$ to $j$.
 
@@ -543,7 +606,7 @@ customer is located. We denote also $C$ which is a contingency variable that tak
 \end{list} 
 
 % LP Presentation here:
-\subsection{Model}
+\subsubsection{Model}
 \label{subsection:model}
 
 This problem can be represented using a three index formulation. The three index variable $x_{ij}^{b}$ is a binary variable that is equal to 1 only if the couple  $(i,j)$ is going to be served by vehicle $b$. The formulation is as follows:
