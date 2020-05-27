@@ -1,0 +1,110 @@
+54 87
+  0       46.234299        0.906148    87320            BUSSIERE-POITEVINE 
+  1       45.849282        1.126404    87430           VERNEUIL-SUR-VIENNE
+  2       45.698932        1.535996    87130                       LINARDS
+  3       45.776387        1.392131    87220                       EYJEAUX
+  4       45.698932        1.535996    87130                       LINARDS
+  5       45.879791        0.952853    87200        SAINT-BRICE-SUR-VIENNE
+  6       45.866629        1.325705    87410          LE PALAIS-SUR-VIENNE
+  7       45.478353        1.227440    87500                       GLANDON
+  8       45.836700        1.486205    87400       SAINT-LEONARD-DE-NOBLAT
+  9       46.076004        1.475384    87370                      LAURIERE
+ 10       45.512429        1.203658    87500        SAINT-YRIEIX-LA-PERCHE
+ 11       45.835537        1.306352    87350                       PANAZOL
+ 12       45.713108        1.606463    87130          CHATEAUNEUF-LA-FORET
+ 13       45.628027        0.796582    87440                        MARVAL
+ 14       45.750032        1.206902    87110             BOSMIE-L'AIGUILLE
+ 15       46.214577        1.166048    87190                  MAGNAC-LAVAL
+ 16       45.813619        1.773672    87470             PEYRAT-LE-CHATEAU
+ 17       46.005783        1.135611    87140                     CHAMBORET
+ 18       45.995644        1.376950    87240               SAINT-SYLVESTRE
+ 19       45.991564        1.049805    87520                         CIEUX
+ 20       45.718914        1.213842    87800                      JOURGNAC
+ 21       45.835537        1.306352    87350                       PANAZOL
+ 22       45.731897        0.865179    87150            ORADOUR-SUR-VAYRES
+ 23       45.705534        0.758838    87440                 SAINT-MATHIEU
+ 24       45.995644        1.376950    87240               SAINT-SYLVESTRE
+ 25       46.076004        1.475384    87370                      LAURIERE
+ 26       45.645735        1.383512    87260              VICQ-SUR-BREUILH
+ 27       45.679994        1.073016    87230                      LES CARS
+ 28       45.731897        0.865179    87150            ORADOUR-SUR-VAYRES
+ 29       45.749563        1.123354    87700         SAINT-MARTIN-LE-VIEUX
+ 30       45.649583        1.289420    87800          SAINT-PRIEST-LIGOURE
+ 31       45.698932        1.535996    87130                       LINARDS
+ 32       45.896899        1.319155    87570                 RILHAC-RANCON
+ 33       45.478353        1.227440    87500                       GLANDON
+ 34       45.679994        1.073016    87230                      LES CARS
+ 35       45.787491        1.469772    87400                 LA GENEYTOUSE
+ 36       46.009592        1.174551    87140                       NANTIAT
+ 37       45.614643        1.496753    87380      SAINT-GERMAIN-LES-BELLES
+ 38       45.831889        1.009976    87310               COGNAC-LA-FORET
+ 39       45.849282        1.126404    87430           VERNEUIL-SUR-VIENNE
+ 40       45.856567        1.437789    87400                       ROYERES
+ 41       45.765984        1.079280    87620                     SEREILHAC
+ 42       46.318070        1.367965    87160    SAINT-SULPICE-LES-FEUILLES
+ 43       45.723135        1.613460    87130                 NEUVIC-ENTIER
+ 44       45.628507        1.584958    87130      LA CROISILLE-SUR-BRIANCE
+ 45       45.887160        0.901165    87200                  SAINT-JUNIEN
+ 46       45.765984        1.079280    87620                     SEREILHAC
+ 47       45.835537        1.306352    87350                       PANAZOL
+ 48       45.956976        1.203972    87510                 SAINT-JOUVENT
+ 49       45.709788        0.912586    87150         CHAMPAGNAC-LA-RIVIERE
+ 50       45.619472        1.428874    87380                  MAGNAC-BOURG
+ 51       46.080284        1.425810    87370           BERSAC-SUR-RIVALIER
+ 52       45.718914        1.213842    87800                      JOURGNAC
+ 53       45.678465        0.999398    87230                        PAGEAS
+ 54       45.738677        1.742153    87120                    EYMOUTIERS
+ 55       46.198293        1.298152    87290           SAINT-SORNIN-LEULAC
+ 56       45.877934        1.013243    87420              SAINT-VICTURNIEN
+ 57       45.679994        1.073016    87230                      LES CARS
+ 58       45.795283        1.626992    87460                      BUJALEUF
+ 59       46.318070        1.367965    87160    SAINT-SULPICE-LES-FEUILLES
+ 60       45.738677        1.742153    87120                    EYMOUTIERS
+ 61       45.804543        0.932156    87310                  SAINT-AUVENT
+ 62       45.835537        1.306352    87350                       PANAZOL
+ 63       45.877448        1.238798    87270                       COUZEIX
+ 64       45.805176        1.226734    87170                          ISLE
+ 65       46.346151        1.172819    87360            LUSSAC-LES-EGLISES
+ 66       45.816277        1.262305    87000                       LIMOGES
+ 67       46.198293        1.298152    87290           SAINT-SORNIN-LEULAC
+ 68       45.822428        0.819703    87600                  ROCHECHOUART
+ 69       45.950099        1.134893    87510                     PEYRILHAC
+ 70       45.695309        1.358070    87260               PIERRE-BUFFIERE
+ 71       46.109223        1.368912    87250         BESSINES-SUR-GARTEMPE
+ 72       45.879791        0.952853    87200        SAINT-BRICE-SUR-VIENNE
+ 73       45.886509        1.399021    87480          SAINT-PRIEST-TAURION
+ 74       45.950918        1.497615    87340     SAINT-LAURENT-LES-EGLISES
+ 75       45.614643        1.496753    87380      SAINT-GERMAIN-LES-BELLES
+ 76       45.894410        1.105950    87520                        VEYRAC
+ 77       45.907001        1.605865    87400              SAUVIAT-SUR-VIGE
+ 78       45.679994        1.073016    87230                      LES CARS
+ 79       45.705574        0.851961    87150                        CUSSAC
+ 80       46.132886        1.276476    87290                 CHATEAUPONSAC
+ 81       46.076004        1.475384    87370                      LAURIERE
+ 82       45.751031        1.288696    87110                      LE VIGEN
+ 83       46.044337        1.020097    87300                         BLOND
+ 84       45.870620        0.814777    87720            SAILLAT-SUR-VIENNE
+ 85       45.795444        1.134253    87700               AIXE-SUR-VIENNE
+ 86       45.614643        1.496753    87380      SAINT-GERMAIN-LES-BELLES
+ 87       46.214455        1.081643    87210                      LE DORAT
+ 88       45.950099        1.134893    87510                     PEYRILHAC
+ 89       45.923886        1.170545    87510                         NIEUL
+ 90       46.109223        1.368912    87250         BESSINES-SUR-GARTEMPE
+ 91       45.582580        1.112164    87500              LADIGNAC-LE-LONG
+ 92       46.265751        1.374707    87160                ARNAC-LA-POSTE
+ 93       45.999012        1.467185    87340     LA JONCHERE-SAINT-MAURICE
+ 94       45.813619        1.773672    87470             PEYRAT-LE-CHATEAU
+ 95       46.122228        1.051593    87300                        BELLAC
+ 96       45.999012        1.467185    87340     LA JONCHERE-SAINT-MAURICE
+ 97       45.796888        1.236574    87920             CONDAT-SUR-VIENNE
+ 98       45.749563        1.123354    87700         SAINT-MARTIN-LE-VIEUX
+ 99       45.796888        1.236574    87920             CONDAT-SUR-VIENNE
+100       45.723135        1.613460    87130                 NEUVIC-ENTIER
+101       45.993032        1.274433    87140                   COMPREIGNAC
+102       45.628507        1.584958    87130      LA CROISILLE-SUR-BRIANCE
+103       45.628027        0.796582    87440                        MARVAL
+104       45.704344        1.090860    87230                     FLAVIGNAC
+105       45.695309        1.358070    87260               PIERRE-BUFFIERE
+106       46.214455        1.081643    87210                      LE DORAT
+107       45.509610        1.326290    87500              COUSSAC-BONNEVAL
+108       45.719274        1.831592    87120                         NEDDE

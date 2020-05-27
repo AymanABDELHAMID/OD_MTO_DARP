@@ -1,0 +1,192 @@
+95 77
+  0       49.054824        2.683399    77230            DAMMARTIN-EN-GOELE 
+  1       49.010494        2.831828    77122                      MONTHYON
+  2       48.847068        2.823803    77700         BAILLY-ROMAINVILLIERS
+  3       48.521713        2.558354    77310                        PRINGY
+  4       48.237581        2.901267    77710       LORREZ-LE-BOCAGE-PREAUX
+  5       48.266196        2.681118    77140      SAINT-PIERRE-LES-NEMOURS
+  6       48.862993        2.814889    77700               MAGNY-LE-HONGRE
+  7       48.563482        2.738782    77950                      MOISENAY
+  8       48.780643        3.305490    77320              LA FERTE-GAUCHER
+  9       48.549769        2.701063    77950                        MAINCY
+ 10       48.886866        2.828400    77450                        MONTRY
+ 11       48.958039        2.947058    77470                      TRILPORT
+ 12       48.827918        2.659396    77183             CROISSY-BEAUBOURG
+ 13       48.836583        2.672032    77090                     COLLEGIEN
+ 14       48.684710        2.668597    77166                 GRISY-SUISNES
+ 15       48.684710        2.668597    77166                 GRISY-SUISNES
+ 16       48.447193        2.603497    77630                      BARBIZON
+ 17       48.714291        2.736321    77220               PRESLES-EN-BRIE
+ 18       48.958039        2.947058    77470                      TRILPORT
+ 19       48.610984        2.888184    77720                       MORMANT
+ 20       48.872960        2.713016    77400               LAGNY-SUR-MARNE
+ 21       48.883901        2.860112    77860        COUILLY-PONT-AUX-DAMES
+ 22       48.399431        2.797807    77430           CHAMPAGNE-SUR-SEINE
+ 23       48.914918        3.189882    77750           SAINT-CYR-SUR-MORIN
+ 24       48.387036        3.035295    77130            MAROLLES-SUR-SEINE
+ 25       48.665159        3.128617    77970                JOUY-LE-CHATEL
+ 26       48.373156        2.496133    77123               NOISY-SUR-ECOLE
+ 27       48.387036        3.035295    77130            MAROLLES-SUR-SEINE
+ 28       48.373347        2.816429    77250               MORET-SUR-LOING
+ 29       48.511018        2.684786    77000               LIVRY-SUR-SEINE
+ 30       48.657948        2.717903    77111                        SOLERS
+ 31       48.648117        2.960128    77540                     COURPALAY
+ 32       48.836571        2.632738    77185                        LOGNES
+ 33       48.855923        2.736783    77600            CHANTELOUP-EN-BRIE
+ 34       48.743921        2.614910    77150                       LESIGNY
+ 35       48.175288        2.871868    77620                     EGREVILLE
+ 36       48.926970        3.130026    77640                       JOUARRE
+ 37       48.799399        2.997246    77515                  FAREMOUTIERS
+ 38       48.885476        2.736248    77400                      DAMPMART
+ 39       49.073912        2.675071    77280                         OTHIS
+ 40       48.637206        2.797427    77390                       GUIGNES
+ 41       48.951404        3.018301    77660   SAINT-JEAN-LES-DEUX-JUMEAUX
+ 42       48.514536        3.247348    77650                   LONGUEVILLE
+ 43       48.231029        2.705274    77167            BAGNEAUX-SUR-LOING
+ 44       48.794900        2.919072    77163                      MORTCERF
+ 45       48.925877        2.720887    77410               ANNET-SUR-MARNE
+ 46       48.977919        3.021093    77440           ARMENTIERES-EN-BRIE
+ 47       48.683832        2.959045    77540                 ROZAY-EN-BRIE
+ 48       48.386235        2.900735    77130            LA GRANDE-PAROISSE
+ 49       48.824685        3.039112    77120                       MOUROUX
+ 50       48.511018        2.684786    77000               LIVRY-SUR-SEINE
+ 51       48.958039        2.947058    77470                      TRILPORT
+ 52       48.985430        2.619156    77290                    MITRY-MORY
+ 53       48.970901        2.761150    77410                        CHARNY
+ 54       49.039423        2.806764    77165               SAINT-SOUPPLETS
+ 55       48.852363        2.709163    77600                    GUERMANTES
+ 56       48.801255        2.607598    77340             PONTAULT-COMBAULT
+ 57       48.786467        3.029800    77515                SAINT-AUGUSTIN
+ 58       48.888098        2.772630    77144                     CHALIFERT
+ 59       48.514536        3.247348    77650                   LONGUEVILLE
+ 60       48.763827        2.671739    77330             OZOIR-LA-FERRIERE
+ 61       48.645057        2.835813    77390              VERNEUIL-L'ETANG
+ 62       48.706897        2.866479    77610             FONTENAY-TRESIGNY
+ 63       48.474568        2.692292    77590                   BOIS-LE-ROI
+ 64       48.267043        2.692611    77140                       NEMOURS
+ 65       48.543373        2.527307    77310      SAINT-FARGEAU-PONTHIERRY
+ 66       48.852775        2.602651    77420              CHAMPS-SUR-MARNE
+ 67       49.064014        2.603502    77230                MOUSSY-LE-NEUF
+ 68       48.409154        2.784672    77810                       THOMERY
+ 69       48.829078        3.139148    77169              BOISSY-LE-CHATEL
+ 70       48.716815        2.587127    77170                        SERVON
+ 71       48.542105        2.655400    77000                         MELUN
+ 72       48.885476        2.736248    77400                      DAMPMART
+ 73       48.859794        2.905799    77580             CRECY-LA-CHAPELLE
+ 74       48.474568        2.692292    77590                   BOIS-LE-ROI
+ 75       48.881508        2.906443    77580                      BOULEURS
+ 76       48.659608        2.773310    77390             OZOUER-LE-VOULGIS
+ 77       48.877535        2.590160    77500                       CHELLES
+ 78       49.040614        2.702097    77230                    SAINT-MARD
+ 79       48.373156        2.496133    77123               NOISY-SUR-ECOLE
+ 80       48.316069        2.690599    77880                GREZ-SUR-LOING
+ 81       48.452553        3.060868    77520              MONTIGNY-LENCOUP
+ 82       48.657948        2.717903    77111                        SOLERS
+ 83       48.648117        2.960128    77540                     COURPALAY
+ 84       48.316069        2.690599    77880                GREZ-SUR-LOING
+ 85       48.539468        3.349022    77171                       SOURDUN
+ 86       48.862993        2.814889    77700               MAGNY-LE-HONGRE
+ 87       48.237581        2.901267    77710       LORREZ-LE-BOCAGE-PREAUX
+ 88       48.855923        2.736783    77600            CHANTELOUP-EN-BRIE
+ 89       48.387036        3.035295    77130            MAROLLES-SUR-SEINE
+ 90       48.756235        3.057940    77120                        SAINTS
+ 91       48.897805        2.832361    77450         CONDE-SAINTE-LIBIAIRE
+ 92       48.430925        2.764365    77870            VULAINES-SUR-SEINE
+ 93       48.666020        2.557690    77380                COMBS-LA-VILLE
+ 94       48.389259        2.846611    77670     VERNOU-LA-CELLE-SUR-SEINE
+ 95       48.543373        2.527307    77310      SAINT-FARGEAU-PONTHIERRY
+ 96       48.665159        3.128617    77970                JOUY-LE-CHATEL
+ 97       48.365207        2.984569    77130                 CANNES-ECLUSE
+ 98       48.868659        2.688083    77400     SAINT-THIBAULT-DES-VIGNES
+ 99       48.267043        2.692611    77140                       NEMOURS
+100       48.365207        2.984569    77130                 CANNES-ECLUSE
+101       48.504945        2.792095    77820           LE CHATELET-EN-BRIE
+102       48.879679        2.764560    77700                        CHESSY
+103       48.314078        2.568934    77760          LA CHAPELLE-LA-REINE
+104       48.862993        2.814889    77700               MAGNY-LE-HONGRE
+105       48.653547        2.698870    77111            SOIGNOLLES-EN-BRIE
+106       48.944224        2.865699    77124                      VILLENOY
+107       49.025453        3.026478    77440                LIZY-SUR-OURCQ
+108       48.645057        2.835813    77390              VERNEUIL-L'ETANG
+109       48.480117        3.293361    77114                        GOUAIX
+110       48.365207        2.984569    77130                 CANNES-ECLUSE
+111       48.474568        2.692292    77590                   BOIS-LE-ROI
+112       48.508348        2.662553    77000                   LA ROCHETTE
+113       48.950507        3.130059    77260         LA FERTE-SOUS-JOUARRE
+114       48.915811        2.654012    77410                    VILLEVAUDE
+115       48.542105        2.655400    77000                         MELUN
+116       48.565306        2.613554    77240              VERT-SAINT-DENIS
+117       48.653547        2.698870    77111            SOIGNOLLES-EN-BRIE
+118       48.883881        2.712292    77400            THORIGNY-SUR-MARNE
+119       48.175288        2.871868    77620                     EGREVILLE
+120       48.282085        2.969277    77940                         VOULX
+121       48.267043        2.692611    77140                       NEMOURS
+122       48.562250        2.600995    77240                        CESSON
+123       48.539468        3.349022    77171                       SOURDUN
+124       48.885476        2.736248    77400                      DAMPMART
+125       48.549769        2.701063    77950                        MAINCY
+126       48.449164        2.764798    77850                        HERICY
+127       49.015353        2.705813    77230                        JUILLY
+128       48.376287        2.929185    77130            VARENNES-SUR-SEINE
+129       48.973501        3.150752    77260                      CHAMIGNY
+130       48.447193        2.603497    77630                      BARBIZON
+131       48.683832        2.959045    77540                 ROZAY-EN-BRIE
+132       49.071245        2.818964    77178                       OISSERY
+133       48.850572        2.654472    77200                         TORCY
+134       48.862032        3.341365    77510         VILLENEUVE-SUR-BELLOT
+135       48.266196        2.681118    77140      SAINT-PIERRE-LES-NEMOURS
+136       49.073912        2.675071    77280                         OTHIS
+137       48.474568        2.692292    77590                   BOIS-LE-ROI
+138       48.488211        2.699565    77590                   CHARTRETTES
+139       48.945849        2.688360    77410                 CLAYE-SOUILLY
+140       48.648117        2.960128    77540                     COURPALAY
+141       48.862032        3.341365    77510         VILLENEUVE-SUR-BELLOT
+142       48.558093        2.549623    77240                    SEINE-PORT
+143       48.958039        2.947058    77470                      TRILPORT
+144       48.653547        2.698870    77111            SOIGNOLLES-EN-BRIE
+145       48.756235        3.057940    77120                        SAINTS
+146       48.877535        2.590160    77500                       CHELLES
+147       48.526605        2.571664    77310               BOISSISE-LE-ROI
+148       48.918273        2.603204    77181                       COURTRY
+149       48.847511        2.903784    77580                     VOULANGIS
+150       48.558093        2.549623    77240                    SEINE-PORT
+151       48.928386        2.897243    77100            NANTEUIL-LES-MEAUX
+152       49.025453        3.026478    77440                LIZY-SUR-OURCQ
+153       48.558093        2.549623    77240                    SEINE-PORT
+154       48.477971        3.123497    77520           DONNEMARIE-DONTILLY
+155       48.985430        2.619156    77290                    MITRY-MORY
+156       48.961481        3.208556    77730               SAACY-SUR-MARNE
+157       48.314078        2.568934    77760          LA CHAPELLE-LA-REINE
+158       49.073912        2.675071    77280                         OTHIS
+159       48.558180        2.680726    77950                      RUBELLES
+160       48.852775        2.602651    77420              CHAMPS-SUR-MARNE
+161       48.340508        2.701929    77780              BOURRON-MARLOTTE
+162       48.627158        2.593706    77550               MOISSY-CRAMAYEL
+163       48.657948        2.717903    77111                        SOLERS
+164       48.534031        2.632122    77350              LE MEE-SUR-SEINE
+165       48.756235        3.057940    77120                        SAINTS
+166       48.874927        2.745977    77144                    MONTEVRAIN
+167       48.799399        2.997246    77515                  FAREMOUTIERS
+168       48.665159        3.128617    77970                JOUY-LE-CHATEL
+169       48.763827        2.671739    77330             OZOIR-LA-FERRIERE
+170       48.267043        2.692611    77140                       NEMOURS
+171       48.985430        2.619156    77290                    MITRY-MORY
+172       48.799399        2.997246    77515                  FAREMOUTIERS
+173       49.007185        2.974530    77440         CONGIS-SUR-THEROUANNE
+174       48.671688        2.695835    77170                       COUBERT
+175       48.627158        2.593706    77550               MOISSY-CRAMAYEL
+176       48.977929        2.872952    77124               CREGY-LES-MEAUX
+177       49.039423        2.806764    77165               SAINT-SOUPPLETS
+178       49.007185        2.974530    77440         CONGIS-SUR-THEROUANNE
+179       48.794900        2.919072    77163                      MORTCERF
+180       48.645057        2.835813    77390              VERNEUIL-L'ETANG
+181       48.377846        2.795161    77250            VENEUX-LES-SABLONS
+182       48.821552        2.704747    77164             FERRIERES-EN-BRIE
+183       48.993659        2.945494    77910             GERMIGNY-L'EVEQUE
+184       48.794082        3.273610    77320                JOUY-SUR-MORIN
+185       48.404839        2.720733    77210                          AVON
+186       48.475655        2.555278    77930                       PERTHES
+187       48.665159        3.128617    77970                JOUY-LE-CHATEL
+188       48.844320        2.788231    77700                        SERRIS
+189       48.756235        3.057940    77120                        SAINTS
+190       48.846600        3.231820    77510                        REBAIS

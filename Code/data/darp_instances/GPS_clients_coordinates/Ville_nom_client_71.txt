@@ -1,0 +1,188 @@
+93 71
+  0       46.797538        4.760361    71640                 DRACY-LE-FORT 
+  1       46.711453        4.695011    71390                          BUXY
+  2       46.216867        4.252145    71740 SAINT-MAURICE-LES-CHATEAUNEUF
+  3       46.191133        4.297594    71170           SAINT-IGNY-DE-ROCHE
+  4       46.752402        5.007883    71370   L'ABERGEMENT-SAINTE-COLOMBE
+  5       46.907837        4.200159    71190                         LAIZY
+  6       46.501971        5.068052    71470                       ROMENAY
+  7       46.504376        3.879532    71160                   SAINT-AGNAN
+  8       46.307127        4.483196    71520                        MATOUR
+  9       46.416167        4.814481    71260                        CLESSE
+ 10       46.475635        4.873844    71260                    MONTBELLET
+ 11       46.553871        4.219499    71430                      PALINGES
+ 12       46.755702        4.538290    71210                      ECUISSES
+ 13       46.819131        4.966830    71620                           BEY
+ 14       46.452222        4.120665    71600               PARAY-LE-MONIAL
+ 15       46.645227        4.845733    71240                        LAIVES
+ 16       46.394377        4.805733    71870                         LAIZE
+ 17       46.816079        5.059488    71620        SAINT-MARTIN-EN-BRESSE
+ 18       46.207548        4.338252    71170                  CHAUFFAILLES
+ 19       46.873144        4.292628    71190                         BROYE
+ 20       46.805351        4.427800    71200                    LE CREUSOT
+ 21       46.753878        4.710020    71390                  SAINT-DESERT
+ 22       46.504376        3.879532    71160                   SAINT-AGNAN
+ 23       46.289639        4.332946    71800             VARENNES-SOUS-DUN
+ 24       46.710858        4.875660    71240             VARENNES-LE-GRAND
+ 25       46.790312        4.388880    71710                     MONTCENIS
+ 26       46.634077        5.421617    71580          SAVIGNY-EN-REVERMONT
+ 27       46.290698        4.304268    71800                   LA CLAYETTE
+ 28       46.710858        4.875660    71240             VARENNES-LE-GRAND
+ 29       46.380098        4.856993    71118      SAINT-MARTIN-BELLE-ROCHE
+ 30       46.211321        4.755402    71570       LA CHAPELLE-DE-GUINCHAY
+ 31       46.482182        4.439395    71220          SAINT-BONNET-DE-JOUX
+ 32       46.780764        4.853947    71100              CHALON-SUR-SAONE
+ 33       46.495991        3.964119    71160           LA MOTTE-SAINT-JEAN
+ 34       46.678315        5.250502    71500                   SAINT-USUGE
+ 35       46.868644        4.574028    71490                       COUCHES
+ 36       46.844216        4.864859    71530                VIREY-LE-GRAND
+ 37       46.666521        4.290375    71410           SANVIGNES-LES-MINES
+ 38       46.307127        4.483196    71520                        MATOUR
+ 39       46.443453        4.337165    71120      VENDENESSE-LES-CHAROLLES
+ 40       46.914730        4.793351    71150                     CHAUDENAY
+ 41       46.815321        4.943984    71380                      ALLERIOT
+ 42       46.749539        4.901352    71380                      EPERVANS
+ 43       46.590874        4.886306    71700                         BOYER
+ 44       46.986733        4.385919    71400                         CURGY
+ 45       46.204609        4.118236    71340            FLEURY-LA-MONTAGNE
+ 46       46.396428        4.867522    71260                       SENOZAN
+ 47       46.898833        5.022513    71350           VERDUN-SUR-LE-DOUBS
+ 48       46.287595        4.283864    71800                     BAUDEMONT
+ 49       46.626660        5.178660    71500                        SORNAY
+ 50       46.948772        4.399049    71400                          AUXY
+ 51       46.986733        4.385919    71400                         CURGY
+ 52       46.626660        5.178660    71500                        SORNAY
+ 53       46.662167        4.024522    71130                         UXEAU
+ 54       46.736911        4.839190    71100                        SEVREY
+ 55       46.723303        4.794739    71100                    LA CHARMEE
+ 56       46.397450        4.741706    71960                           IGE
+ 57       46.842983        4.499644    71670      SAINT-PIERRE-DE-VARENNES
+ 58       46.561816        4.911953    71700                       TOURNUS
+ 59       46.173932        4.274216    71170                      COUBLANC
+ 60       46.662167        4.024522    71130                         UXEAU
+ 61       46.532705        4.027810    71160              RIGNY-SUR-ARROUX
+ 62       46.376678        4.734818    71960                         VERZE
+ 63       46.892475        4.619794    71510         SAINT-SERNIN-DU-PLAIN
+ 64       46.605007        4.300444    71420                 CIRY-LE-NOBLE
+ 65       46.502219        4.884683    71700                        UCHIZY
+ 66       46.274249        4.041919    71110                      MARCIGNY
+ 67       46.723303        4.794739    71100                    LA CHARMEE
+ 68       46.502219        4.884683    71700                        UCHIZY
+ 69       46.614719        4.663160    71460     SAINT-GENGOUX-LE-NATIONAL
+ 70       46.677595        4.887477    71240                     SAINT-CYR
+ 71       46.501971        5.068052    71470                       ROMENAY
+ 72       46.555134        5.163385    71470            MONTPONT-EN-BRESSE
+ 73       46.830694        4.919847    71530                      SASSENAY
+ 74       46.726182        4.862518    71240        SAINT-LOUP-DE-VARENNES
+ 75       46.533992        4.126531    71430          SAINT-VINCENT-BRAGNY
+ 76       46.769682        4.452304    71210                         TORCY
+ 77       46.274249        4.041919    71110                      MARCIGNY
+ 78       46.638739        4.869180    71240             SENNECEY-LE-GRAND
+ 79       46.866508        4.184337    71190              ETANG-SUR-ARROUX
+ 80       46.575632        4.963324    71290       L'ABERGEMENT-DE-CUISERY
+ 81       46.846061        4.635480    71510        SAINT-LEGER-SUR-DHEUNE
+ 82       46.323954        4.377125    71800                        GIBLES
+ 83       46.666521        4.290375    71410           SANVIGNES-LES-MINES
+ 84       46.471672        4.809820    71260                         LUGNY
+ 85       46.552712        5.293238    71580                    FRONTENAUD
+ 86       46.480798        3.979376    71160                        DIGOIN
+ 87       46.705617        5.050758    71370       SAINT-ETIENNE-EN-BRESSE
+ 88       46.173932        4.274216    71170                      COUBLANC
+ 89       46.748342        4.469799    71210                    MONTCHANIN
+ 90       46.628291        5.223371    71500                       LOUHANS
+ 91       46.435442        4.277004    71120                     CHAROLLES
+ 92       46.384181        4.129591    71600                       POISSON
+ 93       46.485997        4.118856    71600         SAINT-LEGER-LES-PARAY
+ 94       46.783070        4.742663    71640                         GIVRY
+ 95       46.662167        4.024522    71130                         UXEAU
+ 96       46.211321        4.755402    71570       LA CHAPELLE-DE-GUINCHAY
+ 97       46.482182        4.439395    71220          SAINT-BONNET-DE-JOUX
+ 98       46.482182        4.439395    71220          SAINT-BONNET-DE-JOUX
+ 99       46.660141        4.746720    71940             MESSEY-SUR-GROSNE
+100       46.207548        4.338252    71170                  CHAUFFAILLES
+101       46.706553        4.293914    71300   SAINT-BERAIN-SOUS-SANVIGNES
+102       46.290698        4.304268    71800                   LA CLAYETTE
+103       46.678630        5.110262    71440                       MONTRET
+104       46.204609        4.118236    71340            FLEURY-LA-MONTAGNE
+105       46.532705        4.027810    71160              RIGNY-SUR-ARROUX
+106       46.795408        4.482510    71670                     LE BREUIL
+107       46.736266        4.514091    71210       SAINT-LAURENT-D'ANDENAY
+108       46.634077        5.421617    71580          SAVIGNY-EN-REVERMONT
+109       46.323954        4.377125    71800                        GIBLES
+110       46.335943        4.689855    71960                    PIERRECLOS
+111       46.335943        4.689855    71960                    PIERRECLOS
+112       46.706553        4.293914    71300   SAINT-BERAIN-SOUS-SANVIGNES
+113       46.793923        4.810669    71880             CHATENOY-LE-ROYAL
+114       46.710858        4.875660    71240             VARENNES-LE-GRAND
+115       46.706553        4.293914    71300   SAINT-BERAIN-SOUS-SANVIGNES
+116       46.533992        4.126531    71430          SAINT-VINCENT-BRAGNY
+117       46.443453        4.337165    71120      VENDENESSE-LES-CHAROLLES
+118       46.601313        4.064993    71130                      GUEUGNON
+119       46.819504        4.883329    71530                       CRISSEY
+120       46.212329        4.019515    71340                         MELAY
+121       46.500713        5.298266    71480        DOMMARTIN-LES-CUISEAUX
+122       46.605007        4.300444    71420                 CIRY-LE-NOBLE
+123       46.501971        5.068052    71470                       ROMENAY
+124       46.703406        4.981557    71370        SAINT-GERMAIN-DU-PLAIN
+125       46.482034        5.241973    71480        VARENNES-SAINT-SAUVEUR
+126       46.309859        4.800459    71850             CHARNAY-LES-MACON
+127       46.793923        4.810669    71880             CHATENOY-LE-ROYAL
+128       46.613958        4.216298    71420            PERRECY-LES-FORGES
+129       46.873144        4.292628    71190                         BROYE
+130       46.553871        4.219499    71430                      PALINGES
+131       47.014483        4.336544    71400              DRACY-SAINT-LOUP
+132       46.416167        4.814481    71260                        CLESSE
+133       46.839563        4.330518    71710  SAINT-SYMPHORIEN-DE-MARMAGNE
+134       47.009575        4.471323    71360                         SULLY
+135       46.561816        4.911953    71700                       TOURNUS
+136       46.626660        5.178660    71500                        SORNAY
+137       46.898833        5.022513    71350           VERDUN-SUR-LE-DOUBS
+138       46.495991        3.964119    71160           LA MOTTE-SAINT-JEAN
+139       46.306884        4.828731    71000                         MACON
+140       46.626660        5.178660    71500                        SORNAY
+141       46.480798        3.979376    71160                        DIGOIN
+142       46.502219        4.884683    71700                        UCHIZY
+143       46.842983        4.499644    71670      SAINT-PIERRE-DE-VARENNES
+144       46.726182        4.862518    71240        SAINT-LOUP-DE-VARENNES
+145       46.790312        4.388880    71710                     MONTCENIS
+146       46.605007        4.300444    71420                 CIRY-LE-NOBLE
+147       46.500713        5.298266    71480        DOMMARTIN-LES-CUISEAUX
+148       46.698034        4.390612    71450                        BLANZY
+149       46.674985        3.912739    71760                         GRURY
+150       46.707913        3.974004    71760                 ISSY-L'EVEQUE
+151       46.886679        5.260945    71270              PIERRE-DE-BRESSE
+152       46.212329        4.019515    71340                         MELAY
+153       46.480798        3.979376    71160                        DIGOIN
+154       46.504376        3.879532    71160                   SAINT-AGNAN
+155       46.678315        5.250502    71500                   SAINT-USUGE
+156       46.435442        4.277004    71120                     CHAROLLES
+157       46.588957        3.932949    71130              NEUVY-GRANDCHAMP
+158       46.623904        4.987655    71290                      SIMANDRE
+159       46.323954        4.377125    71800                        GIBLES
+160       46.346792        4.719113    71960              LA ROCHE-VINEUSE
+161       46.769418        4.828658    71100                    SAINT-REMY
+162       46.703406        4.981557    71370        SAINT-GERMAIN-DU-PLAIN
+163       46.830817        4.468812    71670                  SAINT-FIRMIN
+164       46.774774        4.888295    71380                  SAINT-MARCEL
+165       46.428968        4.664555    71250                         CLUNY
+166       46.986733        4.385919    71400                         CURGY
+167       46.706553        4.293914    71300   SAINT-BERAIN-SOUS-SANVIGNES
+168       46.239010        4.294037    71170            CHASSIGNY-SOUS-DUN
+169       46.986733        4.385919    71400                         CURGY
+170       46.532705        4.027810    71160              RIGNY-SUR-ARROUX
+171       46.950914        4.301565    71400                         AUTUN
+172       46.645227        4.845733    71240                        LAIVES
+173       46.833678        4.721637    71640                      MERCUREY
+174       46.428968        4.664555    71250                         CLUNY
+175       46.791875        4.915302    71380            CHATENOY-EN-BRESSE
+176       46.914730        4.793351    71150                     CHAUDENAY
+177       46.595756        5.235404    71500                     BRUAILLES
+178       46.721936        4.953158    71370              OUROUX-SUR-SAONE
+179       46.207548        4.338252    71170                  CHAUFFAILLES
+180       46.868644        4.574028    71490                       COUCHES
+181       46.290698        4.304268    71800                   LA CLAYETTE
+182       46.967535        4.142665    71990            LA GRANDE-VERRIERE
+183       46.443453        4.337165    71120      VENDENESSE-LES-CHAROLLES
+184       46.907172        4.762980    71133        SAINT-LOUP-DE-LA-SALLE
+185       46.598348        3.848030    71140                      CHALMOUX
+186       46.662167        4.024522    71130                         UXEAU

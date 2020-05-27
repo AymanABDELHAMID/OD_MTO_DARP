@@ -1,0 +1,36 @@
+17 92
+  0       48.847647        2.208115    92210                   SAINT-CLOUD 
+  1       48.780426        2.266257    92350           LE PLESSIS-ROBINSON
+  2       48.780426        2.266257    92350           LE PLESSIS-ROBINSON
+  3       48.780426        2.266257    92350           LE PLESSIS-ROBINSON
+  4       48.759255        2.302553    92160                        ANTONY
+  5       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+  6       48.925525        2.293275    92230                 GENNEVILLIERS
+  7       48.824531        2.274342    92130           ISSY-LES-MOULINEAUX
+  8       48.780426        2.266257    92350           LE PLESSIS-ROBINSON
+  9       48.759255        2.302553    92160                        ANTONY
+ 10       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+ 11       48.808026        2.192418    92370                      CHAVILLE
+ 12       48.900552        2.259290    92400                    COURBEVOIE
+ 13       48.822936        2.181255    92410                 VILLE-D'AVRAY
+ 14       48.922061        2.253331    92700                      COLOMBES
+ 15       48.922061        2.253331    92700                      COLOMBES
+ 16       48.771896        2.270748    92290              CHATENAY-MALABRY
+ 17       48.925525        2.293275    92230                 GENNEVILLIERS
+ 18       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+ 19       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+ 20       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+ 21       48.925525        2.293275    92230                 GENNEVILLIERS
+ 22       48.780426        2.266257    92350           LE PLESSIS-ROBINSON
+ 23       48.759255        2.302553    92160                        ANTONY
+ 24       48.892423        2.215331    92000                      NANTERRE
+ 25       48.936616        2.324789    92390         VILLENEUVE-LA-GARENNE
+ 26       48.925525        2.293275    92230                 GENNEVILLIERS
+ 27       48.771896        2.270748    92290              CHATENAY-MALABRY
+ 28       48.904526        2.304768    92110                        CLICHY
+ 29       48.816363        2.317384    92120                     MONTROUGE
+ 30       48.780454        2.316374    92340                BOURG-LA-REINE
+ 31       48.822484        2.288405    92170                        VANVES
+ 32       48.846066        2.188703    92380                       GARCHES
+ 33       48.906535        2.244085    92250           LA GARENNE-COLOMBES
+ 34       48.759255        2.302553    92160                        ANTONY

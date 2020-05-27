@@ -1,0 +1,198 @@
+98 91
+  0       48.639013        2.285823    91310             LONGPONT-SUR-ORGE 
+  1       48.566984        2.271401    91630                    GUIBEVILLE
+  2       48.705134        2.310271    91380                CHILLY-MAZARIN
+  3       48.357909        2.150776    91690           FONTAINE-LA-RIVIERE
+  4       48.451340        1.957380    91410              AUTHON-LA-PLAINE
+  5       48.725782        2.125206    91190             VILLIERS-LE-BACLE
+  6       48.672428        2.068394    91470                  LES MOLIERES
+  7       48.437736        2.353441    91820            VAYRES-SUR-ESSONNE
+  8       48.720171        2.461891    91560                        CROSNE
+  9       48.624360        2.123584    91640             BRIIS-SOUS-FORGES
+ 10       48.603098        2.120103    91640                  VAUGRIGNEUSE
+ 11       48.550836        2.366759    91710                 VERT-LE-PETIT
+ 12       48.530867        2.226808    91730                        TORFOU
+ 13       48.369762        2.234933    91150                   BOIS-HERPIN
+ 14       48.676402        2.046128    91470             BOULLAY-LES-TROUX
+ 15       48.374862        2.201659    91150            MAROLLES-EN-BEAUCE
+ 16       48.693052        2.515825    91860            EPINAY-SOUS-SENART
+ 17       48.630742        2.366750    91700                FLEURY-MEROGIS
+ 18       48.581874        2.125295    91530    SAINT-MAURICE-MONTCOURONNE
+ 19       48.349935        1.993903    91740                        PUSSAY
+ 20       48.514059        2.123585    91580                    VILLECONIN
+ 21       48.481582        2.348072    91590                LA FERTE-ALAIS
+ 22       48.659906        2.329818    91360         VILLEMOISSON-SUR-ORGE
+ 23       48.492306        2.359720    91590                        BAULNE
+ 24       48.713076        2.146325    91190                   SAINT-AUBIN
+ 25       48.529171        2.015255    91410                       DOURDAN
+ 26       48.698071        2.504543    91800                        BRUNOY
+ 27       48.712858        2.490967    91330                        YERRES
+ 28       48.624360        2.123584    91640             BRIIS-SOUS-FORGES
+ 29       48.596242        2.492901    91250             SAINTRY-SUR-SEINE
+ 30       48.754517        2.214436    91570                       BIEVRES
+ 31       48.540321        2.178774    91910     SAINT-SULPICE-DE-FAVIERES
+ 32       48.514059        2.123585    91580                    VILLECONIN
+ 33       48.659906        2.329818    91360         VILLEMOISSON-SUR-ORGE
+ 34       48.746318        2.266838    91370          VERRIERES-LE-BUISSON
+ 35       48.612300        2.495200    91280        SAINT-PIERRE-DU-PERRAY
+ 36       48.737530        2.222863    91430                          IGNY
+ 37       48.709298        2.384790    91200                    ATHIS-MONS
+ 38       48.503453        2.019845    91410            LES GRANGES-LE-ROI
+ 39       48.754517        2.214436    91570                       BIEVRES
+ 40       48.528751        2.197565    91730                     MAUCHAMPS
+ 41       48.566784        2.434436    91540                       MENNECY
+ 42       48.570058        2.404385    91540                      ECHARCON
+ 43       48.638324        2.271502    91310                     MONTLHERY
+ 44       48.708249        2.277442    91160                      CHAMPLAN
+ 45       48.360987        2.126845    91690                        SACLAS
+ 46       48.581874        2.125295    91530    SAINT-MAURICE-MONTCOURONNE
+ 47       48.356927        2.373934    91720            PRUNAY-SUR-ESSONNE
+ 48       48.346479        2.167515    91150          ABBEVILLE-LA-RIVIERE
+ 49       48.708249        2.277442    91160                      CHAMPLAN
+ 50       48.645465        2.077934    91470                       LIMOURS
+ 51       48.746318        2.266838    91370          VERRIERES-LE-BUISSON
+ 52       48.536670        2.080612    91530                      SERMAISE
+ 53       48.514297        2.339731    91760                     ITTEVILLE
+ 54       48.381548        2.475284    91490                ONCY-SUR-ECOLE
+ 55       48.357909        2.150776    91690           FONTAINE-LA-RIVIERE
+ 56       48.581682        2.260709    91290                   OLLAINVILLE
+ 57       48.628213        2.099319    91470              FORGES-LES-BAINS
+ 58       48.610260        2.474805    91100              CORBEIL-ESSONNES
+ 59       48.495968        1.960147    91410                     CORBREUSE
+ 60       48.372270        2.380786    91720        GIRONVILLE-SUR-ESSONNE
+ 61       48.678501        2.559778    91480                VARENNES-JARCY
+ 62       48.676402        2.046128    91470             BOULLAY-LES-TROUX
+ 63       48.556569        2.209448    91790         BOISSY-SOUS-SAINT-YON
+ 64       48.547372        2.399658    91540           FONTENAY-LE-VICOMTE
+ 65       48.703859        2.460453    91230                     MONTGERON
+ 66       48.701844        2.134078    91190                GIF-SUR-YVETTE
+ 67       48.475380        2.328345    91590                         CERNY
+ 68       48.619736        2.155453    91640            FONTENAY-LES-BRIIS
+ 69       48.580216        2.222247    91520                          EGLY
+ 70       48.426587        2.067146    91780              CHALO-SAINT-MARS
+ 71       48.448853        2.296942    91590                        ORVEAU
+ 72       48.503453        2.019845    91410            LES GRANGES-LE-ROI
+ 73       48.342977        2.321098    91150                  CHAMPMOTTEUX
+ 74       48.685388        2.408154    91210                       DRAVEIL
+ 75       48.703859        2.460453    91230                     MONTGERON
+ 76       48.440386        2.474827    91490                     COURANCES
+ 77       48.645663        2.410451    91130                   RIS-ORANGIS
+ 78       48.452186        2.474807    91490                     DANNEMOIS
+ 79       48.682353        2.236585    91140                     VILLEJUST
+ 80       48.403304        2.468334    91490                MILLY-LA-FORET
+ 81       48.576140        2.446631    91540                         ORMOY
+ 82       48.473095        2.355061    91590       GUIGNEVILLE-SUR-ESSONNE
+ 83       48.404081        2.149163    91150              ORMOY-LA-RIVIERE
+ 84       48.712858        2.490967    91330                        YERRES
+ 85       48.697161        2.189617    91400                         ORSAY
+ 86       48.547175        2.275989    91630                 CHEPTAINVILLE
+ 87       48.678501        2.559778    91480                VARENNES-JARCY
+ 88       48.433029        2.457289    91490              MOIGNY-SUR-ECOLE
+ 89       48.475380        2.328345    91590                         CERNY
+ 90       48.645465        2.077934    91470                       LIMOURS
+ 91       48.541698        2.334588    91770                   SAINT-VRAIN
+ 92       48.452677        2.056351    91150                BOUTERVILLIERS
+ 93       48.619736        2.155453    91640            FONTENAY-LES-BRIIS
+ 94       48.530867        2.226808    91730                        TORFOU
+ 95       48.701844        2.134078    91190                GIF-SUR-YVETTE
+ 96       48.647665        2.153917    91640                        JANVRY
+ 97       48.503453        2.019845    91410            LES GRANGES-LE-ROI
+ 98       48.394299        2.377065    91720                        MAISSE
+ 99       48.703859        2.460453    91230                     MONTGERON
+100       48.503453        2.019845    91410            LES GRANGES-LE-ROI
+101       48.515058        2.445028    91750                    CHAMPCUEIL
+102       48.374862        2.201659    91150            MAROLLES-EN-BEAUCE
+103       48.638324        2.271502    91310                     MONTLHERY
+104       48.360418        2.388372    91720                BUNO-BONNEVAUX
+105       48.561400        2.177900    91650                    BREUX-JOUY
+106       48.628213        2.099319    91470              FORGES-LES-BAINS
+107       48.490269        2.416144    91590                    MONDEVILLE
+108       48.524552        2.388169    91610       BALLANCOURT-SUR-ESSONNE
+109       48.342037        2.161541    91690                    ARRANCOURT
+110       48.649862        2.453747    91450               SOISY-SUR-SEINE
+111       48.474968        2.497111    91840               SOISY-SUR-ECOLE
+112       48.404081        2.149163    91150              ORMOY-LA-RIVIERE
+113       48.720171        2.461891    91560                        CROSNE
+114       48.593388        2.192499    91680            BRUYERES-LE-CHATEL
+115       48.433465        2.075920    91780                 SAINT-HILAIRE
+116       48.360418        2.388372    91720                BUNO-BONNEVAUX
+117       48.437362        2.380786    91820          BOUTIGNY-SUR-ESSONNE
+118       48.754517        2.214436    91570                       BIEVRES
+119       48.692252        2.305675    91160                    LONGJUMEAU
+120       48.372270        2.380786    91720        GIRONVILLE-SUR-ESSONNE
+121       48.628213        2.099319    91470              FORGES-LES-BAINS
+122       48.528751        2.197565    91730                     MAUCHAMPS
+123       48.342037        2.161541    91690                    ARRANCOURT
+124       48.369762        2.234933    91150                   BOIS-HERPIN
+125       48.696893        2.163977    91440              BURES-SUR-YVETTE
+126       48.505248        2.494361    91750          NAINVILLE-LES-ROCHES
+127       48.451340        1.957380    91410              AUTHON-LA-PLAINE
+128       48.315970        2.093772    91660                     MEREVILLE
+129       48.597094        2.425046    91090                        LISSES
+130       48.360418        2.388372    91720                BUNO-BONNEVAUX
+131       48.645389        2.503193    91250                        TIGERY
+132       48.464707        2.431015    91890                      VIDELLES
+133       48.746318        2.266838    91370          VERRIERES-LE-BUISSON
+134       48.444976        2.005134    91410         PLESSIS-SAINT-BENOIST
+135       48.384305        2.230060    91150         LA FORET-SAINTE-CROIX
+136       48.474968        2.497111    91840               SOISY-SUR-ECOLE
+137       48.642446        2.229881    91460                    MARCOUSSIS
+138       48.624360        2.123584    91640             BRIIS-SOUS-FORGES
+139       48.429887        1.966988    91410               SAINT-ESCOBILLE
+140       48.346479        2.167515    91150          ABBEVILLE-LA-RIVIERE
+141       48.426587        2.067146    91780              CHALO-SAINT-MARS
+142       48.313335        2.257042    91150                        BLANDY
+143       48.730843        2.327825    91320                       WISSOUS
+144       48.346163        2.043955    91930                   MONNERVILLE
+145       48.381548        2.475284    91490                ONCY-SUR-ECOLE
+146       48.563310        2.042710    91410        SAINT-CYR-SOUS-DOURDAN
+147       48.346163        2.043955    91930                   MONNERVILLE
+148       48.446833        2.181743    91150             MORIGNY-CHAMPIGNY
+149       48.356353        2.241260    91150                  ROINVILLIERS
+150       48.705134        2.310271    91380                CHILLY-MAZARIN
+151       48.671414        2.126976    91400               GOMETZ-LA-VILLE
+152       48.566784        2.434436    91540                       MENNECY
+153       48.473095        2.355061    91590       GUIGNEVILLE-SUR-ESSONNE
+154       48.417170        2.378623    91720      COURDIMANCHE-SUR-ESSONNE
+155       48.685388        2.408154    91210                       DRAVEIL
+156       48.416447        2.004958    91780                      MEROBERT
+157       48.593388        2.192499    91680            BRUYERES-LE-CHATEL
+158       48.629828        2.441782    91000                          EVRY
+159       48.540321        2.178774    91910     SAINT-SULPICE-DE-FAVIERES
+160       48.433029        2.457289    91490              MOIGNY-SUR-ECOLE
+161       48.403304        2.468334    91490                MILLY-LA-FORET
+162       48.645465        2.077934    91470                       LIMOURS
+163       48.734116        2.207353    91430                     VAUHALLAN
+164       48.349935        1.993903    91740                        PUSSAY
+165       48.659906        2.329818    91360         VILLEMOISSON-SUR-ORGE
+166       48.433029        2.457289    91490              MOIGNY-SUR-ECOLE
+167       48.576140        2.446631    91540                         ORMOY
+168       48.629828        2.441782    91000                          EVRY
+169       48.645465        2.077934    91470                       LIMOURS
+170       48.736680        2.180034    91400                        SACLAY
+171       48.703859        2.460453    91230                     MONTGERON
+172       48.416447        2.004958    91780                      MEROBERT
+173       48.446833        2.181743    91150             MORIGNY-CHAMPIGNY
+174       48.576140        2.446631    91540                         ORMOY
+175       48.385218        1.990539    91740        CONGERVILLE-THIONVILLE
+176       48.693052        2.515825    91860            EPINAY-SOUS-SENART
+177       48.404684        2.262666    91150            PUISELET-LE-MARAIS
+178       48.634545        2.477730    91450                      ETIOLLES
+179       48.469709        2.002233    91410                   RICHARVILLE
+180       48.642943        2.326838    91700     SAINTE-GENEVIEVE-DES-BOIS
+181       48.566784        2.434436    91540                       MENNECY
+182       48.364606        2.102564    91690                    GUILLERVAL
+183       48.360987        2.126845    91690                        SACLAS
+184       48.451340        1.957380    91410              AUTHON-LA-PLAINE
+185       48.364606        2.102564    91690                    GUILLERVAL
+186       48.592720        2.055701    91470                 ANGERVILLIERS
+187       48.451340        1.957380    91410              AUTHON-LA-PLAINE
+188       48.474380        2.248821    91580         VILLENEUVE-SUR-AUVERS
+189       48.646663        2.050281    91470                     PECQUEUSE
+190       48.570649        2.493202    91250             MORSANG-SUR-SEINE
+191       48.360987        2.126845    91690                        SACLAS
+192       48.734116        2.207353    91430                     VAUHALLAN
+193       48.514297        2.339731    91760                     ITTEVILLE
+194       48.457707        2.139139    91150           BRIERES-LES-SCELLES
+195       48.437736        2.353441    91820            VAYRES-SUR-ESSONNE
+196       48.659906        2.329818    91360         VILLEMOISSON-SUR-ORGE

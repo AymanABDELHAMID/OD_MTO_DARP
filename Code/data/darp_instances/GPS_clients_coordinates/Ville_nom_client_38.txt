@@ -1,0 +1,206 @@
+102 38
+  0       45.497453        4.907733    38200                        JARDIN 
+  1       45.301399        5.995832    38570                         THEYS
+  2       45.362713        5.591349    38500                        VOIRON
+  3       45.247122        5.851492    38330       SAINT-NAZAIRE-LES-EYMES
+  4       45.091900        5.903100    38220                LIVET-ET-GAVET
+  5       45.180049        5.791127    38610                        GIERES
+  6       45.154119        5.319938    38160               SAINT-MARCELLIN
+  7       45.375223        5.949012    38660      SAINT-VINCENT-DE-MERCUZE
+  8       45.559621        4.845204    38200                      SEYSSUEL
+  9       45.394486        6.075192    38580                      ALLEVARD
+ 10       45.152198        5.838325    38410         SAINT-MARTIN-D'URIAGE
+ 11       45.205168        5.737805    38700                    LA TRONCHE
+ 12       45.671435        5.408187    38510                     SERMERIEU
+ 13       45.426194        4.816134    38550          AUBERIVES-SUR-VAREZE
+ 14       45.380069        5.540486    38140                    LA MURETTE
+ 15       45.587724        5.318858    38300                           RUY
+ 16       45.279197        5.540742    38210       SAINT-QUENTIN-SUR-ISERE
+ 17       45.516941        4.962637    38780                     ESTRABLIN
+ 18       45.183000        5.697000    38170             SEYSSINET-PARISET
+ 19       45.219563        5.762243    38700                        CORENC
+ 20       45.338665        5.051976    38270                   BEAUREPAIRE
+ 21       45.328286        5.261482    38870     SAINT-SIMEON-DE-BRESSIEUX
+ 22       45.573257        5.479063    38110        SAINT-CLAIR-DE-LA-TOUR
+ 23       45.173446        5.332609    38160                  SAINT-VERAND
+ 24       45.536729        5.106571    38790                  CHARANTONNAY
+ 25       45.318707        4.821830    38150                        CHANAS
+ 26       45.397062        4.774320    38550          SAINT-MAURICE-L'EXIL
+ 27       45.362713        5.591349    38500                        VOIRON
+ 28       45.225380        5.801707    38330       MONTBONNOT-SAINT-MARTIN
+ 29       45.428551        5.515649    38850                    CHARAVINES
+ 30       45.225380        5.801707    38330       MONTBONNOT-SAINT-MARTIN
+ 31       45.649430        5.182883    38290                     FRONTONAS
+ 32       45.584768        5.466639    38110        LA CHAPELLE-DE-LA-TOUR
+ 33       45.570127        5.639915    38480                     ROMAGNIEU
+ 34       45.553236        5.004411    38780                       SEPTEME
+ 35       45.238732        5.888011    38190                VILLARD-BONNOT
+ 36       45.170301        5.723451    38100                      GRENOBLE
+ 37       45.241585        5.802574    38330                       BIVIERS
+ 38       45.326168        5.564722    38430                       MOIRANS
+ 39       45.192754        5.688211    38600                      FONTAINE
+ 40       45.586267        5.004265    38540         SAINT-JUST-CHALEYSSIN
+ 41       45.139000        5.793397    38320                       HERBEYS
+ 42       45.298156        5.637517    38340                       VOREPPE
+ 43       45.318443        4.773282    38550                       SABLONS
+ 44       45.394486        6.075192    38580                      ALLEVARD
+ 45       45.440549        4.774471    38370          SAINT-CLAIR-DU-RHONE
+ 46       45.757875        5.218223    38460      SAINT-ROMAIN-DE-JALIONAS
+ 47       45.580024        5.528787    38110           LA BATIE-MONTGASCON
+ 48       45.585321        4.878611    38200                     CHUZELLES
+ 49       45.026887        5.643830    38450                        LE GUA
+ 50       45.192754        5.688211    38600                      FONTAINE
+ 51       45.553236        5.004411    38780                       SEPTEME
+ 52       45.587509        4.962069    38200                       LUZINAY
+ 53       45.746233        5.161867    38230           CHARVIEU-CHAVAGNEUX
+ 54       45.119944        5.672925    38640                         CLAIX
+ 55       45.375223        5.949012    38660      SAINT-VINCENT-DE-MERCUZE
+ 56       45.173446        5.332609    38160                  SAINT-VERAND
+ 57       45.077318        5.772412    38220                       VIZILLE
+ 58       45.165133        5.767761    38400          SAINT-MARTIN-D'HERES
+ 59       45.139000        5.793397    38320                       HERBEYS
+ 60       45.279197        5.540742    38210       SAINT-QUENTIN-SUR-ISERE
+ 61       45.648635        5.245341    38080      SAINT-MARCEL-BEL-ACCUEIL
+ 62       45.636822        5.143259    38290                LA VERPILLIERE
+ 63       45.433287        5.752113    38380             ENTRE-DEUX-GUIERS
+ 64       45.693133        5.130384    38290              SATOLAS-ET-BONCE
+ 65       45.414277        4.790390    38550             CLONAS-SUR-VAREZE
+ 66       44.961914        5.743295    38770          LA MOTTE-D'AVEILLANS
+ 67       45.318707        4.821830    38150                        CHANAS
+ 68       45.607573        5.545250    38630                      CORBELIN
+ 69       45.399063        5.502121    38140                       APPRIEU
+ 70       45.749455        5.171574    38230                PONT-DE-CHERUY
+ 71       45.123218        5.697820    38800              LE PONT-DE-CLAIX
+ 72       45.570127        5.639915    38480                     ROMAGNIEU
+ 73       45.530442        4.912872    38780                   PONT-EVEQUE
+ 74       45.463600        5.991700    38530                  CHAPAREILLAN
+ 75       45.380069        5.540486    38140                    LA MURETTE
+ 76       45.344334        4.817731    38150             SALAISE-SUR-SANNE
+ 77       45.279197        5.540742    38210       SAINT-QUENTIN-SUR-ISERE
+ 78       45.111900        5.760700    38560                        JARRIE
+ 79       45.724470        5.250429    38460                       CREMIEU
+ 80       45.209786        5.777628    38240                        MEYLAN
+ 81       45.183000        5.697000    38170             SEYSSINET-PARISET
+ 82       45.119944        5.672925    38640                         CLAIX
+ 83       45.585654        5.245303    38300                       DOMARIN
+ 84       45.247122        5.851492    38330       SAINT-NAZAIRE-LES-EYMES
+ 85       45.091900        5.903100    38220                LIVET-ET-GAVET
+ 86       45.091900        5.903100    38220                LIVET-ET-GAVET
+ 87       45.414572        5.556072    38850                       CHIRENS
+ 88       44.906521        5.784528    38350                       LA MURE
+ 89       45.588444        5.089859    38790                        DIEMOZ
+ 90       45.319827        5.520318    38210                        VOUREY
+ 91       45.443943        5.429306    38690                       CHABONS
+ 92       45.558870        4.917743    38200                      SERPAIZE
+ 93       45.370801        5.992381    38570                    LE CHEYLAS
+ 94       45.241585        5.802574    38330                       BIVIERS
+ 95       45.306444        5.911198    38660                        LUMBIN
+ 96       45.746233        5.161867    38230           CHARVIEU-CHAVAGNEUX
+ 97       45.248534        5.828113    38330                  SAINT-ISMIER
+ 98       45.432395        6.020171    38530                    PONTCHARRA
+ 99       45.176098        5.542716    38880                       AUTRANS
+100       45.398865        5.454838    38690                       COLOMBE
+101       45.613538        5.150093    38090                 VILLEFONTAINE
+102       45.038556        5.701130    38450     SAINT-GEORGES-DE-COMMIERS
+103       45.380069        5.540486    38140                    LA MURETTE
+104       45.398865        5.454838    38690                       COLOMBE
+105       45.387910        5.734248    38380         SAINT-LAURENT-DU-PONT
+106       45.119296        5.811073    38410            VAULNAVEYS-LE-HAUT
+107       45.326168        5.564722    38430                       MOIRANS
+108       45.316428        5.204104    38980                     VIRIVILLE
+109       45.142694        5.283572    38160                        CHATTE
+110       45.564026        5.445327    38110                LA TOUR-DU-PIN
+111       45.308568        5.878200    38660                 SAINT-HILAIRE
+112       45.333443        5.485097    38140                        RENAGE
+113       45.399063        5.502121    38140                       APPRIEU
+114       45.398259        5.419967    38690                LE GRAND-LEMPS
+115       45.345836        5.529236    38140                    CHARNECLES
+116       45.541289        5.391530    38110       SAINT-VICTOR-DE-CESSIEU
+117       45.489463        5.591543    38620                    MONTFERRAT
+118       45.339389        5.343840    38590 SAINT-ETIENNE-DE-SAINT-GEOIRS
+119       45.493334        5.388687    38690                          BIOL
+120       45.338998        5.470438    38140                 BEAUCROISSANT
+121       45.326168        5.564722    38430                       MOIRANS
+122       45.142694        5.283572    38160                        CHATTE
+123       45.650631        5.470497    38510              VEZERONCE-CURTIN
+124       45.512770        5.017243    38440              MOIDIEU-DETOURBE
+125       45.333443        5.485097    38140                        RENAGE
+126       45.558870        4.917743    38200                      SERPAIZE
+127       45.516941        4.962637    38780                     ESTRABLIN
+128       45.393794        5.260022    38260           LA COTE-SAINT-ANDRE
+129       45.623157        5.230115    38080                L'ISLE-D'ABEAU
+130       45.355597        5.616612    38500                     COUBLEVIE
+131       45.273053        5.923776    38190                        FROGES
+132       45.148541        5.345300    38160                 SAINT-SAUVEUR
+133       45.537293        5.585887    38490                    LES ABRETS
+134       45.397062        4.774320    38550          SAINT-MAURICE-L'EXIL
+135       45.587745        4.914658    38200            VILLETTE-DE-VIENNE
+136       45.399063        5.502121    38140                       APPRIEU
+137       45.398865        5.454838    38690                       COLOMBE
+138       45.456129        5.636060    38620      SAINT-GEOIRE-EN-VALDAINE
+139       45.335335        5.620711    38500                     LA BUISSE
+140       45.183000        5.697000    38170             SEYSSINET-PARISET
+141       45.343317        5.977747    38570                      GONCELIN
+142       45.316428        5.204104    38980                     VIRIVILLE
+143       45.650631        5.470497    38510              VEZERONCE-CURTIN
+144       45.148541        5.345300    38160                 SAINT-SAUVEUR
+145       45.559621        4.845204    38200                      SEYSSUEL
+146       45.142151        5.718034    38130                    ECHIROLLES
+147       45.680068        5.168196    38460                    CHAMAGNIEU
+148       45.563968        5.304244    38300              NIVOLAS-VERMELLE
+149       45.525587        4.874339    38200                        VIENNE
+150       45.318707        4.821830    38150                        CHANAS
+151       45.355597        5.616612    38500                     COUBLEVIE
+152       45.387910        5.734248    38380         SAINT-LAURENT-DU-PONT
+153       45.218107        5.860650    38420                    LE VERSOUD
+154       45.397062        4.774320    38550          SAINT-MAURICE-L'EXIL
+155       45.607573        5.545250    38630                      CORBELIN
+156       45.173446        5.332609    38160                  SAINT-VERAND
+157       45.071019        5.756474    38220          NOTRE-DAME-DE-MESAGE
+158       45.752629        5.110822    38280                    JANNEYRIAS
+159       45.595886        5.224136    38300          SAINT-ALBAN-DE-ROCHE
+160       45.119296        5.811073    38410            VAULNAVEYS-LE-HAUT
+161       45.345836        5.529236    38140                    CHARNECLES
+162       44.961914        5.743295    38770          LA MOTTE-D'AVEILLANS
+163       45.686703        5.320582    38460                         TREPT
+164       45.724470        5.250429    38460                       CREMIEU
+165       45.536729        5.106571    38790                  CHARANTONNAY
+166       45.340876        5.580619    38430         SAINT-JEAN-DE-MOIRANS
+167       45.338665        5.051976    38270                   BEAUREPAIRE
+168       45.233131        5.681538    38120                  SAINT-EGREVE
+169       45.100101        5.247660    38840       SAINT-HILAIRE-DU-ROSIER
+170       45.473581        4.998636    38780                   EYZIN-PINET
+171       45.026887        5.643830    38450                        LE GUA
+172       45.323803        5.930623    38660                   LA TERRASSE
+173       45.355597        5.616612    38500                     COUBLEVIE
+174       45.746233        5.161867    38230           CHARVIEU-CHAVAGNEUX
+175       45.318443        4.773282    38550                       SABLONS
+176       45.546873        5.533803    38490            SAINT-ANDRE-LE-GAZ
+177       45.165133        5.767761    38400          SAINT-MARTIN-D'HERES
+178       45.553236        5.004411    38780                       SEPTEME
+179       45.090580        5.682676    38760     VARCES-ALLIERES-ET-RISSET
+180       45.580024        5.528787    38110           LA BATIE-MONTGASCON
+181       45.585654        5.245303    38300                       DOMARIN
+182       45.038556        5.701130    38450     SAINT-GEORGES-DE-COMMIERS
+183       45.355597        5.616612    38500                     COUBLEVIE
+184       45.377152        6.046036    38830       SAINT-PIERRE-D'ALLEVARD
+185       45.343317        5.977747    38570                      GONCELIN
+186       45.091900        5.903100    38220                LIVET-ET-GAVET
+187       45.308568        5.878200    38660                 SAINT-HILAIRE
+188       45.326168        5.564722    38430                       MOIRANS
+189       45.834888        5.398857    38390            PORCIEU-AMBLAGNIEU
+190       45.611431        5.497646    38110                      DOLOMIEU
+191       45.414277        4.790390    38550             CLONAS-SUR-VAREZE
+192       45.693133        5.130384    38290              SATOLAS-ET-BONCE
+193       45.380069        5.540486    38140                    LA MURETTE
+194       45.541289        5.391530    38110       SAINT-VICTOR-DE-CESSIEU
+195       45.308568        5.878200    38660                 SAINT-HILAIRE
+196       45.142694        5.283572    38160                        CHATTE
+197       45.202979        5.716300    38950        SAINT-MARTIN-LE-VINOUX
+198       45.541289        5.391530    38110       SAINT-VICTOR-DE-CESSIEU
+199       45.279197        5.540742    38210       SAINT-QUENTIN-SUR-ISERE
+200       45.485926        5.205921    38440                     CHATONNAY
+201       45.247122        5.851492    38330       SAINT-NAZAIRE-LES-EYMES
+202       45.318707        4.821830    38150                        CHANAS
+203       45.298156        5.637517    38340                       VOREPPE
+204       45.243626        5.632037    38360                       NOYAREY

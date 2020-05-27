@@ -1,0 +1,128 @@
+63 21
+  0       47.029819        4.888729    21200                      VIGNOLES 
+  1       47.026030        4.840004    21200                        BEAUNE
+  2       47.149044        5.274663    21170                      TROUHANS
+  3       47.238870        5.223501    21110                        GENLIS
+  4       47.225962        4.968739    21220             GEVREY-CHAMBERTIN
+  5       47.225962        4.968739    21220             GEVREY-CHAMBERTIN
+  6       47.294782        4.938471    21160           CORCELLES-LES-MONTS
+  7       47.368004        5.086482    21490            RUFFEY-LES-ECHIREY
+  8       47.281425        5.191101    21110                         IZIER
+  9       47.095493        5.216169    21170                      ESBARRES
+ 10       47.370969        4.737877    21540                    BLAISY-BAS
+ 11       47.317318        5.207618    21560             REMILLY-SUR-TILLE
+ 12       47.220062        5.251936    21110                     LONGEAULT
+ 13       47.269156        5.385082    21760            LAMARCHE-SUR-SAONE
+ 14       47.317318        5.207618    21560             REMILLY-SUR-TILLE
+ 15       47.424010        4.102647    21530                       ROUVRAY
+ 16       47.204640        5.204998    21110                  TART-LE-HAUT
+ 17       47.385001        5.190027    21310                        ARCEAU
+ 18       47.259131        5.148064    21110                     FAUVERNEY
+ 19       47.168719        5.137817    21110                        IZEURE
+ 20       47.406486        5.017257    21380           MESSIGNY-ET-VANTOUX
+ 21       47.871046        4.541363    21400      SAINTE-COLOMBE-SUR-SEINE
+ 22       47.397812        5.104694    21490                      BRETIGNY
+ 23       47.279494        4.228680    21210                       SAULIEU
+ 24       47.430255        5.053217    21380                SAVIGNY-LE-SEC
+ 25       47.302245        5.139998    21800        CHEVIGNY-SAINT-SAUVEUR
+ 26       47.197057        5.151092    21110          LONGECOURT-EN-PLAINE
+ 27       46.985684        4.828604    21200             BLIGNY-LES-BEAUNE
+ 28       47.319948        4.905032    21370              VELARS-SUR-OUCHE
+ 29       47.204640        5.204998    21110                  TART-LE-HAUT
+ 30       46.999317        5.145516    21250                        SEURRE
+ 31       47.285177        5.061110    21600                       LONGVIC
+ 32       47.334101        5.084114    21850             SAINT-APOLLINAIRE
+ 33       47.407612        5.071075    21490               NORGES-LA-VILLE
+ 34       47.206629        4.283228    21430                      LIERNAIS
+ 35       47.225962        4.968739    21220             GEVREY-CHAMBERTIN
+ 36       47.206629        4.283228    21430                      LIERNAIS
+ 37       47.239337        4.970361    21220                       BROCHON
+ 38       47.490238        4.332340    21140               SEMUR-EN-AUXOIS
+ 39       47.241017        5.114004    21110                    BRETENIERE
+ 40       47.195673        4.962496    21220             MOREY-SAINT-DENIS
+ 41       47.419383        5.210155    21310               BEIRE-LE-CHATEL
+ 42       47.366357        4.993675    21121          HAUTEVILLE-LES-DIJON
+ 43       47.260931        4.979330    21160                       COUCHEY
+ 44       47.172582        4.980029    21640             GILLY-LES-CITEAUX
+ 45       47.262849        5.073910    21600                         OUGES
+ 46       47.368004        5.086482    21490            RUFFEY-LES-ECHIREY
+ 47       47.232944        5.063051    21600                         FENAY
+ 48       47.521958        5.112544    21120                  IS-SUR-TILLE
+ 49       47.424010        4.102647    21530                       ROUVRAY
+ 50       47.241017        5.114004    21110                    BRETENIERE
+ 51       47.385855        4.310193    21390               PRECY-SOUS-THIL
+ 52       47.269156        5.385082    21760            LAMARCHE-SUR-SAONE
+ 53       47.397812        5.104694    21490                      BRETIGNY
+ 54       47.521958        5.112544    21120                  IS-SUR-TILLE
+ 55       47.136624        5.340144    21130                   LES MAILLYS
+ 56       47.322047        5.041480    21000                         DIJON
+ 57       47.206629        4.283228    21430                      LIERNAIS
+ 58       47.304937        5.415417    21270          PONTAILLER-SUR-SAONE
+ 59       47.526469        5.370847    21610            FONTAINE-FRANCAISE
+ 60       47.517443        5.176705    21120                    TIL-CHATEL
+ 61       47.349850        5.022149    21121            FONTAINE-LES-DIJON
+ 62       47.173384        5.168687    21110                       AISEREY
+ 63       47.026030        4.840004    21200                        BEAUNE
+ 64       47.193543        5.388925    21130                       AUXONNE
+ 65       47.104464        4.670209    21360              BLIGNY-SUR-OUCHE
+ 66       47.465224        5.275159    21310                          BEZE
+ 67       47.307483        4.706632    21540                     SOMBERNON
+ 68       47.624329        4.337495    21500                      MONTBARD
+ 69       47.368004        5.086482    21490            RUFFEY-LES-ECHIREY
+ 70       47.220062        5.251936    21110                     LONGEAULT
+ 71       47.104464        4.670209    21360              BLIGNY-SUR-OUCHE
+ 72       47.517443        5.176705    21120                    TIL-CHATEL
+ 73       47.307483        4.706632    21540                     SOMBERNON
+ 74       47.195673        4.962496    21220             MOREY-SAINT-DENIS
+ 75       47.279494        4.228680    21210                       SAULIEU
+ 76       47.281425        5.191101    21110                         IZIER
+ 77       47.291427        4.801753    21410        SAINTE-MARIE-SUR-OUCHE
+ 78       47.419383        5.210155    21310               BEIRE-LE-CHATEL
+ 79       47.285177        5.061110    21600                       LONGVIC
+ 80       47.399533        4.539693    21350                      VITTEAUX
+ 81       47.017307        5.123568    21250             POUILLY-SUR-SAONE
+ 82       47.104464        4.670209    21360              BLIGNY-SUR-OUCHE
+ 83       47.019246        4.912838    21200             RUFFEY-LES-BEAUNE
+ 84       47.526469        5.370847    21610            FONTAINE-FRANCAISE
+ 85       46.977283        4.890641    21200       SAINTE-MARIE-LA-BLANCHE
+ 86       46.929324        4.751906    21190                       CORPEAU
+ 87       47.270302        4.988667    21160             MARSANNAY-LA-COTE
+ 88       47.104464        4.670209    21360              BLIGNY-SUR-OUCHE
+ 89       46.951660        4.630618    21340                         NOLAY
+ 90       47.168719        5.137817    21110                        IZEURE
+ 91       47.517443        5.176705    21120                    TIL-CHATEL
+ 92       47.009310        4.795325    21630                       POMMARD
+ 93       47.241017        5.114004    21110                    BRETENIERE
+ 94       47.223518        5.266873    21110       COLLONGES-LES-PREMIERES
+ 95       47.259131        5.148064    21110                     FAUVERNEY
+ 96       47.130623        4.485898    21230                  ARNAY-LE-DUC
+ 97       47.639997        4.296004    21500                    SAINT-REMY
+ 98       47.542492        4.448031    21150            VENAREY-LES-LAUMES
+ 99       47.319948        4.905032    21370              VELARS-SUR-OUCHE
+100       47.424010        4.102647    21530                       ROUVRAY
+101       47.639997        4.296004    21500                    SAINT-REMY
+102       47.526469        5.370847    21610            FONTAINE-FRANCAISE
+103       47.130623        4.485898    21230                  ARNAY-LE-DUC
+104       47.317318        5.207618    21560             REMILLY-SUR-TILLE
+105       47.465224        5.275159    21310                          BEZE
+106       46.951660        4.630618    21340                         NOLAY
+107       47.101656        4.921264    21700                  COMBLANCHIEN
+108       47.370969        4.737877    21540                    BLAISY-BAS
+109       47.370969        4.737877    21540                    BLAISY-BAS
+110       47.063402        4.817946    21420            SAVIGNY-LES-BEAUNE
+111       47.377651        4.179159    21530            LA ROCHE-EN-BRENIL
+112       47.477434        5.135688    21120                       GEMEAUX
+113       47.075064        4.559195    21230                      LACANCHE
+114       47.313407        4.859976    21410             FLEUREY-SUR-OUCHE
+115       47.317318        5.207618    21560             REMILLY-SUR-TILLE
+116       47.102266        5.262806    21170           SAINT-JEAN-DE-LOSNE
+117       47.385855        4.310193    21390               PRECY-SOUS-THIL
+118       47.440585        5.094032    21380             MARSANNAY-LE-BOIS
+119       47.542492        4.448031    21150            VENAREY-LES-LAUMES
+120       47.168719        5.137817    21110                        IZEURE
+121       47.519389        5.132140    21120            MARCILLY-SUR-TILLE
+122       47.232205        5.373367    21130                         ATHEE
+123       47.307483        4.706632    21540                     SOMBERNON
+124       47.269156        5.385082    21760            LAMARCHE-SUR-SAONE
+125       47.066050        4.886974    21550               LADOIX-SERRIGNY
+126       47.291387        5.101657    21800            SENNECEY-LES-DIJON

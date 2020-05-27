@@ -1,0 +1,120 @@
+59 13
+  0       43.898503        4.803017    13870                      ROGNONAS 
+  1       43.558086        5.251238    13111                       COUDOUX
+  2       43.215134        5.537120    13260                        CASSIS
+  3       43.837690        4.918884    13670                    VERQUIERES
+  4       43.349537        5.603996    13360                    ROQUEVAIRE
+  5       43.695299        5.029670    13430                     EYGUIERES
+  6       43.721723        4.804197    13520         MAUSSANE-LES-ALPILLES
+  7       43.349537        5.603996    13360                    ROQUEVAIRE
+  8       43.221502        5.634811    13600                      CEYRESTE
+  9       43.790000        4.757800    13103        MAS-BLANC-DES-ALPILLES
+ 10       43.695299        5.029670    13430                     EYGUIERES
+ 11       43.420234        5.236007    13730                SAINT-VICTORET
+ 12       43.686418        5.394654    13610           SAINT-ESTEVE-JANSON
+ 13       43.607073        5.063777    13450                         GRANS
+ 14       43.716972        5.245821    13350                     CHARLEVAL
+ 15       43.349537        5.603996    13360                    ROQUEVAIRE
+ 16       43.685526        5.170198    13116                     VERNEGUES
+ 17       43.695299        5.029670    13430                     EYGUIERES
+ 18       43.453782        5.560919    13710                        FUVEAU
+ 19       43.247341        5.590481    13830          ROQUEFORT-LA-BEDOULE
+ 20       43.538685        5.292962    13122                     VENTABREN
+ 21       43.588896        5.002136    13140                       MIRAMAS
+ 22       43.538834        5.404427    13090               AIX-EN-PROVENCE
+ 23       43.521487        5.512822    13100                   LE THOLONET
+ 24       43.898616        4.747895    13570                    BARBENTANE
+ 25       43.638628        4.812107    13310          SAINT-MARTIN-DE-CRAU
+ 26       43.258996        5.565438    13470           CARNOUX-EN-PROVENCE
+ 27       43.662830        5.435206    13610        LE PUY-SAINTE-REPARADE
+ 28       43.688994        4.871352    13890                       MOURIES
+ 29       43.760150        4.950151    13810                    EYGALIERES
+ 30       43.832349        4.782098    13910                      MAILLANE
+ 31       43.414078        5.504583    13105                         MIMET
+ 32       43.451152        5.413875    13320                  BOUC-BEL-AIR
+ 33       43.474548        4.914324    13270                   FOS-SUR-MER
+ 34       43.601774        4.624375    13200                         ARLES
+ 35       43.336148        5.482574    13190                       ALLAUCH
+ 36       43.437652        5.036861    13920      SAINT-MITRE-LES-REMPARTS
+ 37       43.431255        5.544496    13850                      GREASQUE
+ 38       43.898616        4.747895    13570                    BARBENTANE
+ 39       43.562190        5.072257    13250             CORNILLON-CONFOUX
+ 40       43.355331        5.203593    13820             ENSUES-LA-REDONNE
+ 41       43.410272        5.308922    13170           LES PENNES-MIRABEAU
+ 42       43.441195        5.379990    13480                       CABRIES
+ 43       43.173653        5.605155    13600                     LA CIOTAT
+ 44       43.568659        5.354234    13510                      EGUILLES
+ 45       43.701368        5.084911    13113                       LAMANON
+ 46       43.853151        4.769296    13690                      GRAVESON
+ 47       47.101369        1.941092    13000                     MARSEILLE
+ 48       43.404811        5.053728    13500                     MARTIGUES
+ 49       43.376874        5.605345    13112                 LA DESTROUSSE
+ 50       43.282215        5.515635    13821         LA PENNE-SUR-HUVEAUNE
+ 51       43.703713        5.161234    13980                       ALLEINS
+ 52       43.760150        4.950151    13810                    EYGALIERES
+ 53       43.431255        5.544496    13850                      GREASQUE
+ 54       43.835465        4.944566    13670                  SAINT-ANDIOL
+ 55       43.486821        5.495122    13590                      MEYREUIL
+ 56       43.394132        5.593219    13720               LA BOUILLADISSE
+ 57       43.345989        5.462092    13380                PLAN-DE-CUQUES
+ 58       43.398686        5.368408    13240          SEPTEMES-LES-VALLONS
+ 59       43.538685        5.292962    13122                     VENTABREN
+ 60       43.387847        4.803225    13230     PORT-SAINT-LOUIS-DU-RHONE
+ 61       43.390916        5.233463    13180              GIGNAC-LA-NERTHE
+ 62       47.101369        1.941092    13000                     MARSEILLE
+ 63       43.703713        5.161234    13980                       ALLEINS
+ 64       43.663327        5.347199    13840                        ROGNES
+ 65       43.631049        5.150567    13330                    PELISSANNE
+ 66       43.511419        5.546729    13100                   BEAURECUEIL
+ 67       43.394132        5.593219    13720               LA BOUILLADISSE
+ 68       43.455669        5.470649    13120                      GARDANNE
+ 69       43.687065        5.707942    13115        SAINT-PAUL-LES-DURANCE
+ 70       43.859292        4.651278    13150    SAINT-PIERRE-DE-MEZOARGUES
+ 71       43.394132        5.593219    13720               LA BOUILLADISSE
+ 72       43.332412        5.110570    13960              SAUSSET-LES-PINS
+ 73       43.384147        5.577433    13124                        PEYPIN
+ 74       43.630199        5.176181    13330                     LA BARBEN
+ 75       43.414078        5.504583    13105                         MIMET
+ 76       43.687065        5.707942    13115        SAINT-PAUL-LES-DURANCE
+ 77       43.630199        5.176181    13330                     LA BARBEN
+ 78       43.538685        5.292962    13122                     VENTABREN
+ 79       43.601774        4.624375    13200                         ARLES
+ 80       43.806056        4.948633    13940                      MOLLEGES
+ 81       43.686418        5.394654    13610           SAINT-ESTEVE-JANSON
+ 82       43.630199        5.176181    13330                     LA BARBEN
+ 83       43.687065        5.707942    13115        SAINT-PAUL-LES-DURANCE
+ 84       43.860068        4.961065    13440                      CABANNES
+ 85       43.550669        5.034508    13250                  SAINT-CHAMAS
+ 86       43.687065        5.707942    13115        SAINT-PAUL-LES-DURANCE
+ 87       43.247341        5.590481    13830          ROQUEFORT-LA-BEDOULE
+ 88       43.437652        5.036861    13920      SAINT-MITRE-LES-REMPARTS
+ 89       43.404811        5.053728    13500                     MARTIGUES
+ 90       43.596314        5.492330    13770                      VENELLES
+ 91       43.631049        5.150567    13330                    PELISSANNE
+ 92       43.601774        4.624375    13200                         ARLES
+ 93       43.695299        5.029670    13430                     EYGUIERES
+ 94       43.547599        5.523524    13100         SAINT-MARC-JAUMEGARDE
+ 95       43.538834        5.404427    13090               AIX-EN-PROVENCE
+ 96       43.636647        5.639550    13490                       JOUQUES
+ 97       43.431255        5.544496    13850                      GREASQUE
+ 98       43.662830        5.435206    13610        LE PUY-SAINTE-REPARADE
+ 99       43.862716        4.693618    13150                       BOULBON
+100       43.607073        5.063777    13450                         GRANS
+101       43.648169        5.583650    13860         PEYROLLES-EN-PROVENCE
+102       43.451152        5.413875    13320                  BOUC-BEL-AIR
+103       43.446909        5.684155    13530                         TRETS
+104       43.387847        4.803225    13230     PORT-SAINT-LOUIS-DU-RHONE
+105       43.877232        4.902065    13550                         NOVES
+106       43.562190        5.072257    13250             CORNILLON-CONFOUX
+107       43.721723        4.804197    13520         MAUSSANE-LES-ALPILLES
+108       43.562190        5.072257    13250             CORNILLON-CONFOUX
+109       43.221502        5.634811    13600                      CEYRESTE
+110       43.453782        5.560919    13710                        FUVEAU
+111       43.862716        4.693618    13150                       BOULBON
+112       43.591912        5.126824    13680               LANCON-PROVENCE
+113       43.330673        5.151576    13620                CARRY-LE-ROUET
+114       43.648169        5.583650    13860         PEYROLLES-EN-PROVENCE
+115       43.591912        5.126824    13680               LANCON-PROVENCE
+116       43.173653        5.605155    13600                     LA CIOTAT
+117       43.713811        5.316109    13640           LA ROQUE-D'ANTHERON
+118       43.345989        5.462092    13380                PLAN-DE-CUQUES

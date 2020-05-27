@@ -1,0 +1,154 @@
+76 76
+  0       49.870140        1.049497    76550                   OFFRANVILLE 
+  1       49.680262        1.044277    76890                         TOTES
+  2       49.498360        1.142236    76230                   ISNEAUVILLE
+  3       49.455768        1.121401    76420                       BIHOREL
+  4       49.518877        0.534458    76170                    LILLEBONNE
+  5       49.455768        1.121401    76420                       BIHOREL
+  6       49.471959        1.155190    76160        SAINT-MARTIN-DU-VIVIER
+  7       49.557459        0.484084    76210            GRUCHET-LE-VALASSE
+  8       49.565299        0.226180    76133                     EPOUVILLE
+  9       49.486557        0.804422    76580                      LE TRAIT
+ 10       49.628309        0.400273    76110                       BREAUTE
+ 11       49.617779        0.755212    76190                        YVETOT
+ 12       49.704178        0.963637    76890                  VAL-DE-SAANE
+ 13       49.577898        0.208831    76133                    ROLLEVILLE
+ 14       49.612407        0.689428    76190                VALLIQUERVILLE
+ 15       49.455768        1.121401    76420                       BIHOREL
+ 16       49.510119        1.036864    76770                     LE HOULME
+ 17       49.785356        1.229177    76950            LES GRANDES-VENTES
+ 18       49.565928        0.257276    76133                     MANEGLISE
+ 19       49.510119        1.036864    76770                     LE HOULME
+ 20       50.016388        1.317639    76910                 CRIEL-SUR-MER
+ 21       49.315798        1.032768    76410                         CLEON
+ 22       49.403731        1.186045    76520     FRANQUEVILLE-SAINT-PIERRE
+ 23       49.512620        0.158673    76610                      LE HAVRE
+ 24       49.901347        1.140701    76370                 MARTIN-EGLISE
+ 25       49.498360        1.142236    76230                   ISNEAUVILLE
+ 26       49.462537        1.514023    76220                   LA FEUILLIE
+ 27       49.533312        1.000466    76360                 PISSY-POVILLE
+ 28       49.880241        1.125068    76880            ARQUES-LA-BATAILLE
+ 29       49.517625        0.264283    76700                   GAINNEVILLE
+ 30       49.429895        1.054325    76140             LE PETIT-QUEVILLY
+ 31       49.447198        0.963340    76840  SAINT-MARTIN-DE-BOSCHERVILLE
+ 32       49.718324        1.099692    76720                        AUFFAY
+ 33       49.462537        1.514023    76220                   LA FEUILLIE
+ 34       49.523090        0.882908    76480                    SAINT-PAER
+ 35       49.508148        0.972714    76480                       ROUMARE
+ 36       49.417250        1.095407    76300          SOTTEVILLE-LES-ROUEN
+ 37       49.509374        0.841754    76480 SAINTE-MARGUERITE-SUR-DUCLAIR
+ 38       49.668796        0.898014    76760                      YERVILLE
+ 39       49.403731        1.186045    76520     FRANQUEVILLE-SAINT-PIERRE
+ 40       49.412267        1.146432    76240              LE MESNIL-ESNARD
+ 41       49.511788        0.198015    76700                      HARFLEUR
+ 42       49.897017        1.264979    76630                      ENVERMEU
+ 43       49.509374        0.841754    76480 SAINTE-MARGUERITE-SUR-DUCLAIR
+ 44       49.613311        1.545886    76440               FORGES-LES-EAUX
+ 45       49.932413        1.630054    76340             BLANGY-SUR-BRESLE
+ 46       49.411811        1.041384    76120             LE GRAND-QUEVILLY
+ 47       49.489108        0.567624    76330      NOTRE-DAME-DE-GRAVENCHON
+ 48       49.768610        1.752119    76390                        AUMALE
+ 49       49.680262        1.044277    76890                         TOTES
+ 50       49.522408        0.573125    76170                    LA FRENAYE
+ 51       49.628309        0.400273    76110                       BREAUTE
+ 52       49.358586        0.943194    76113                        SAHURS
+ 53       49.612407        0.689428    76190                VALLIQUERVILLE
+ 54       49.755601        0.380774    76400                        FECAMP
+ 55       49.527601        0.403316    76430                     LA REMUEE
+ 56       49.528680        0.666613    76490                 SAINT-ARNOULT
+ 57       49.511788        0.198015    76700                      HARFLEUR
+ 58       49.428864        1.163319    76160    SAINT-LEGER-DU-BOURG-DENIS
+ 59       49.555780        0.115281    76930             OCTEVILLE-SUR-MER
+ 60       49.922992        1.077483    76200                        DIEPPE
+ 61       50.016388        1.317639    76910                 CRIEL-SUR-MER
+ 62       49.446491        1.097600    76000                         ROUEN
+ 63       49.475793        0.958644    76840                    HENOUVILLE
+ 64       49.546637        1.076434    76710                     MONTVILLE
+ 65       49.299076        1.012997    76410        SAINT-AUBIN-LES-ELBEUF
+ 66       49.543453        0.958130    76360                      BARENTIN
+ 67       49.704178        0.963637    76890                  VAL-DE-SAANE
+ 68       49.534185        0.146549    76290            FONTAINE-LA-MALLET
+ 69       49.299076        1.012997    76410        SAINT-AUBIN-LES-ELBEUF
+ 70       49.528213        0.364878    76430       SAINT-ROMAIN-DE-COLBOSC
+ 71       49.471959        1.155190    76160        SAINT-MARTIN-DU-VIVIER
+ 72       49.468852        1.114831    76230                BOIS-GUILLAUME
+ 73       49.543453        0.958130    76360                      BARENTIN
+ 74       49.403731        1.186045    76520     FRANQUEVILLE-SAINT-PIERRE
+ 75       49.411811        1.041384    76120             LE GRAND-QUEVILLY
+ 76       49.498360        1.142236    76230                   ISNEAUVILLE
+ 77       49.565299        0.226180    76133                     EPOUVILLE
+ 78       49.292163        1.006910    76500                        ELBEUF
+ 79       49.873006        1.069331    76550          SAINT-AUBIN-SUR-SCIE
+ 80       49.561762        0.183491    76290                      FONTENAY
+ 81       49.623206        0.775425    76190       SAINTE-MARIE-DES-CHAMPS
+ 82       49.555780        0.115281    76930             OCTEVILLE-SUR-MER
+ 83       49.639566        0.223087    76280          GONNEVILLE-LA-MALLET
+ 84       49.668796        0.898014    76760                      YERVILLE
+ 85       49.680262        1.044277    76890                         TOTES
+ 86       49.873006        1.069331    76550          SAINT-AUBIN-SUR-SCIE
+ 87       50.048870        1.419597    76260                            EU
+ 88       49.824752        0.710096    76460                       NEVILLE
+ 89       49.572372        0.949614    76570                       PAVILLY
+ 90       50.016388        1.317639    76910                 CRIEL-SUR-MER
+ 91       49.653321        1.614576    76870                GAILLEFONTAINE
+ 92       49.904557        1.092876    76370         ROUXMESNIL-BOUTEILLES
+ 93       49.485520        1.049502    76960      NOTRE-DAME-DE-BONDEVILLE
+ 94       49.668796        0.898014    76760                      YERVILLE
+ 95       49.707007        0.205598    76790                       ETRETAT
+ 96       49.932413        1.630054    76340             BLANGY-SUR-BRESLE
+ 97       49.523469        1.185821    76230                   QUINCAMPOIX
+ 98       49.704178        0.963637    76890                  VAL-DE-SAANE
+ 99       49.587691        0.280547    76280           ANGERVILLE-L'ORCHER
+100       49.505006        1.088560    76770                   HOUPPEVILLE
+101       49.276751        1.040517    76320       SAINT-PIERRE-LES-ELBEUF
+102       49.498360        1.142236    76230                   ISNEAUVILLE
+103       50.015756        1.497369    76117                    INCHEVILLE
+104       49.417250        1.095407    76300          SOTTEVILLE-LES-ROUEN
+105       49.572372        0.949614    76570                       PAVILLY
+106       49.668796        0.898014    76760                      YERVILLE
+107       49.299076        1.012997    76410        SAINT-AUBIN-LES-ELBEUF
+108       49.429895        1.054325    76140             LE PETIT-QUEVILLY
+109       49.509374        0.841754    76480 SAINTE-MARGUERITE-SUR-DUCLAIR
+110       49.628309        0.400273    76110                       BREAUTE
+111       49.587691        0.280547    76280           ANGERVILLE-L'ORCHER
+112       49.433214        0.819459    76480                      JUMIEGES
+113       49.832774        1.402787    76660                   LONDINIERES
+114       49.339778        1.089780    76350                        OISSEL
+115       49.537573        0.919521    76360               VILLERS-ECALLES
+116       49.433214        0.819459    76480                      JUMIEGES
+117       49.598393        0.476859    76210                       NOINTOT
+118       49.613311        1.545886    76440               FORGES-LES-EAUX
+119       49.471959        1.155190    76160        SAINT-MARTIN-DU-VIVIER
+120       49.485520        1.049502    76960      NOTRE-DAME-DE-BONDEVILLE
+121       50.048870        1.419597    76260                            EU
+122       49.502579        0.233079    76700          GONFREVILLE-L'ORCHER
+123       49.904557        1.092876    76370         ROUXMESNIL-BOUTEILLES
+124       49.599841        1.110302    76690                        CLERES
+125       49.673338        1.283631    76680                   SAINT-SAENS
+126       49.721286        0.784978    76560                    DOUDEVILLE
+127       49.462537        1.514023    76220                   LA FEUILLIE
+128       49.433214        0.819459    76480                      JUMIEGES
+129       49.459778        1.079798    76130             MONT-SAINT-AIGNAN
+130       49.480722        1.722584    76220               GOURNAY-EN-BRAY
+131       49.417250        1.095407    76300          SOTTEVILLE-LES-ROUEN
+132       49.546637        1.076434    76710                     MONTVILLE
+133       49.482315        0.771779    76940       LA MAILLERAYE-SUR-SEINE
+134       49.609279        0.922936    76570                        LIMESY
+135       49.509374        0.841754    76480 SAINTE-MARGUERITE-SUR-DUCLAIR
+136       49.429895        1.054325    76140             LE PETIT-QUEVILLY
+137       49.932413        1.630054    76340             BLANGY-SUR-BRESLE
+138       49.523469        1.185821    76230                   QUINCAMPOIX
+139       49.522408        0.573125    76170                    LA FRENAYE
+140       49.718324        1.099692    76720                        AUFFAY
+141       49.504435        0.931510    76480  SAINT-PIERRE-DE-VARENGEVILLE
+142       49.462537        1.514023    76220                   LA FEUILLIE
+143       49.315798        1.032768    76410                         CLEON
+144       49.433214        0.819459    76480                      JUMIEGES
+145       49.448362        1.206869    76160    SAINT-JACQUES-SUR-DARNETAL
+146       49.358586        0.943194    76113                        SAHURS
+147       49.932413        1.630054    76340             BLANGY-SUR-BRESLE
+148       49.879254        1.220943    76510     SAINT-NICOLAS-D'ALIERMONT
+149       49.489108        0.567624    76330      NOTRE-DAME-DE-GRAVENCHON
+150       50.016388        1.317639    76910                 CRIEL-SUR-MER
+151       49.901347        1.140701    76370                 MARTIN-EGLISE
+152       49.433214        0.819459    76480                      JUMIEGES

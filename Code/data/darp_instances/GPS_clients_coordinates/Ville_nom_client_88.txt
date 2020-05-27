@@ -1,0 +1,128 @@
+63 88
+  0       48.245258        7.066132    88520               BAN-DE-LAVELINE 
+  1       48.456280        6.949965    88110             CELLES-SUR-PLAINE
+  2       48.302734        5.833749    88170                     CHATENOIS
+  3       48.101225        6.400257    88220                      URIMENIL
+  4       47.971918        6.728775    88290                     THIEFOSSE
+  5       47.858875        6.825815    88560     SAINT-MAURICE-SUR-MOSELLE
+  6       48.082773        6.743957    88530                      LE THOLY
+  7       48.236252        6.959910    88580            SAULCY-SUR-MEURTHE
+  8       47.973810        6.199157    88240           FONTENOY-LE-CHATEAU
+  9       48.173554        6.333877    88390                    CHAUMOUSEY
+ 10       48.184652        6.785005    88600   LA CHAPELLE-DEVANT-BRUYERES
+ 11       48.407270        6.843762    88110                  RAON-L'ETAPE
+ 12       48.367817        6.315546    88130                      ESSEGNEY
+ 13       48.305639        5.658819    88300           BAZOILLES-SUR-MEUSE
+ 14       48.184980        7.002133    88230                        FRAIZE
+ 15       48.250554        6.419186    88150              THAON-LES-VOSGES
+ 16       48.017182        6.746484    88120                        SAPOIS
+ 17       48.026468        6.685349    88120                   LE SYNDICAT
+ 18       48.312128        6.827920    88470                  LA BOURGONCE
+ 19       48.316617        7.114467    88490              COLROY-LA-GRANDE
+ 20       48.124773        6.534202    88380                     ARCHETTES
+ 21       48.319906        6.124040    88500                       POUSSAY
+ 22       48.200645        6.488117    88000                        JEUXEY
+ 23       48.209195        6.572989    88600                     AYDOILLES
+ 24       48.429719        7.022021    88210                       MOUSSEY
+ 25       48.001416        6.264570    88240               BAINS-LES-BAINS
+ 26       47.966717        6.463240    88370          PLOMBIERES-LES-BAINS
+ 27       48.003953        6.873675    88250                     LA BRESSE
+ 28       48.199109        6.349128    88390                   DARNIEULLES
+ 29       48.070081        6.877292    88400                     GERARDMER
+ 30       48.265732        6.141834    88500                        HYMONT
+ 31       48.161832        6.311332    88390                    GIRANCOURT
+ 32       48.008741        6.716075    88120                        VAGNEY
+ 33       48.319906        6.124040    88500                       POUSSAY
+ 34       47.973810        6.199157    88240           FONTENOY-LE-CHATEAU
+ 35       48.003953        6.873675    88250                     LA BRESSE
+ 36       47.906991        6.783298    88160                      LE MENIL
+ 37       47.979292        6.637115    88200                        VECOUX
+ 38       48.319906        6.124040    88500                       POUSSAY
+ 39       48.229165        6.050413    88800                    REMONCOURT
+ 40       47.973810        6.199157    88240           FONTENOY-LE-CHATEAU
+ 41       48.297612        7.005631    88100           NAYEMONT-LES-FOSSES
+ 42       48.118004        6.528363    88380                        ARCHES
+ 43       48.051700        6.676700    88120                       CLEURIE
+ 44       48.144888        6.617725    88460                      DOCELLES
+ 45       47.999833        6.643429    88200      DOMMARTIN-LES-REMIREMONT
+ 46       48.172698        6.878435    88430                      CORCIEUX
+ 47       48.219997        7.052330    88520            LA CROIX-AUX-MINES
+ 48       48.091263        6.478316    88220                         HADOL
+ 49       48.200645        6.488117    88000                        JEUXEY
+ 50       48.172698        6.878435    88430                      CORCIEUX
+ 51       48.297612        7.005631    88100           NAYEMONT-LES-FOSSES
+ 52       48.209679        5.835900    88140                   BULGNEVILLE
+ 53       48.216512        6.996082    88650                       MANDRAY
+ 54       48.172402        6.449403    88000                        EPINAL
+ 55       48.013775        6.443103    88370                 BELLEFONTAINE
+ 56       48.092185        6.610439    88510                        ELOYES
+ 57       48.172092        6.434290    88000                    CHANTRAINE
+ 58       48.335472        6.689772    88700                     JEANMENIL
+ 59       48.138887        6.603754    88460                    CHENIMENIL
+ 60       47.875690        6.787545    88160            FRESSE-SUR-MOSELLE
+ 61       47.885621        6.854302    88540                       BUSSANG
+ 62       48.273509        6.397196    88150                         IGNEY
+ 63       48.102748        6.271140    88270        CHARMOIS-L'ORGUEILLEUX
+ 64       48.082773        6.743957    88530                      LE THOLY
+ 65       48.305639        5.658819    88300           BAZOILLES-SUR-MEUSE
+ 66       47.885621        6.854302    88540                       BUSSANG
+ 67       48.013775        6.443103    88370                 BELLEFONTAINE
+ 68       48.001416        6.264570    88240               BAINS-LES-BAINS
+ 69       47.973810        6.199157    88240           FONTENOY-LE-CHATEAU
+ 70       48.258075        6.436720    88150                       GIRMONT
+ 71       48.056992        6.519866    88220                 RAON-AUX-BOIS
+ 72       48.030485        5.972523    88410          MONTHUREUX-SUR-SAONE
+ 73       48.305639        5.658819    88300           BAZOILLES-SUR-MEUSE
+ 74       48.102748        6.271140    88270        CHARMOIS-L'ORGUEILLEUX
+ 75       48.395088        6.981525    88210                       SENONES
+ 76       48.069048        5.781563    88320                      LAMARCHE
+ 77       48.194337        6.702158    88600             LAVAL-SUR-VOLOGNE
+ 78       48.199109        6.349128    88390                   DARNIEULLES
+ 79       48.354965        5.694596    88300                   NEUFCHATEAU
+ 80       48.319906        6.124040    88500                       POUSSAY
+ 81       48.344106        6.344197    88330                      PORTIEUX
+ 82       47.949477        6.773163    88290       SAULXURES-SUR-MOSELOTTE
+ 83       48.173300        6.980000    88230        BAN-SUR-MEURTHE-CLEFCY
+ 84       48.335472        6.689772    88700                     JEANMENIL
+ 85       48.172675        7.014817    88230                    PLAINFAING
+ 86       48.313731        5.933275    88170         GIRONCOURT-SUR-VRAINE
+ 87       48.172092        6.434290    88000                    CHANTRAINE
+ 88       48.026468        6.685349    88120                   LE SYNDICAT
+ 89       48.404073        5.734428    88630    SOULOSSE-SOUS-SAINT-ELOPHE
+ 90       48.026468        6.685349    88120                   LE SYNDICAT
+ 91       48.268977        6.980094    88100             SAINTE-MARGUERITE
+ 92       48.312904        6.393353    88330            CHATEL-SUR-MOSELLE
+ 93       48.305639        5.658819    88300           BAZOILLES-SUR-MEUSE
+ 94       48.138887        6.603754    88460                    CHENIMENIL
+ 95       48.183840        6.757597    88600      LAVELINE-DEVANT-BRUYERES
+ 96       48.313731        5.933275    88170         GIRONCOURT-SUR-VRAINE
+ 97       48.179968        5.895545    88140                 CONTREXEVILLE
+ 98       48.008741        6.716075    88120                        VAGNEY
+ 99       47.925563        6.660436    88360              RUPT-SUR-MOSELLE
+100       48.335472        6.689772    88700                     JEANMENIL
+101       48.209195        6.572989    88600                     AYDOILLES
+102       48.124773        6.534202    88380                     ARCHETTES
+103       48.429719        7.022021    88210                       MOUSSEY
+104       48.221193        6.226197    88270                      DOMPAIRE
+105       47.875690        6.787545    88160            FRESSE-SUR-MOSELLE
+106       47.880605        6.763470    88160                    LE THILLOT
+107       47.966717        6.463240    88370          PLOMBIERES-LES-BAINS
+108       48.101225        6.400257    88220                      URIMENIL
+109       47.999833        6.643429    88200      DOMMARTIN-LES-REMIREMONT
+110       48.160705        6.574464    88460                      LA BAFFE
+111       47.875690        6.787545    88160            FRESSE-SUR-MOSELLE
+112       48.173300        6.980000    88230        BAN-SUR-MEURTHE-CLEFCY
+113       48.015589        6.591716    88200                    REMIREMONT
+114       48.160705        6.574464    88460                      LA BAFFE
+115       48.209195        6.572989    88600                     AYDOILLES
+116       47.971918        6.728775    88290                     THIEFOSSE
+117       48.404073        5.734428    88630    SOULOSSE-SOUS-SAINT-ELOPHE
+118       48.407270        6.843762    88110                  RAON-L'ETAPE
+119       48.312128        6.827920    88470                  LA BOURGONCE
+120       48.216512        6.996082    88650                       MANDRAY
+121       48.144888        6.617725    88460                      DOCELLES
+122       48.404073        5.734428    88630    SOULOSSE-SOUS-SAINT-ELOPHE
+123       48.047208        6.578315    88200                  SAINT-NABORD
+124       48.200154        6.515163    88000                    DEYVILLERS
+125       48.335472        6.689772    88700                     JEANMENIL
+126       48.013775        6.443103    88370                 BELLEFONTAINE

@@ -1,0 +1,192 @@
+95 78
+  0       48.837144        2.110762    78150                  ROCQUENCOURT 
+  1       49.059620        1.816187    78440            LAINVILLE-EN-VEXIN
+  2       48.760461        2.043689    78960         VOISINS-LE-BRETONNEUX
+  3       48.996211        2.063470    78780                    MAURECOURT
+  4       48.990181        1.912178    78130                   LES MUREAUX
+  5       49.040163        1.688570    78520       SAINT-MARTIN-LA-GARENNE
+  6       48.750285        1.916261    78310                    COIGNIERES
+  7       48.747565        2.112559    78117              TOUSSUS-LE-NOBLE
+  8       48.861890        2.112527    78430                  LOUVECIENNES
+  9       48.819381        1.891563    78640       VILLIERS-SAINT-FREDERIC
+ 10       48.782225        1.760775    78490                    GROSROUVRE
+ 11       48.821772        1.756772    78890                   GARANCIERES
+ 12       48.821772        1.756772    78890                   GARANCIERES
+ 13       48.911278        1.732098    78790         ARNOUVILLE-LES-MANTES
+ 14       48.756791        1.836899    78490                   LES MESNULS
+ 15       48.673864        1.976231    78720               CERNAY-LA-VILLE
+ 16       48.945199        1.716432    78930            BREUIL-BOIS-ROBERT
+ 17       48.676270        1.753298    78125               POIGNY-LA-FORET
+ 18       48.989101        1.793470    78440                         ISSOU
+ 19       48.673864        1.976231    78720               CERNAY-LA-VILLE
+ 20       48.621798        1.997320    78830                       BULLION
+ 21       48.941106        2.158431    78500                  SARTROUVILLE
+ 22       48.707639        1.814019    78610                LES BREVIAIRES
+ 23       49.021607        1.713804    78520        FOLLAINVILLE-DENNEMONT
+ 24       48.517311        1.834473    78660                         ABLIS
+ 25       48.941224        1.692156    78930                          VERT
+ 26       48.989382        2.005531    78510               TRIEL-SUR-SEINE
+ 27       49.041340        1.570031    78270                    BENNECOURT
+ 28       48.945484        2.037356    78955         CARRIERES-SOUS-POISSY
+ 29       48.637529        1.675408    78125                      HERMERAY
+ 30       49.000275        2.091780    78700      CONFLANS-SAINTE-HONORINE
+ 31       48.805980        2.022188    78390                   BOIS-D'ARCY
+ 32       48.906272        2.040137    78240                    CHAMBOURCY
+ 33       48.836634        2.080901    78870                        BAILLY
+ 34       48.670220        1.875431    78125    VIEILLE-EGLISE-EN-YVELINES
+ 35       48.696146        1.847679    78610         LE PERRAY-EN-YVELINES
+ 36       48.819381        1.891563    78640       VILLIERS-SAINT-FREDERIC
+ 37       48.771953        1.878826    78490       LE TREMBLAY-SUR-MAULDRE
+ 38       49.041340        1.570031    78270                    BENNECOURT
+ 39       48.872724        1.972612    78810                  FEUCHEROLLES
+ 40       48.673864        1.976231    78720               CERNAY-LA-VILLE
+ 41       48.576346        1.876454    78120                      SONCHAMP
+ 42       48.929030        1.936330    78630                MORAINVILLIERS
+ 43       48.911170        1.786977    78580                   JUMEAUVILLE
+ 44       48.673864        1.976231    78720               CERNAY-LA-VILLE
+ 45       48.772563        1.815425    78490             MONTFORT-L'AMAURY
+ 46       48.897267        2.106434    78230                       LE PECQ
+ 47       48.612370        1.908489    78120    CLAIREFONTAINE-EN-YVELINES
+ 48       48.705142        1.984545    78720         DAMPIERRE-EN-YVELINES
+ 49       48.886308        2.064573    78112                     FOURQUEUX
+ 50       48.762895        2.075323    78280                    GUYANCOURT
+ 51       49.072929        1.669186    78840                       MOISSON
+ 52       48.825415        2.130544    78150                    LE CHESNAY
+ 53       48.914013        1.617255    78111            DAMMARTIN-EN-SERVE
+ 54       49.025506        1.921064    78250       TESSANCOURT-SUR-AUBETTE
+ 55       48.705142        1.984545    78720         DAMPIERRE-EN-YVELINES
+ 56       48.929369        1.840020    78126            AULNAY-SUR-MAULDRE
+ 57       48.801519        1.903804    78760          JOUARS-PONTCHARTRAIN
+ 58       48.696146        1.847679    78610         LE PERRAY-EN-YVELINES
+ 59       48.805027        1.765638    78940         LA QUEUE-LES-YVELINES
+ 60       48.941224        1.692156    78930                          VERT
+ 61       48.959132        1.855891    78410                 AUBERGENVILLE
+ 62       48.747565        2.112559    78117              TOUSSUS-LE-NOBLE
+ 63       48.620028        1.733458    78125                SAINT-HILARION
+ 64       48.945514        1.532795    78980                        BREVAL
+ 65       48.926916        2.188880    78800                      HOUILLES
+ 66       48.721261        1.763963    78610       SAINT-LEGER-EN-YVELINES
+ 67       48.830102        2.005269    78450                    VILLEPREUX
+ 68       48.945199        1.716432    78930            BREUIL-BOIS-ROBERT
+ 69       48.762895        2.075323    78280                    GUYANCOURT
+ 70       48.806421        2.065700    78210             SAINT-CYR-L'ECOLE
+ 71       49.061039        1.545572    78270                 LIMETZ-VILLEZ
+ 72       48.618315        2.028108    78830                     BONNELLES
+ 73       48.849766        2.132504    78170          LA CELLE-SAINT-CLOUD
+ 74       48.870070        2.073650    78620              L'ETANG-LA-VILLE
+ 75       48.954607        1.710307    78930         AUFFREVILLE-BRASSEUIL
+ 76       48.702575        2.069613    78470      SAINT-REMY-LES-CHEVREUSE
+ 77       48.990181        1.912178    78130                   LES MUREAUX
+ 78       48.849766        2.132504    78170          LA CELLE-SAINT-CLOUD
+ 79       49.027329        1.757549    78440           FONTENAY-SAINT-PERE
+ 80       48.880777        2.110156    78560                 LE PORT-MARLY
+ 81       48.941106        2.158431    78500                  SARTROUVILLE
+ 82       48.868389        2.097727    78160                  MARLY-LE-ROI
+ 83       48.989323        1.714958    78200               MANTES-LA-JOLIE
+ 84       48.969534        1.684130    78200                   MAGNANVILLE
+ 85       49.029753        1.895781    78250         GAILLON-SUR-MONTCIENT
+ 86       48.957802        1.812542    78680                         EPONE
+ 87       48.771953        1.878826    78490       LE TREMBLAY-SUR-MAULDRE
+ 88       48.909203        1.849405    78580                         MAULE
+ 89       48.937191        1.997421    78670           VILLENNES-SUR-SEINE
+ 90       48.929030        1.936330    78630                MORAINVILLIERS
+ 91       48.801408        2.130122    78000                    VERSAILLES
+ 92       48.908587        2.149777    78360                     MONTESSON
+ 93       48.528630        1.796312    78660            PRUNAY-EN-YVELINES
+ 94       48.762359        1.945326    78310                      MAUREPAS
+ 95       48.914013        1.617255    78111            DAMMARTIN-EN-SERVE
+ 96       48.835766        1.674270    78910                  TACOIGNIERES
+ 97       49.041340        1.570031    78270                    BENNECOURT
+ 98       48.921101        1.586142    78980                       LONGNES
+ 99       48.771953        1.878826    78490       LE TREMBLAY-SUR-MAULDRE
+100       48.782907        1.960077    78990                     ELANCOURT
+101       48.914013        1.617255    78111            DAMMARTIN-EN-SERVE
+102       49.048357        1.478589    78270                         BLARU
+103       49.040163        1.688570    78520       SAINT-MARTIN-LA-GARENNE
+104       48.960796        2.070022    78260                       ACHERES
+105       49.047832        1.851334    78440                     JAMBVILLE
+106       48.707639        1.814019    78610                LES BREVIAIRES
+107       48.509194        1.928552    78660  SAINT-MARTIN-DE-BRETHENCOURT
+108       48.833685        1.898947    78640    SAINT-GERMAIN-DE-LA-GRANGE
+109       49.043743        1.648859    78270           MOUSSEAUX-SUR-SEINE
+110       48.930440        1.527162    78980                   NEAUPHLETTE
+111       48.810638        2.046222    78330            FONTENAY-LE-FLEURY
+112       48.989101        1.793470    78440                         ISSOU
+113       48.944263        1.735422    78930                     GUERVILLE
+114       49.014204        1.943799    78740                   EVECQUEMONT
+115       48.813651        1.898749    78640           NEAUPHLE-LE-CHATEAU
+116       48.509194        1.928552    78660  SAINT-MARTIN-DE-BRETHENCOURT
+117       48.805027        1.765638    78940         LA QUEUE-LES-YVELINES
+118       48.945484        2.037356    78955         CARRIERES-SOUS-POISSY
+119       48.945484        2.037356    78955         CARRIERES-SOUS-POISSY
+120       48.764287        2.140358    78350            LES LOGES-EN-JOSAS
+121       48.856631        2.017617    78860         SAINT-NOM-LA-BRETECHE
+122       48.979317        1.975419    78480            VERNEUIL-SUR-SEINE
+123       48.856631        2.017617    78860         SAINT-NOM-LA-BRETECHE
+124       48.945199        1.716432    78930            BREUIL-BOIS-ROBERT
+125       48.819381        1.891563    78640       VILLIERS-SAINT-FREDERIC
+126       48.914013        1.617255    78111            DAMMARTIN-EN-SERVE
+127       48.750285        1.916261    78310                    COIGNIERES
+128       48.821772        1.756772    78890                   GARANCIERES
+129       48.865263        1.794903    78770                        THOIRY
+130       48.908587        2.149777    78360                     MONTESSON
+131       48.903646        2.019584    78240                     AIGREMONT
+132       48.908587        2.149777    78360                     MONTESSON
+133       48.676270        1.753298    78125               POIGNY-LA-FORET
+134       48.620028        1.733458    78125                SAINT-HILARION
+135       48.853426        1.987591    78450                      CHAVENAY
+136       48.853426        1.987591    78450                      CHAVENAY
+137       48.782907        1.960077    78990                     ELANCOURT
+138       48.941106        2.158431    78500                  SARTROUVILLE
+139       48.911170        1.786977    78580                   JUMEAUVILLE
+140       48.989323        1.714958    78200               MANTES-LA-JOLIE
+141       48.584928        1.988701    78730         ROCHEFORT-EN-YVELINES
+142       49.000275        2.091780    78700      CONFLANS-SAINTE-HONORINE
+143       49.040163        1.688570    78520       SAINT-MARTIN-LA-GARENNE
+144       48.741906        1.660730    78113              CONDE-SUR-VESGRE
+145       48.612370        1.908489    78120    CLAIREFONTAINE-EN-YVELINES
+146       48.949206        1.924235    78920                    ECQUEVILLY
+147       49.047832        1.851334    78440                     JAMBVILLE
+148       48.856631        2.017617    78860         SAINT-NOM-LA-BRETECHE
+149       48.760461        2.043689    78960         VOISINS-LE-BRETONNEUX
+150       48.971683        1.776713    78440                   PORCHEVILLE
+151       48.705142        1.984545    78720         DAMPIERRE-EN-YVELINES
+152       48.801408        2.130122    78000                    VERSAILLES
+153       48.911278        1.732098    78790         ARNOUVILLE-LES-MANTES
+154       48.929584        2.046982    78300                        POISSY
+155       48.741906        1.660730    78113              CONDE-SUR-VESGRE
+156       48.894198        2.134716    78110                    LE VESINET
+157       48.919970        1.764587    78930                  GOUSSONVILLE
+158       48.896391        2.160098    78400                        CHATOU
+159       48.870070        2.073650    78620              L'ETANG-LA-VILLE
+160       48.680797        1.647959    78125            LA BOISSIERE-ECOLE
+161       48.799660        2.173231    78220                      VIROFLAY
+162       48.643868        1.829079    78125                   RAMBOUILLET
+163       48.861890        2.112527    78430                  LOUVECIENNES
+164       48.636117        1.775410    78125                       GAZERAN
+165       49.059620        1.816187    78440            LAINVILLE-EN-VEXIN
+166       48.782907        1.960077    78990                     ELANCOURT
+167       48.944315        1.831813    78410                    LA FALAISE
+168       48.969534        1.684130    78200                   MAGNANVILLE
+169       48.957460        1.675126    78200                      SOINDRES
+170       48.755081        1.949322    78320                   LA VERRIERE
+171       48.978154        1.713371    78200               MANTES-LA-VILLE
+172       48.531548        1.960962    78730                  SAINTE-MESME
+173       49.008153        1.778629    78440                  GUITRANCOURT
+174       48.825415        2.130544    78150                    LE CHESNAY
+175       48.796361        1.794628    78490                       GALLUIS
+176       48.509194        1.928552    78660  SAINT-MARTIN-DE-BRETHENCOURT
+177       48.930440        1.527162    78980                   NEAUPHLETTE
+178       48.747565        2.112559    78117              TOUSSUS-LE-NOBLE
+179       48.836634        2.080901    78870                        BAILLY
+180       48.750285        1.916261    78310                    COIGNIERES
+181       48.947545        2.142390    78600              MAISONS-LAFFITTE
+182       49.014204        1.943799    78740                   EVECQUEMONT
+183       48.643868        1.829079    78125                   RAMBOUILLET
+184       48.796361        1.794628    78490                       GALLUIS
+185       48.673864        1.976231    78720               CERNAY-LA-VILLE
+186       48.782907        1.960077    78990                     ELANCOURT
+187       48.999663        1.880659    78250                MEZY-SUR-SEINE
+188       48.945514        1.532795    78980                        BREVAL
+189       48.896391        2.160098    78400                        CHATOU
+190       48.636718        1.952697    78720           LA CELLE-LES-BORDES

@@ -1,0 +1,248 @@
+123 49
+  0       47.310799       -0.835701    49290           BOURGNEUF-EN-MAUGES 
+  1       47.560436       -1.037911    49440                         CANDE
+  2       47.521496       -0.885794    49370          LE LOUROUX-BECONNAIS
+  3       47.679944       -0.967733    49520                LE BOURG-D'IRE
+  4       47.240000       -0.312500    49700          LOURESSE-ROCHEMENIER
+  5       47.744830       -0.416817    49640                      MORANNES
+  6       47.426935       -0.757979    49170        SAINT-GERMAIN-DES-PRES
+  7       47.120706       -1.059221    49450                 LA RENAUDIERE
+  8       47.234691       -0.005036    49400              SOUZAY-CHAMPIGNY
+  9       47.295017       -0.576142    49750              RABLAY-SUR-LAYON
+ 10       47.522150       -0.442044    49112       PELLOUAILLES-LES-VIGNES
+ 11       47.636820       -0.297131    49430                       LEZIGNE
+ 12       47.505335       -0.590629    49240                       AVRILLE
+ 13       47.600389       -0.675206    49220                 GREZ-NEUVILLE
+ 14       47.560618       -0.672607    49220    LA MEMBROLLE-SUR-LONGUENEE
+ 15       47.263939       -0.644285    49750                     CHANZEAUX
+ 16       47.281302       -1.115364    49270                     LE FUILET
+ 17       47.269900       -0.455289    49380                     CHAVAGNES
+ 18       47.212944       -0.594385    49670                      VALANJOU
+ 19       47.680214       -0.488878    49330        CHATEAUNEUF-SUR-SARTHE
+ 20       47.634672       -0.670453    49220              THORIGNE-D'ANJOU
+ 21       47.325913       -0.664652    49190         SAINT-AUBIN-DE-LUIGNE
+ 22       47.226909       -0.897021    49510               LA POITEVINIERE
+ 23       47.080575       -0.543930    49310            SAINT-PAUL-DU-BOIS
+ 24       47.255800       -0.984700    49110    LA SALLE-ET-CHAPELLE-AUBRY
+ 25       47.548480       -1.124105    49440                       FREIGNE
+ 26       47.351506       -0.762839    49290           CHALONNES-SUR-LOIRE
+ 27       47.080575       -0.543930    49310            SAINT-PAUL-DU-BOIS
+ 28       47.689224       -0.868363    49500                         SEGRE
+ 29       47.318571       -0.409402    49320                   LES ALLEUDS
+ 30       47.457871       -0.658269    49070        SAINT-JEAN-DE-LINIERES
+ 31       47.270795       -1.075065    49110          SAINT-REMY-EN-MAUGES
+ 32       47.005005       -0.851773    49280                 LA TESSOUALLE
+ 33       47.571015       -0.592743    49460                         FENEU
+ 34       47.521496       -0.885794    49370          LE LOUROUX-BECONNAIS
+ 35       47.393765        0.053090    49390                     VERNANTES
+ 36       47.138143       -0.892960    49122               LE MAY-SUR-EVRE
+ 37       47.486630       -0.683590    49070     SAINT-LAMBERT-LA-POTHERIE
+ 38       47.266427       -0.576541    49380               CHAMP-SUR-LAYON
+ 39       47.650009       -0.698495    49220           MONTREUIL-SUR-MAINE
+ 40       47.302223        0.065244    49650            BRAIN-SUR-ALLONNES
+ 41       47.350705       -0.950170    49410       SAINT-LAURENT-DU-MOTTAY
+ 42       47.295017       -0.576142    49750              RABLAY-SUR-LAYON
+ 43       47.528921       -0.610066    49460              MONTREUIL-JUIGNE
+ 44       47.147958       -1.065132    49450          VILLEDIEU-LA-BLOUERE
+ 45       47.342087       -1.164507    49530                          LIRE
+ 46       47.284043       -1.255967    49270    SAINT-SAUVEUR-DE-LANDEMONT
+ 47       47.121355       -0.713315    49340                        VEZINS
+ 48       47.117124       -0.366133    49560               NUEIL-SUR-LAYON
+ 49       47.101355       -1.128084    49230           MONTFAUCON-MONTIGNE
+ 50       47.253830       -0.899243    49110              LE PIN-EN-MAUGES
+ 51       47.757300       -0.495419    49330                          MIRE
+ 52       47.377177       -0.611478    49190                         DENEE
+ 53       47.080575       -0.543930    49310            SAINT-PAUL-DU-BOIS
+ 54       47.393127       -0.044155    49160      SAINT-PHILBERT-DU-PEUPLE
+ 55       47.100094       -0.995558    49450      SAINT-ANDRE-DE-LA-MARCHE
+ 56       47.240000       -0.312500    49700          LOURESSE-ROCHEMENIER
+ 57       47.486846       -0.189830    49250               FONTAINE-GUERIN
+ 58       47.206472       -0.991656    49600                     BEAUPREAU
+ 59       47.503413       -0.801390    49370             BECON-LES-GRANITS
+ 60       47.266427       -0.576541    49380               CHAMP-SUR-LAYON
+ 61       47.521496       -0.885794    49370          LE LOUROUX-BECONNAIS
+ 62       47.063104       -0.940147    49280                 LA SEGUINIERE
+ 63       47.267202       -0.503547    49380                      THOUARCE
+ 64       47.624017       -0.071030    49150                         CLEFS
+ 65       47.338331       -1.110932    49530                      BOUZILLE
+ 66       47.142877       -0.698469    49120                 LA TOURLANDRY
+ 67       47.139104       -0.207405    49260                     VAUDELNAY
+ 68       47.357131       -1.015158    49410        SAINT-FLORENT-LE-VIEIL
+ 69       47.486630       -0.683590    49070     SAINT-LAMBERT-LA-POTHERIE
+ 70       47.491878       -0.547877    49100                        ANGERS
+ 71       47.655166       -0.496654    49330                     JUVARDEIL
+ 72       47.600665       -0.834591    49220                  VERN-D'ANJOU
+ 73       47.744830       -0.416817    49640                      MORANNES
+ 74       47.437417        0.160015    49390               PARCAY-LES-PINS
+ 75       47.269759       -1.026043    49110       SAINT-PIERRE-MONTLIMART
+ 76       47.512893        0.114414    49490                        NOYANT
+ 77       47.357402       -0.551212    49610                MOZE-SUR-LOUET
+ 78       47.741226       -0.968767    49520                BOUILLE-MENARD
+ 79       47.210082       -0.727408    49120                      CHEMILLE
+ 80       47.046180       -0.816100    49280            MAZIERES-EN-MAUGES
+ 81       47.193616       -0.275184    49700              DOUE-LA-FONTAINE
+ 82       47.595823       -0.184210    49150              CHEVIRE-LE-ROUGE
+ 83       47.408837       -0.760603    49170       SAINT-GEORGES-SUR-LOIRE
+ 84       47.555811       -0.232750    49140                         JARZE
+ 85       47.370703       -0.496747    49610     SAINT-MELAINE-SUR-AUBANCE
+ 86       47.486630       -0.683590    49070     SAINT-LAMBERT-LA-POTHERIE
+ 87       47.365296       -0.935009    49410           LE MESNIL-EN-VALLEE
+ 88       47.491878       -0.547877    49100                        ANGERS
+ 89       47.182974       -1.018836    49600          LA CHAPELLE-DU-GENET
+ 90       47.356431       -0.654698    49190           ROCHEFORT-SUR-LOIRE
+ 91       47.235000       -0.155000    49400                    ROU-MARSON
+ 92       47.568314       -0.418153    49140                     SOUCELLES
+ 93       47.422067       -0.609730    49080                   BOUCHEMAINE
+ 94       47.412000       -0.864030    49123           CHAMPTOCE-SUR-LOIRE
+ 95       47.182974       -1.018836    49600          LA CHAPELLE-DU-GENET
+ 96       47.226909       -0.897021    49510               LA POITEVINIERE
+ 97       47.757300       -0.495419    49330                          MIRE
+ 98       47.621011       -0.606750    49330                SCEAUX-D'ANJOU
+ 99       47.325881       -0.055200    49680                          VIVY
+100       47.365296       -0.935009    49410           LE MESNIL-EN-VALLEE
+101       47.269900       -0.455289    49380                     CHAVAGNES
+102       47.437417        0.160015    49390               PARCAY-LES-PINS
+103       47.456726       -0.398542    49800                        ANDARD
+104       47.175523       -0.060476    49260                         BREZE
+105       47.193616       -0.275184    49700              DOUE-LA-FONTAINE
+106       47.310917       -0.591277    49750            BEAULIEU-SUR-LAYON
+107       47.531283       -0.568877    49460              CANTENAY-EPINARD
+108       47.560417       -0.422477    49140                    VILLEVEQUE
+109       47.332045       -1.055352    49410     LA CHAPELLE-SAINT-FLORENT
+110       47.286430       -0.848120    49120              SAINTE-CHRISTINE
+111       47.387918       -0.859788    49570            MONTJEAN-SUR-LOIRE
+112       47.154247       -0.297333    49700        LES VERCHERS-SUR-LAYON
+113       47.521496       -0.885794    49370          LE LOUROUX-BECONNAIS
+114       47.358900       -0.299700    49350  SAINT-GEORGES-DES-SEPT-VOIES
+115       47.286822       -0.984018    49110            CHAUDRON-EN-MAUGES
+116       47.171099       -0.954517    49600                       ANDREZE
+117       47.758341       -0.927156    49520                     CHATELAIS
+118       47.426935       -0.757979    49170        SAINT-GERMAIN-DES-PRES
+119       47.650009       -0.698495    49220           MONTREUIL-SUR-MAINE
+120       47.568314       -0.418153    49140                     SOUCELLES
+121       47.744830       -0.416817    49640                      MORANNES
+122       47.154247       -0.297333    49700        LES VERCHERS-SUR-LAYON
+123       47.705277       -0.959404    49520           NOYANT-LA-GRAVOYERE
+124       47.670898       -0.243812    49430                        DURTAL
+125       47.525371       -0.744978    49370     SAINT-CLEMENT-DE-LA-PLACE
+126       47.301692       -0.634216    49750       SAINT-LAMBERT-DU-LATTAY
+127       47.150275       -0.760094    49120      SAINT-GEORGES-DES-GARDES
+128       47.332045       -1.055352    49410     LA CHAPELLE-SAINT-FLORENT
+129       47.357131       -1.015158    49410        SAINT-FLORENT-LE-VIEIL
+130       47.317420       -0.802284    49290    SAINT-LAURENT-DE-LA-PLAINE
+131       47.150275       -0.760094    49120      SAINT-GEORGES-DES-GARDES
+132       47.440591       -0.217616    49250            BEAUFORT-EN-VALLEE
+133       47.531283       -0.568877    49460              CANTENAY-EPINARD
+134       47.306810       -1.001185    49110                BOTZ-EN-MAUGES
+135       47.255800       -0.984700    49110    LA SALLE-ET-CHAPELLE-AUBRY
+136       47.522150       -0.442044    49112       PELLOUAILLES-LES-VIGNES
+137       47.351177       -0.225324    49350         LES ROSIERS-SUR-LOIRE
+138       47.337469       -1.267219    49270                  CHAMPTOCEAUX
+139       47.634672       -0.670453    49220              THORIGNE-D'ANJOU
+140       47.307358       -0.156502    49350     CHENEHUTTE-TREVES-CUNAULT
+141       47.118660       -1.125127    49230       SAINT-GERMAIN-SUR-MOINE
+142       47.486630       -0.683590    49070     SAINT-LAMBERT-LA-POTHERIE
+143       47.615269       -0.468465    49125                        TIERCE
+144       47.400231       -0.371744    49320                BLAISON-GOHIER
+145       47.060905       -1.022285    49740                    LA ROMAGNE
+146       47.306810       -1.001185    49110                BOTZ-EN-MAUGES
+147       47.267202       -0.503547    49380                      THOUARCE
+148       47.408837       -0.760603    49170       SAINT-GEORGES-SUR-LOIRE
+149       47.655166       -0.496654    49330                     JUVARDEIL
+150       47.424616       -0.524654    49130               LES PONTS-DE-CE
+151       47.291345       -0.914960    49110       SAINT-QUENTIN-EN-MAUGES
+152       47.578996       -0.550404    49460             SOULAIRE-ET-BOURG
+153       47.700050       -0.364153    49640                      DAUMERAY
+154       47.269900       -0.455289    49380                     CHAVAGNES
+155       47.200241       -0.427962    49540                         TIGNE
+156       47.595823       -0.184210    49150              CHEVIRE-LE-ROUGE
+157       47.182974       -1.018836    49600          LA CHAPELLE-DU-GENET
+158       47.577536       -0.363540    49140           SEICHES-SUR-LE-LOIR
+159       47.337469       -1.267219    49270                  CHAMPTOCEAUX
+160       47.435281       -0.693761    49170     SAINT-MARTIN-DU-FOUILLOUX
+161       47.034479       -0.608727    49360                      SOMLOIRE
+162       47.421850       -0.390903    49800                    LA BOHALLE
+163       47.456726       -0.398542    49800                        ANDARD
+164       47.679944       -0.967733    49520                LE BOURG-D'IRE
+165       47.230659       -1.115202    49600                LE PUISET-DORE
+166       47.284043       -1.255967    49270    SAINT-SAUVEUR-DE-LANDEMONT
+167       47.095136       -0.796526    49340                       NUAILLE
+168       47.358377       -0.861543    49620                  LA POMMERAYE
+169       47.212944       -0.594385    49670                      VALANJOU
+170       47.512893        0.114414    49490                        NOYANT
+171       47.468607       -0.495751    49124      SAINT-BARTHELEMY-D'ANJOU
+172       47.464706       -0.708882    49170          SAINT-LEGER-DES-BOIS
+173       47.310917       -0.591277    49750            BEAULIEU-SUR-LAYON
+174       47.665387       -0.571184    49330                     CHAMPIGNE
+175       47.635871       -1.045889    49440          CHALLAIN-LA-POTHERIE
+176       47.131424       -0.156119    49260              MONTREUIL-BELLAY
+177       47.394963       -0.436822    49320      SAINT-SATURNIN-SUR-LOIRE
+178       47.486846       -0.189830    49250               FONTAINE-GUERIN
+179       47.260375       -1.045807    49110                   MONTREVAULT
+180       47.307358       -0.156502    49350     CHENEHUTTE-TREVES-CUNAULT
+181       47.680214       -0.488878    49330        CHATEAUNEUF-SUR-SARTHE
+182       47.284043       -1.255967    49270    SAINT-SAUVEUR-DE-LANDEMONT
+183       47.740194       -1.172892    49420                       POUANCE
+184       47.584449       -0.765756    49220           BRAIN-SUR-LONGUENEE
+185       47.317420       -0.802284    49290    SAINT-LAURENT-DE-LA-PLAINE
+186       47.627851       -0.714564    49220              LE LION-D'ANGERS
+187       47.621004       -0.508704    49125                       CHEFFES
+188       47.267202       -0.503547    49380                      THOUARCE
+189       47.286822       -0.984018    49110            CHAUDRON-EN-MAUGES
+190       47.358900       -0.299700    49350  SAINT-GEORGES-DES-SEPT-VOIES
+191       47.266427       -0.576541    49380               CHAMP-SUR-LAYON
+192       47.020930       -0.703453    49360                       YZERNAY
+193       47.099639       -1.187829    49230       SAINT-CRESPIN-SUR-MOINE
+194       47.293154        0.023646    49650                      ALLONNES
+195       47.559717       -0.085341    49150           SAINT-MARTIN-D'ARCE
+196       47.370703       -0.496747    49610     SAINT-MELAINE-SUR-AUBANCE
+197       47.456208       -0.271191    49250                          MAZE
+198       47.665387       -0.571184    49330                     CHAMPIGNE
+199       47.423154       -0.557016    49130       SAINTE-GEMMES-SUR-LOIRE
+200       47.571015       -0.592743    49460                         FENEU
+201       47.423154       -0.557016    49130       SAINTE-GEMMES-SUR-LOIRE
+202       47.121355       -0.713315    49340                        VEZINS
+203       47.145553       -1.163662    49230                     TILLIERES
+204       47.211898       -0.067859    49400                         CHACE
+205       47.617379       -0.892838    49500               CHAZE-SUR-ARGOS
+206       47.578996       -0.550404    49460             SOULAIRE-ET-BOURG
+207       47.379200       -0.106700    49160               LONGUE-JUMELLES
+208       47.286822       -0.984018    49110            CHAUDRON-EN-MAUGES
+209       47.310917       -0.591277    49750            BEAULIEU-SUR-LAYON
+210       47.063104       -0.940147    49280                 LA SEGUINIERE
+211       47.263939       -0.644285    49750                     CHANZEAUX
+212       47.503413       -0.801390    49370             BECON-LES-GRANITS
+213       47.211898       -0.067859    49400                         CHACE
+214       47.650009       -0.698495    49220           MONTREUIL-SUR-MAINE
+215       47.595823       -0.184210    49150              CHEVIRE-LE-ROUGE
+216       47.212288       -0.795946    49120         LA CHAPELLE-ROUSSELIN
+217       47.226909       -0.897021    49510               LA POITEVINIERE
+218       47.679944       -0.967733    49520                LE BOURG-D'IRE
+219       47.080575       -0.543930    49310            SAINT-PAUL-DU-BOIS
+220       47.510929       -0.983971    49440                 LA CORNUAILLE
+221       47.095363       -0.685393    49340           CHANTELOUP-LES-BOIS
+222       47.377177       -0.611478    49190                         DENEE
+223       47.118660       -1.125127    49230       SAINT-GERMAIN-SUR-MOINE
+224       47.499304       -0.318934    49140                         BAUNE
+225       47.466815        0.017220    49390                    MOULIHERNE
+226       47.728895       -0.518364    49330                      CONTIGNE
+227       47.055401       -0.766437    49360                   TOUTLEMONDE
+228       47.212288       -0.795946    49120         LA CHAPELLE-ROUSSELIN
+229       47.551090       -0.809549    49370                     LA POUEZE
+230       47.437417        0.160015    49390               PARCAY-LES-PINS
+231       47.555811       -0.232750    49140                         JARZE
+232       47.576729       -0.970721    49440                        ANGRIE
+233       47.421850       -0.390903    49800                    LA BOHALLE
+234       47.101355       -1.128084    49230           MONTFAUCON-MONTIGNE
+235       47.486846       -0.189830    49250               FONTAINE-GUERIN
+236       47.351177       -0.225324    49350         LES ROSIERS-SUR-LOIRE
+237       47.564337       -0.509168    49125                      BRIOLLAY
+238       47.503413       -0.801390    49370             BECON-LES-GRANITS
+239       47.377177       -0.611478    49190                         DENEE
+240       47.531283       -0.568877    49460              CANTENAY-EPINARD
+241       47.307358       -0.156502    49350     CHENEHUTTE-TREVES-CUNAULT
+242       47.377177       -0.611478    49190                         DENEE
+243       47.670898       -0.243812    49430                        DURTAL
+244       47.223001       -0.067129    49400                      VARRAINS
+245       47.020930       -0.703453    49360                       YZERNAY
+246       47.528921       -0.610066    49460              MONTREUIL-JUIGNE

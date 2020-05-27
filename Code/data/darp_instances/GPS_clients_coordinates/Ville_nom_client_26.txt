@@ -1,0 +1,128 @@
+63 26
+  0       44.765074        4.915448    26400                         ALLEX 
+  1       44.377750        4.696981    26700                   PIERRELATTE
+  2       44.602465        4.845571    26740                     LA LAUPIE
+  3       45.028355        5.173961    26300                      JAILLANS
+  4       44.703321        4.799516    26270              SAULCE-SUR-RHONE
+  5       44.602465        4.845571    26740                     LA LAUPIE
+  6       45.070341        5.052204    26540            MOURS-SAINT-EUSEBE
+  7       44.444492        4.708432    26290                       DONZERE
+  8       44.660509        4.808772    26740                LES TOURRETTES
+  9       45.180536        4.930096    26240                     CLAVEYSON
+ 10       44.647442        4.780942    26740                  LA COUCOURDE
+ 11       44.553088        4.866156    26160              LA BATIE-ROLLAND
+ 12       44.956277        5.141076    26300                     BARBIERES
+ 13       44.554642        4.808944    26740        MONTBOUCHER-SUR-JABRON
+ 14       44.554642        4.808944    26740        MONTBOUCHER-SUR-JABRON
+ 15       45.257343        5.028907    26390                    HAUTERIVES
+ 16       45.049243        4.984137    26600          GRANGES-LES-BEAUMONT
+ 17       44.956277        5.141076    26300                     BARBIERES
+ 18       45.257343        5.028907    26390                    HAUTERIVES
+ 19       44.768280        4.839978    26250              LIVRON-SUR-DROME
+ 20       44.731345        4.922808    26400                         GRANE
+ 21       45.093467        5.047653    26380                       PEYRINS
+ 22       45.234516        4.960742    26330        CHATEAUNEUF-DE-GALAURE
+ 23       45.209993        4.819459    26240                      LAVEYRON
+ 24       44.348678        4.768295    26130     SAINT-PAUL-TROIS-CHATEAUX
+ 25       44.723430        4.940947    26400                    CHABRILLAN
+ 26       44.536615        5.014532    26160                 LE POET-LAVAL
+ 27       44.331737        4.789285    26130                SAINT-RESTITUT
+ 28       44.956277        5.141076    26300                     BARBIERES
+ 29       44.361881        5.140145    26110                         NYONS
+ 30       45.215944        4.837476    26240                  BEAUSEMBLANT
+ 31       44.556944        4.749496    26200                    MONTELIMAR
+ 32       44.713860        5.056613    26400                AOUSTE-SUR-SYE
+ 33       44.836929        4.893909    26800              ETOILE-SUR-RHONE
+ 34       45.027882        5.325798    26190       SAINT-LAURENT-EN-ROYANS
+ 35       45.246400        4.849400    26140                         ALBON
+ 36       44.338016        4.866276    26790           LA BAUME-DE-TRANSIT
+ 37       45.049243        4.984137    26600          GRANGES-LES-BEAUMONT
+ 38       44.237239        5.191743    26170            MOLLANS-SUR-OUVEZE
+ 39       44.870888        5.021946    26120                    MONTVENDRE
+ 40       44.444492        4.708432    26290                       DONZERE
+ 41       44.602465        4.845571    26740                     LA LAUPIE
+ 42       44.875215        4.884814    26800            PORTES-LES-VALENCE
+ 43       44.333249        5.061363    26110                     VINSOBRES
+ 44       44.798243        4.940839    26800                     MONTOISON
+ 45       44.247495        4.829854    26790                     ROCHEGUDE
+ 46       44.703321        4.799516    26270              SAULCE-SUR-RHONE
+ 47       45.209993        4.819459    26240                      LAVEYRON
+ 48       44.968247        5.416081    26420        LA CHAPELLE-EN-VERCORS
+ 49       44.582643        4.727183    26200                        ANCONE
+ 50       44.768280        4.839978    26250              LIVRON-SUR-DROME
+ 51       44.515266        4.823396    26780                     ESPELUCHE
+ 52       44.723430        4.940947    26400                    CHABRILLAN
+ 53       44.415954        4.762285    26290         LES GRANGES-GONTARDES
+ 54       45.070341        5.052204    26540            MOURS-SAINT-EUSEBE
+ 55       44.938181        5.028579    26120                     MONTELIER
+ 56       44.971932        4.956884    26320      SAINT-MARCEL-LES-VALENCE
+ 57       44.860956        4.941366    26760          BEAUMONT-LES-VALENCE
+ 58       45.288798        4.951565    26210      SAINT-SORLIN-EN-VALLOIRE
+ 59       44.582643        4.727183    26200                        ANCONE
+ 60       44.971932        4.956884    26320      SAINT-MARCEL-LES-VALENCE
+ 61       44.857840        4.902166    26800                    BEAUVALLON
+ 62       45.169867        4.873458    26240      SAINT-BARTHELEMY-DE-VALS
+ 63       44.711400        5.092500    26400            MIRABEL-ET-BLACONS
+ 64       44.853449        4.933354    26760                    MONTELEGER
+ 65       44.443659        4.980606    26770                     TAULIGNAN
+ 66       45.327840        4.985690    26210             LAPEYROUSE-MORNAY
+ 67       45.070341        5.052204    26540            MOURS-SAINT-EUSEBE
+ 68       44.836929        4.893909    26800              ETOILE-SUR-RHONE
+ 69       44.751895        4.822375    26270              LORIOL-SUR-DROME
+ 70       44.875215        4.884814    26800            PORTES-LES-VALENCE
+ 71       44.486136        4.751462    26780                   MALATAVERNE
+ 72       45.070341        5.052204    26540            MOURS-SAINT-EUSEBE
+ 73       45.044236        5.052735    26750              ROMANS-SUR-ISERE
+ 74       45.290874        4.813975    26140         SAINT-RAMBERT-D'ALBON
+ 75       44.536615        5.014532    26160                 LE POET-LAVAL
+ 76       44.711400        5.092500    26400            MIRABEL-ET-BLACONS
+ 77       45.028355        5.173961    26300                      JAILLANS
+ 78       44.419501        4.909444    26230                       GRIGNAN
+ 79       44.728275        5.024072    26400                         CREST
+ 80       45.178291        4.815205    26240                 SAINT-VALLIER
+ 81       45.076655        4.891023    26600                      MERCUROL
+ 82       44.602465        4.845571    26740                     LA LAUPIE
+ 83       45.302718        5.007144    26210                       MANTHES
+ 84       44.711400        5.092500    26400            MIRABEL-ET-BLACONS
+ 85       44.804364        4.978617    26120                          UPIE
+ 86       44.901118        4.955552    26120                     MALISSARD
+ 87       44.526213        5.065760    26220                     DIEULEFIT
+ 88       44.444492        4.708432    26290                       DONZERE
+ 89       44.971932        4.956884    26320      SAINT-MARCEL-LES-VALENCE
+ 90       44.602465        4.845571    26740                     LA LAUPIE
+ 91       45.148404        5.015873    26260        CHARMES-SUR-L'HERBASSE
+ 92       44.553088        4.866156    26160              LA BATIE-ROLLAND
+ 93       44.297641        4.873686    26790                       BOUCHET
+ 94       44.713860        5.056613    26400                AOUSTE-SUR-SYE
+ 95       45.180536        4.930096    26240                     CLAVEYSON
+ 96       45.142511        4.824307    26600              SERVES-SUR-RHONE
+ 97       45.288798        4.951565    26210      SAINT-SORLIN-EN-VALLOIRE
+ 98       45.088260        5.132008    26750          CHATILLON-SAINT-JEAN
+ 99       44.643928        4.873428    26740                      MARSANNE
+100       44.602465        4.845571    26740                     LA LAUPIE
+101       44.486136        4.751462    26780                   MALATAVERNE
+102       44.758557        4.989869    26400                         EURRE
+103       44.751895        4.822375    26270              LORIOL-SUR-DROME
+104       44.933393        4.892360    26000                       VALENCE
+105       45.065656        5.131736    26750         SAINT-PAUL-LES-ROMANS
+106       44.711400        5.092500    26400            MIRABEL-ET-BLACONS
+107       45.093467        5.047653    26380                       PEYRINS
+108       44.276186        5.274130    26170            BUIS-LES-BARONNIES
+109       44.276186        5.274130    26170            BUIS-LES-BARONNIES
+110       45.082491        5.087302    26750                    GENISSIEUX
+111       44.899340        5.020312    26120                      CHABEUIL
+112       44.443659        4.980606    26770                     TAULIGNAN
+113       44.286713        4.930007    26790                       TULETTE
+114       44.875215        4.884814    26800            PORTES-LES-VALENCE
+115       45.027882        5.325798    26190       SAINT-LAURENT-EN-ROYANS
+116       44.716289        4.835007    26270                    CLIOUSCLAT
+117       44.975666        5.110667    26300                       MARCHES
+118       44.933393        4.892360    26000                       VALENCE
+119       44.545852        4.935637    26160           LA BEGUDE-DE-MAZENC
+120       44.875215        4.884814    26800            PORTES-LES-VALENCE
+121       45.147070        5.036007    26260                        MARGES
+122       44.711400        5.092500    26400            MIRABEL-ET-BLACONS
+123       45.027882        5.325798    26190       SAINT-LAURENT-EN-ROYANS
+124       45.288798        4.951565    26210      SAINT-SORLIN-EN-VALLOIRE
+125       44.938181        5.028579    26120                     MONTELIER
+126       44.360346        4.860267    26130          MONTSEGUR-SUR-LAUZON

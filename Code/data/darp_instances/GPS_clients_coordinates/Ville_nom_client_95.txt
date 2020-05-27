@@ -1,0 +1,186 @@
+92 95
+  0       49.080652        1.629129    95780                LA ROCHE-GUYON 
+  1       49.024581        1.983470    95180                     MENUCOURT
+  2       49.099034        2.542967    95470                   SURVILLIERS
+  3       49.068678        2.568682    95470                        VEMARS
+  4       49.121705        2.394678    95270                         SEUGY
+  5       49.070852        2.170810    95430               AUVERS-SUR-OISE
+  6       49.116418        2.021989    95830           CORMEILLES-EN-VEXIN
+  7       49.100706        2.128767    95300                    HEROUVILLE
+  8       49.165483        1.756873    95420                 SAINT-GERVAIS
+  9       49.099034        2.542967    95470                   SURVILLIERS
+ 10       49.057372        2.541795    95380                      VILLERON
+ 11       49.022697        2.154730    95480                    PIERRELAYE
+ 12       49.068338        2.235000    95840                 VILLIERS-ADAM
+ 13       49.141551        2.284601    95260             BEAUMONT-SUR-OISE
+ 14       49.024581        1.983470    95180                     MENUCOURT
+ 15       49.136089        2.235098    95660            CHAMPAGNE-SUR-OISE
+ 16       49.065909        1.866658    95450                  FREMAINVILLE
+ 17       49.135752        2.143885    95690                    LABBEVILLE
+ 18       49.070852        2.170810    95430               AUVERS-SUR-OISE
+ 19       49.068338        2.235000    95840                 VILLIERS-ADAM
+ 20       49.063705        2.018005    95650              PUISEUX-PONTOISE
+ 21       49.157651        2.331063    95820             BRUYERES-SUR-OISE
+ 22       49.062261        2.350381    95570                   ATTAINVILLE
+ 23       49.056229        2.174637    95540                 MERY-SUR-OISE
+ 24       49.152233        2.269571    95340                        PERSAN
+ 25       49.063705        2.018005    95650              PUISEUX-PONTOISE
+ 26       49.106189        1.641780    95510                    AMENUCOURT
+ 27       49.122282        1.693459    95710                       CHAUSSY
+ 28       49.061662        1.744319    95510          SAINT-CYR-EN-ARTHIES
+ 29       49.129496        2.435195    95270                    CHAUMONTEL
+ 30       49.112288        2.217872    95290                   L'ISLE-ADAM
+ 31       48.971780        2.400724    95140            GARGES-LES-GONESSE
+ 32       49.141551        2.284601    95260             BEAUMONT-SUR-OISE
+ 33       49.110599        1.932449    95450                    LE PERCHAY
+ 34       49.093886        2.371653    95270              BELLOY-EN-FRANCE
+ 35       49.046168        2.341234    95570                    MOISSELLES
+ 36       49.083200        1.658152    95780                    HAUTE-ISLE
+ 37       48.970880        2.344080    95360                     MONTMAGNY
+ 38       49.069364        2.425466    95850              MAREIL-EN-FRANCE
+ 39       49.083200        1.658152    95780                    HAUTE-ISLE
+ 40       49.091281        2.567086    95470                    SAINT-WITZ
+ 41       49.057229        2.501047    95380             PUISEUX-EN-FRANCE
+ 42       49.175970        1.678949    95770            MONTREUIL-SUR-EPTE
+ 43       49.061864        1.709642    95510                      VETHEUIL
+ 44       48.925687        2.215847    95870                        BEZONS
+ 45       49.126040        1.951140    95640                      SANTEUIL
+ 46       49.017897        2.345221    95350                        PISCOP
+ 47       49.038027        2.216363    95550                   BESSANCOURT
+ 48       49.038069        2.360491    95440                     EZANVILLE
+ 49       49.079367        2.499747    95670                MARLY-LA-VILLE
+ 50       48.989071        2.258451    95120                        ERMONT
+ 51       49.068338        2.235000    95840                 VILLIERS-ADAM
+ 52       49.141551        2.284601    95260             BEAUMONT-SUR-OISE
+ 53       49.085028        2.195376    95430                BUTRY-SUR-OISE
+ 54       49.066210        1.733372    95510             VIENNE-EN-ARTHIES
+ 55       49.132675        1.853327    95420                CLERY-EN-VEXIN
+ 56       49.136114        2.331174    95270                NOISY-SUR-OISE
+ 57       49.086358        1.732109    95510            VILLERS-EN-ARTHIES
+ 58       49.165483        1.756873    95420                 SAINT-GERVAIS
+ 59       49.068338        2.235000    95840                 VILLIERS-ADAM
+ 60       49.093886        2.371653    95270              BELLOY-EN-FRANCE
+ 61       49.029373        2.023163    95490                       VAUREAL
+ 62       49.114786        1.855740    95450                GUIRY-EN-VEXIN
+ 63       49.070852        2.170810    95430               AUVERS-SUR-OISE
+ 64       49.112677        2.421995    95270                     LUZARCHES
+ 65       49.035358        1.865539    95450                   SERAINCOURT
+ 66       49.085028        2.195376    95430                BUTRY-SUR-OISE
+ 67       49.043002        2.506288    95380                       LOUVRES
+ 68       49.128845        2.169665    95690              NESLES-LA-VALLEE
+ 69       49.003807        2.234035    95130           LE PLESSIS-BOUCHARD
+ 70       49.076359        2.357047    95570           VILLAINES-SOUS-BOIS
+ 71       49.085070        2.414001    95270           EPINAY-CHAMPLATREUX
+ 72       49.096791        2.444794    95270                         LASSY
+ 73       49.031777        2.556900    95380            EPIAIS-LES-LOUVRES
+ 74       49.094772        1.788784    95420                       ARTHIES
+ 75       49.079367        2.499747    95670                MARLY-LA-VILLE
+ 76       49.182249        2.114574    95810                    ARRONVILLE
+ 77       49.125732        2.369483    95270                       VIARMES
+ 78       49.145222        1.982861    95640                       MARINES
+ 79       49.050966        2.100645    95000                      PONTOISE
+ 80       49.029373        2.023163    95490                       VAUREAL
+ 81       49.053038        2.393241    95720               LE MESNIL-AUBRY
+ 82       49.080177        2.108623    95300                        ENNERY
+ 83       49.062261        2.350381    95570                   ATTAINVILLE
+ 84       49.079367        2.499747    95670                MARLY-LA-VILLE
+ 85       49.066210        1.733372    95510             VIENNE-EN-ARTHIES
+ 86       49.043130        2.105287    95310           SAINT-OUEN-L'AUMONE
+ 87       49.029373        2.023163    95490                       VAUREAL
+ 88       49.094772        1.788784    95420                       ARTHIES
+ 89       49.007379        2.387981    95400               VILLIERS-LE-BEL
+ 90       48.979897        2.178638    95530           LA FRETTE-SUR-SEINE
+ 91       49.102722        1.836178    95420           WY-DIT-JOLI-VILLAGE
+ 92       49.043002        2.506288    95380                       LOUVRES
+ 93       49.166048        2.300780    95340               BERNES-SUR-OISE
+ 94       49.062261        2.350381    95570                   ATTAINVILLE
+ 95       49.043130        2.105287    95310           SAINT-OUEN-L'AUMONE
+ 96       49.081586        2.006043    95650                   MONTGEROULT
+ 97       48.983867        2.426508    95400        ARNOUVILLE-LES-GONESSE
+ 98       49.061864        1.709642    95510                      VETHEUIL
+ 99       49.125094        1.753743    95420                   GENAINVILLE
+100       49.129496        2.435195    95270                    CHAUMONTEL
+101       49.127099        1.886637    95450                       COMMENY
+102       49.070852        2.170810    95430               AUVERS-SUR-OISE
+103       48.983867        2.426508    95400        ARNOUVILLE-LES-GONESSE
+104       49.192975        1.692491    95770                          BUHY
+105       49.130277        2.050260    95810             GRISY-LES-PLATRES
+106       49.007379        2.387981    95400               VILLIERS-LE-BEL
+107       49.063705        2.018005    95650              PUISEUX-PONTOISE
+108       49.182249        2.114574    95810                    ARRONVILLE
+109       48.947411        2.248950    95100                    ARGENTEUIL
+110       49.139487        1.661194    95710                    BRAY-ET-LU
+111       49.100119        1.775880    95420            MAUDETOUR-EN-VEXIN
+112       49.136089        2.235098    95660            CHAMPAGNE-SUR-OISE
+113       48.984332        2.460589    95500                       GONESSE
+114       48.987412        2.187929    95370       MONTIGNY-LES-CORMEILLES
+115       49.087046        1.871917    95450                       AVERNES
+116       49.045045        2.551651    95380      CHENNEVIERES-LES-LOUVRES
+117       49.083200        1.658152    95780                    HAUTE-ISLE
+118       49.035358        1.865539    95450                   SERAINCOURT
+119       49.077124        2.205492    95630                        MERIEL
+120       49.136089        2.235098    95660            CHAMPAGNE-SUR-OISE
+121       49.102722        1.836178    95420           WY-DIT-JOLI-VILLAGE
+122       49.125094        1.753743    95420                   GENAINVILLE
+123       49.206730        1.679768    95770          SAINT-CLAIR-SUR-EPTE
+124       49.123380        2.064914    95810                   EPIAIS-RHUS
+125       49.073261        1.771272    95510                      AINCOURT
+126       49.145222        1.982861    95640                       MARINES
+127       49.083200        1.658152    95780                    HAUTE-ISLE
+128       49.030343        2.326213    95330                        DOMONT
+129       49.114840        1.908098    95450                    GOUZANGREZ
+130       49.061864        1.709642    95510                      VETHEUIL
+131       49.137678        2.114265    95810                 VALLANGOUJARD
+132       49.113904        2.208519    95620                       PARMAIN
+133       49.135752        2.143885    95690                    LABBEVILLE
+134       49.043675        2.307852    95570                    BOUFFEMONT
+135       49.139585        1.718722    95420                     OMERVILLE
+136       49.128845        2.169665    95690              NESLES-LA-VALLEE
+137       49.038069        2.360491    95440                     EZANVILLE
+138       49.057372        2.541795    95380                      VILLERON
+139       49.114786        1.855740    95450                GUIRY-EN-VEXIN
+140       49.130277        2.050260    95810             GRISY-LES-PLATRES
+141       48.989071        2.258451    95120                        ERMONT
+142       49.083200        1.658152    95780                    HAUTE-ISLE
+143       49.102722        1.836178    95420           WY-DIT-JOLI-VILLAGE
+144       49.066210        1.733372    95510             VIENNE-EN-ARTHIES
+145       48.984332        2.460589    95500                       GONESSE
+146       49.116418        2.021989    95830           CORMEILLES-EN-VEXIN
+147       49.145222        1.982861    95640                       MARINES
+148       49.077124        2.205492    95630                        MERIEL
+149       48.988506        2.299731    95230        SOISY-SOUS-MONTMORENCY
+150       49.024491        2.424622    95720                     BOUQUEVAL
+151       49.083200        1.658152    95780                    HAUTE-ISLE
+152       49.043130        2.105287    95310           SAINT-OUEN-L'AUMONE
+153       49.043002        2.506288    95380                       LOUVRES
+154       49.091281        2.567086    95470                    SAINT-WITZ
+155       49.151726        1.787148    95420                MAGNY-EN-VEXIN
+156       49.151726        1.787148    95420                MAGNY-EN-VEXIN
+157       49.076359        2.357047    95570           VILLAINES-SOUS-BOIS
+158       49.007159        2.468417    95500                    LE THILLAY
+159       49.100706        2.128767    95300                    HEROUVILLE
+160       49.114840        1.908098    95450                    GOUZANGREZ
+161       49.127099        1.886637    95450                       COMMENY
+162       49.130277        2.050260    95810             GRISY-LES-PLATRES
+163       49.122282        1.693459    95710                       CHAUSSY
+164       49.100119        1.775880    95420            MAUDETOUR-EN-VEXIN
+165       49.183202        1.732004    95420          LA CHAPELLE-EN-VEXIN
+166       49.043130        2.105287    95310           SAINT-OUEN-L'AUMONE
+167       49.055486        2.270137    95560                       CHAUVRY
+168       49.125732        2.369483    95270                       VIARMES
+169       49.103097        1.863349    95450                    GADANCOURT
+170       48.947411        2.248950    95100                    ARGENTEUIL
+171       49.160453        1.937421    95750                         CHARS
+172       49.045045        2.551651    95380      CHENNEVIERES-LES-LOUVRES
+173       49.083200        1.658152    95780                    HAUTE-ISLE
+174       49.094772        1.788784    95420                       ARTHIES
+175       49.151726        1.787148    95420                MAGNY-EN-VEXIN
+176       49.089788        2.278096    95590             NERVILLE-LA-FORET
+177       49.068338        2.235000    95840                 VILLIERS-ADAM
+178       49.099034        2.542967    95470                   SURVILLIERS
+179       48.983867        2.426508    95400        ARNOUVILLE-LES-GONESSE
+180       49.038027        2.216363    95550                   BESSANCOURT
+181       49.106189        1.641780    95510                    AMENUCOURT
+182       49.052970        2.451319    95190           FONTENAY-EN-PARISIS
+183       49.141551        2.284601    95260             BEAUMONT-SUR-OISE
+184       49.019157        2.247531    95320            SAINT-LEU-LA-FORET

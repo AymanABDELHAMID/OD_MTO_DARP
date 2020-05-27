@@ -1,0 +1,114 @@
+56 30
+  0       43.788347        4.233170    30114            NAGES-ET-SOLORGUES 
+  1       43.795520        4.378988    30132                   CAISSARGUES
+  2       43.939518        4.564296    30210                     REMOULINS
+  3       44.260102        4.196420    30500                 SAINT-AMBROIX
+  4       44.052407        4.137010    30360                    VEZENOBRES
+  5       43.881932        4.490436    30320                       BEZOUCE
+  6       44.174338        4.106159    30340      SAINT-JULIEN-LES-ROSIERS
+  7       44.261034        4.648079    30130             PONT-SAINT-ESPRIT
+  8       44.024696        4.793843    30150                    SAUVETERRE
+  9       44.050300        4.020300    30140             BOISSET-ET-GAUJAC
+ 10       43.756755        4.312928    30620                        AUBORD
+ 11       43.887159        4.188910    30730          SAINT-MAMERT-DU-GARD
+ 12       43.795520        4.378988    30132                   CAISSARGUES
+ 13       43.882497        4.561617    30840                        MEYNES
+ 14       44.052407        4.137010    30360                    VEZENOBRES
+ 15       44.260102        4.196420    30500                 SAINT-AMBROIX
+ 16       44.045383        4.440771    30700      SAINT-QUENTIN-LA-POTERIE
+ 17       44.054830        4.699936    30126      SAINT-LAURENT-DES-ARBRES
+ 18       43.783450        4.089738    30250                     SOMMIERES
+ 19       44.153165        4.054033    30480                       CENDRAS
+ 20       43.925681        4.263559    30190                   LA CALMETTE
+ 21       44.012110        4.419946    30700                          UZES
+ 22       44.174338        4.106159    30340      SAINT-JULIEN-LES-ROSIERS
+ 23       43.910960        3.998719    30260                       QUISSAC
+ 24       43.833400        4.325692    30900                         NIMES
+ 25       43.692984        4.278326    30600                       VAUVERT
+ 26       44.143752        4.130462    30340        SAINT-PRIVAT-DES-VIEUX
+ 27       44.012930        4.698161    30126                         TAVEL
+ 28       44.127204        4.083352    30100                          ALES
+ 29       43.675560        4.236198    30740                     LE CAILAR
+ 30       43.940731        3.949454    30610                         SAUVE
+ 31       44.050300        4.020300    30140             BOISSET-ET-GAUJAC
+ 32       44.162520        4.620075    30200              BAGNOLS-SUR-CEZE
+ 33       43.831502        4.497260    30129                      REDESSAN
+ 34       43.789831        4.309296    30540                       MILHAUD
+ 35       43.936198        4.323305    30190              SAINTE-ANASTASIE
+ 36       44.162721        4.082699    30520    SAINT-MARTIN-DE-VALGALGUES
+ 37       44.050300        4.020300    30140             BOISSET-ET-GAUJAC
+ 38       43.915408        4.507605    30210                       LEDENON
+ 39       43.954465        4.773580    30133                    LES ANGLES
+ 40       43.738971        4.180211    30670                  AIGUES-VIVES
+ 41       43.633443        4.195484    30220       SAINT-LAURENT-D'AIGOUZE
+ 42       43.877254        4.468303    30320                 SAINT-GERVASY
+ 43       44.210777        4.029940    30110                LA GRAND-COMBE
+ 44       44.220369        3.989709    30110         BRANOUX-LES-TAILLADES
+ 45       43.963410        4.796959    30400        VILLENEUVE-LES-AVIGNON
+ 46       43.915408        4.507605    30210                       LEDENON
+ 47       43.941460        4.681451    30650                          SAZE
+ 48       43.970446        4.278316    30190                 SAINT-CHAPTES
+ 49       44.045383        4.440771    30700      SAINT-QUENTIN-LA-POTERIE
+ 50       44.105296        4.657439    30290                        LAUDUN
+ 51       43.827226        4.563317    30300      JONQUIERES-SAINT-VINCENT
+ 52       43.853401        4.628383    30300                  VALLABREGUES
+ 53       43.728422        4.348684    30510                       GENERAC
+ 54       43.677079        4.433703    30800                  SAINT-GILLES
+ 55       43.910960        3.998719    30260                       QUISSAC
+ 56       43.853493        4.605146    30300                         COMPS
+ 57       44.241679        4.111088    30960    SAINT-FLORENT-SUR-AUZONNET
+ 58       44.293661        4.091870    30160                      BESSEGES
+ 59       43.567172        4.192587    30220                 AIGUES-MORTES
+ 60       43.718739        4.323734    30640                    BEAUVOISIN
+ 61       43.728422        4.348684    30510                       GENERAC
+ 62       43.692762        4.610861    30300                      FOURQUES
+ 63       43.633443        4.195484    30220       SAINT-LAURENT-D'AIGOUZE
+ 64       44.012110        4.419946    30700                          UZES
+ 65       43.862772        4.433106    30320                  MARGUERITTES
+ 66       43.941460        4.681451    30650                          SAZE
+ 67       43.831502        4.497260    30129                      REDESSAN
+ 68       43.967088        4.524050    30210             VERS-PONT-DU-GARD
+ 69       44.052407        4.137010    30360                    VEZENOBRES
+ 70       44.293661        4.091870    30160                      BESSEGES
+ 71       43.799044        4.434622    30230                  BOUILLARGUES
+ 72       44.162721        4.082699    30520    SAINT-MARTIN-DE-VALGALGUES
+ 73       44.260102        4.196420    30500                 SAINT-AMBROIX
+ 74       43.877254        4.468303    30320                 SAINT-GERVASY
+ 75       44.012930        4.698161    30126                         TAVEL
+ 76       43.718739        4.323734    30640                    BEAUVOISIN
+ 77       44.050300        4.020300    30140             BOISSET-ET-GAUJAC
+ 78       43.743522        4.220695    30310                       VERGEZE
+ 79       43.833400        4.325692    30900                         NIMES
+ 80       44.028544        4.379938    30700     MONTAREN-ET-SAINT-MEDIERS
+ 81       43.936198        4.323305    30190              SAINTE-ANASTASIE
+ 82       43.974560        4.689695    30650             ROCHEFORT-DU-GARD
+ 83       44.083566        4.077927    30380       SAINT-CHRISTOL-LES-ALES
+ 84       44.045383        4.440771    30700      SAINT-QUENTIN-LA-POTERIE
+ 85       43.939518        4.564296    30210                     REMOULINS
+ 86       44.024696        4.793843    30150                    SAUVETERRE
+ 87       43.992927        3.606322    30120                      LE VIGAN
+ 88       43.785164        4.191524    30420                     CALVISSON
+ 89       43.963410        4.796959    30400        VILLENEUVE-LES-AVIGNON
+ 90       44.162520        4.620075    30200              BAGNOLS-SUR-CEZE
+ 91       43.743522        4.220695    30310                       VERGEZE
+ 92       43.853401        4.628383    30300                  VALLABREGUES
+ 93       43.765169        4.286234    30620                        BERNIS
+ 94       44.054830        4.699936    30126      SAINT-LAURENT-DES-ARBRES
+ 95       43.728422        4.348684    30510                       GENERAC
+ 96       44.028544        4.379938    30700     MONTAREN-ET-SAINT-MEDIERS
+ 97       44.263253        4.597773    30130       SAINT-PAULET-DE-CAISSON
+ 98       44.162520        4.620075    30200              BAGNOLS-SUR-CEZE
+ 99       44.052407        4.137010    30360                    VEZENOBRES
+100       43.925681        4.263559    30190                   LA CALMETTE
+101       43.677079        4.433703    30800                  SAINT-GILLES
+102       43.513984        4.161614    30240                LE GRAU-DU-ROI
+103       43.756755        4.312928    30620                        AUBORD
+104       44.143752        4.130462    30340        SAINT-PRIVAT-DES-VIEUX
+105       44.261034        4.648079    30130             PONT-SAINT-ESPRIT
+106       43.925681        4.263559    30190                   LA CALMETTE
+107       44.054830        4.699936    30126      SAINT-LAURENT-DES-ARBRES
+108       44.105296        4.657439    30290                        LAUDUN
+109       43.974560        4.689695    30650             ROCHEFORT-DU-GARD
+110       43.946459        4.213944    30190     SAINT-GENIES-DE-MALGOIRES
+111       44.028544        4.379938    30700     MONTAREN-ET-SAINT-MEDIERS
+112       44.052407        4.137010    30360                    VEZENOBRES

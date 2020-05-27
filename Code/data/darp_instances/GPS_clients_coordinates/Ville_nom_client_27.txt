@@ -1,0 +1,222 @@
+110 27
+  0       48.939348        0.480888    27390           MONTREUIL-L'ARGILLE 
+  1       49.212702        0.929684    27370        AMFREVILLE-LA-CAMPAGNE
+  2       49.081506        0.777465    27170             BEAUMONT-LE-ROGER
+  3       49.142350        0.994078    27110      SAINT-AUBIN-D'ECROSVILLE
+  4       48.865686        1.419583    27530                  EZY-SUR-EURE
+  5       49.137693        0.456406    27230                   THIBERVILLE
+  6       49.156334        1.098391    27400                  CANAPPEVILLE
+  7       49.359814        0.542285    27500          MANNEVILLE-SUR-RISLE
+  8       49.114545        0.465862    27230                      DRUCOURT
+  9       48.864933        1.345867    27220                   BOIS-LE-ROI
+ 10       48.996490        1.105048    27180             ARNIERES-SUR-ITON
+ 11       49.197177        1.662789    27420              CHATEAU-SUR-EPTE
+ 12       49.236351        1.026317    27370         SAINT-DIDIER-DES-BOIS
+ 13       49.166874        0.785749    27800                      HARCOURT
+ 14       48.825901        1.346121    27810             MARCILLY-SUR-EURE
+ 15       49.130278        1.215593    27490           FONTAINE-HEUDEBOURG
+ 16       48.836211        0.912938    27160                      BRETEUIL
+ 17       49.119043        1.436665    27950         SAINT-PIERRE-D'AUTILS
+ 18       48.946012        0.665294    27330             LA BARRE-EN-OUCHE
+ 19       49.360170        1.355767    27380            FLEURY-SUR-ANDELLE
+ 20       48.930189        1.440659    27730                         BUEIL
+ 21       48.771381        1.292168    27650           MESNIL-SUR-L'ESTREE
+ 22       49.274293        0.968798    27370                LE THUIT-ANGER
+ 23       49.226875        0.905436    27370         TOURVILLE-LA-CAMPAGNE
+ 24       48.774187        1.202189    27320    LA MADELEINE-DE-NONANCOURT
+ 25       49.288309        1.498784    27150                     BOISEMONT
+ 26       49.166874        0.785749    27800                      HARCOURT
+ 27       49.337015        1.256917    27610           ROMILLY-SUR-ANDELLE
+ 28       49.083406        1.073271    27930                  SACQUENVILLE
+ 29       49.265929        0.939980    27370               LE THUIT-SIGNOL
+ 30       49.232470        1.220324    27430       SAINT-PIERRE-DU-VAUVRAY
+ 31       49.021914        0.980428    27190        FERRIERES-HAUT-CLOCHER
+ 32       49.095971        1.279069    27490          AUTHEUIL-AUTHOUILLET
+ 33       49.130278        1.215593    27490           FONTAINE-HEUDEBOURG
+ 34       48.788066        0.849883    27160                  FRANCHEVILLE
+ 35       49.147172        1.149121    27400           AMFREVILLE-SUR-ITON
+ 36       49.109088        1.113776    27930                     BROSVILLE
+ 37       49.236351        1.026317    27370         SAINT-DIDIER-DES-BOIS
+ 38       49.160655        1.245227    27600                         AILLY
+ 39       49.147172        1.149121    27400           AMFREVILLE-SUR-ITON
+ 40       49.305299        1.095996    27340          CRIQUEBEUF-SUR-SEINE
+ 41       49.097024        0.888812    27170                        COMBON
+ 42       49.130278        1.215593    27490           FONTAINE-HEUDEBOURG
+ 43       48.769377        0.809618    27580                        BOURTH
+ 44       49.052619        1.124780    27930                        AVIRON
+ 45       49.137693        0.456406    27230                   THIBERVILLE
+ 46       49.226674        0.841972    27370                 LE GROS-THEIL
+ 47       48.864933        1.345867    27220                   BOIS-LE-ROI
+ 48       49.232470        1.220324    27430       SAINT-PIERRE-DU-VAUVRAY
+ 49       49.083406        1.073271    27930                  SACQUENVILLE
+ 50       49.047845        0.405552    27230     SAINT-GERMAIN-LA-CAMPAGNE
+ 51       48.865686        1.419583    27530                  EZY-SUR-EURE
+ 52       48.948926        0.815292    27190                  LE FIDELAIRE
+ 53       48.832350        0.964676    27160                CONDE-SUR-ITON
+ 54       49.160734        1.333410    27600                       GAILLON
+ 55       49.318629        1.226022    27590                        PITRES
+ 56       49.160655        1.245227    27600                         AILLY
+ 57       49.007770        1.087867    27180    SAINT-SEBASTIEN-DE-MORSENT
+ 58       49.091492        1.605403    27620                         GASNY
+ 59       49.194738        1.325123    27940          VILLERS-SUR-LE-ROULE
+ 60       49.255086        1.205941    27100                  LE VAUDREUIL
+ 61       49.230419        0.499469    27560                       LIEUREY
+ 62       48.947447        1.486344    27640         VILLIERS-EN-DESOEUVRE
+ 63       49.272602        1.217085    27100                  VAL-DE-REUIL
+ 64       49.097024        0.888812    27170                        COMBON
+ 65       48.910748        1.439306    27780             GARENNES-SUR-EURE
+ 66       49.299662        0.873662    27520     BOURGTHEROULDE-INFREVILLE
+ 67       48.946012        0.665294    27330             LA BARRE-EN-OUCHE
+ 68       49.091958        1.488107    27200                        VERNON
+ 69       49.349104        0.503570    27500         SAINT-GERMAIN-VILLAGE
+ 70       48.991371        1.039231    27190        LA BONNEVILLE-SUR-ITON
+ 71       49.299662        0.873662    27520     BOURGTHEROULDE-INFREVILLE
+ 72       48.988248        1.158381    27930        ANGERVILLE-LA-CAMPAGNE
+ 73       49.021914        0.980428    27190        FERRIERES-HAUT-CLOCHER
+ 74       49.251196        0.966076    27370       SAINT-PIERRE-DES-FLEURS
+ 75       49.114545        0.465862    27230                      DRUCOURT
+ 76       49.131990        1.444709    27510       PRESSAGNY-L'ORGUEILLEUX
+ 77       49.158996        1.604676    27630                          ECOS
+ 78       49.299662        0.873662    27520     BOURGTHEROULDE-INFREVILLE
+ 79       49.319234        1.147434    27460                      IGOVILLE
+ 80       49.251583        1.698009    27720                         DANGU
+ 81       49.078291        1.163070    27930                   NORMANVILLE
+ 82       49.363646        0.461844    27500                  TOUTAINVILLE
+ 83       49.310407        1.432764    27440                        ECOUIS
+ 84       49.119043        1.436665    27950         SAINT-PIERRE-D'AUTILS
+ 85       49.383066        0.801880    27310        HONGUEMARE-GUENOUVILLE
+ 86       49.166874        0.785749    27800                      HARCOURT
+ 87       49.305673        1.611793    27150                     ETREPAGNY
+ 88       49.095971        1.279069    27490          AUTHEUIL-AUTHOUILLET
+ 89       49.008928        0.528768    27270                       BROGLIE
+ 90       48.961817        0.942638    27190              CONCHES-EN-OUCHE
+ 91       48.988248        1.158381    27930        ANGERVILLE-LA-CAMPAGNE
+ 92       49.097296        1.378625    27950         LA CHAPELLE-REANVILLE
+ 93       48.983910        1.021052    27190                     GLISOLLES
+ 94       49.142350        0.994078    27110      SAINT-AUBIN-D'ECROSVILLE
+ 95       49.383066        0.801880    27310        HONGUEMARE-GUENOUVILLE
+ 96       48.880420        0.811149    27160          LES BAUX-DE-BRETEUIL
+ 97       49.242334        1.653195    27870                         VESLY
+ 98       49.330800        0.643100    27290           APPEVILLE-ANNEBAULT
+ 99       49.231559        1.240280    27430                          ANDE
+100       48.968806        1.097844    27180         LES BAUX-SAINTE-CROIX
+101       49.251583        1.698009    27720                         DANGU
+102       49.295049        0.649997    27290      SAINT-PHILBERT-SUR-RISLE
+103       49.173195        1.182376    27400                      ACQUIGNY
+104       49.087971        0.763271    27170                    BEAUMONTEL
+105       48.816924        0.886542    27160                  LA GUEROULDE
+106       49.386252        1.307555    27380               BOURG-BEAUDOUIN
+107       48.768590        1.260500    27320        SAINT-GERMAIN-SUR-AVRE
+108       48.895442        1.361518    27220                      MOUETTES
+109       49.109422        1.241931    27490        LA CROIX-SAINT-LEUFROY
+110       49.305299        1.095996    27340          CRIQUEBEUF-SUR-SEINE
+111       49.091492        1.605403    27620                         GASNY
+112       49.303449        1.158169    27340               PONT-DE-L'ARCHE
+113       49.194738        1.325123    27940          VILLERS-SUR-LE-ROULE
+114       49.156334        1.098391    27400                  CANAPPEVILLE
+115       49.047710        1.162302    27930                      GRAVIGNY
+116       48.769377        0.809618    27580                        BOURTH
+117       49.166874        0.785749    27800                      HARCOURT
+118       49.234538        1.178174    27400                    INCARVILLE
+119       49.242334        1.653195    27870                         VESLY
+120       49.222990        1.065632    27400              LA HAYE-MALHERBE
+121       49.194738        1.325123    27940          VILLERS-SUR-LE-ROULE
+122       49.210024        1.385689    27700                      BOUAFLES
+123       49.027013        1.151361    27000                        EVREUX
+124       49.251583        1.698009    27720                         DANGU
+125       49.158996        1.604676    27630                          ECOS
+126       48.740966        0.930172    27130             VERNEUIL-SUR-AVRE
+127       49.052619        1.124780    27930                        AVIRON
+128       48.864933        1.345867    27220                   BOIS-LE-ROI
+129       49.007770        1.087867    27180    SAINT-SEBASTIEN-DE-MORSENT
+130       49.222990        1.065632    27400              LA HAYE-MALHERBE
+131       49.198217        1.103500    27400                      SURVILLE
+132       49.318664        1.169947    27460                        ALIZAY
+133       49.173195        1.182376    27400                      ACQUIGNY
+134       49.097296        1.378625    27950         LA CHAPELLE-REANVILLE
+135       49.397285        0.770852    27350                      HAUVILLE
+136       49.122269        1.390113    27920      SAINT-PIERRE-DE-BAILLEUL
+137       49.174474        1.336609    27940                      AUBEVOYE
+138       49.386137        0.731581    27350                        ROUTOT
+139       49.109451        1.449494    27950                    SAINT-JUST
+140       48.775126        1.191978    27320                    NONANCOURT
+141       48.949184        1.084735    27180                    LES VENTES
+142       48.996490        1.105048    27180             ARNIERES-SUR-ITON
+143       49.197177        1.662789    27420              CHATEAU-SUR-EPTE
+144       48.740966        0.930172    27130             VERNEUIL-SUR-AVRE
+145       49.073951        1.363397    27120              HOULBEC-COCHEREL
+146       48.822159        0.707554    27250                        RUGLES
+147       49.073951        1.363397    27120              HOULBEC-COCHEREL
+148       49.121423        1.639808    27630                       FOURGES
+149       48.825901        1.346121    27810             MARCILLY-SUR-EURE
+150       49.413263        1.371012    27910          PERRIERS-SUR-ANDELLE
+151       48.832350        0.964676    27160                CONDE-SUR-ITON
+152       49.067030        1.291820    27120            FONTAINE-SOUS-JOUY
+153       48.864933        1.345867    27220                   BOIS-LE-ROI
+154       49.342354        0.600408    27500          CORNEVILLE-SUR-RISLE
+155       49.247275        0.377666    27260                    CORMEILLES
+156       49.140068        1.119327    27400                   HONDOUVILLE
+157       49.167637        1.408342    27940                     PORT-MORT
+158       49.380257        1.344678    27380                    VANDRIMARE
+159       49.415164        0.392294    27210                    CONTEVILLE
+160       48.991371        1.039231    27190        LA BONNEVILLE-SUR-ITON
+161       48.962769        1.427702    27640                    BREUILPONT
+162       49.234538        1.178174    27400                    INCARVILLE
+163       49.246568        1.419200    27700                   LES ANDELYS
+164       48.907929        1.345616    27220            MOUSSEAUX-NEUVILLE
+165       48.898036        1.406005    27750            LA COUTURE-BOUSSEY
+166       49.251583        1.698009    27720                         DANGU
+167       49.094615        1.454389    27950                  SAINT-MARCEL
+168       49.200389        1.295531    27940                      VENABLES
+169       49.297761        0.824006    27520           BERVILLE-EN-ROUMOIS
+170       48.983910        1.021052    27190                     GLISOLLES
+171       48.769377        0.809618    27580                        BOURTH
+172       48.945300        1.135937    27180             LE PLESSIS-GROHAN
+173       49.362867        0.782233    27310                     BOUQUETOT
+174       49.310401        0.553219    27500                      CAMPIGNY
+175       49.289576        0.923607    27670      LE BOSC-ROGER-EN-ROUMOIS
+176       48.996578        1.060355    27180               AULNAY-SUR-ITON
+177       49.379200        0.514400    27500    SAINT-MARDS-DE-BLACARVILLE
+178       49.472324        0.526424    27680          QUILLEBEUF-SUR-SEINE
+179       49.096755        0.624715    27300                      MENNEVAL
+180       49.167637        1.408342    27940                     PORT-MORT
+181       48.880420        0.811149    27160          LES BAUX-DE-BRETEUIL
+182       48.917527        0.748934    27330               LA VIEILLE-LYRE
+183       49.251196        0.966076    27370       SAINT-PIERRE-DES-FLEURS
+184       49.167637        1.408342    27940                     PORT-MORT
+185       49.128952        0.732727    27550                    NASSANDRES
+186       49.246568        1.419200    27700                   LES ANDELYS
+187       49.272602        1.217085    27100                  VAL-DE-REUIL
+188       48.832350        0.964676    27160                CONDE-SUR-ITON
+189       49.246568        1.419200    27700                   LES ANDELYS
+190       49.087971        0.763271    27170                    BEAUMONTEL
+191       49.397285        0.770852    27350                      HAUVILLE
+192       49.236351        1.026317    27370         SAINT-DIDIER-DES-BOIS
+193       49.198217        1.103500    27400                      SURVILLE
+194       48.816924        0.886542    27160                  LA GUEROULDE
+195       49.095971        1.279069    27490          AUTHEUIL-AUTHOUILLET
+196       49.354883        0.514299    27500                  PONT-AUDEMER
+197       49.109451        1.449494    27950                    SAINT-JUST
+198       49.081506        0.777465    27170             BEAUMONT-LE-ROGER
+199       49.293289        0.946833    27670         SAINT-OUEN-DU-TILLEUL
+200       48.910748        1.439306    27780             GARENNES-SUR-EURE
+201       49.354883        0.514299    27500                  PONT-AUDEMER
+202       49.127002        0.561509    27300                    COURBEPINE
+203       48.816924        0.886542    27160                  LA GUEROULDE
+204       49.363646        0.461844    27500                  TOUTAINVILLE
+205       49.193770        1.239786    27600                 HEUDEBOUVILLE
+206       49.167637        1.408342    27940                     PORT-MORT
+207       49.255086        1.205941    27100                  LE VAUDREUIL
+208       49.024390        1.034180    27180                         CAUGE
+209       49.091958        1.488107    27200                        VERNON
+210       49.083705        0.552243    27300        CAORCHES-SAINT-NICOLAS
+211       48.906396        1.273029    27220         SAINT-ANDRE-DE-L'EURE
+212       48.968806        1.097844    27180         LES BAUX-SAINTE-CROIX
+213       48.947447        1.486344    27640         VILLIERS-EN-DESOEUVRE
+214       48.910748        1.439306    27780             GARENNES-SUR-EURE
+215       48.820038        1.267055    27770              ILLIERS-L'EVEQUE
+216       49.243816        0.584558    27450       SAINT-GEORGES-DU-VIEVRE
+217       49.011430        0.706943    27410                    BEAUMESNIL
+218       49.378375        0.575518    27500                     FOURMETOT
+219       48.917527        0.748934    27330               LA VIEILLE-LYRE
+220       49.312430        1.766837    27140           BAZINCOURT-SUR-EPTE

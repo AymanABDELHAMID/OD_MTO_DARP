@@ -1,0 +1,226 @@
+112 19
+  0       45.548905        2.313835    19200                         USSEL 
+  1       45.233651        1.698369    19330                     CHAMEYRAT
+  2       45.567582        2.457934    19200        SAINT-ETIENNE-AUX-CLOS
+  3       45.070957        1.451504    19600            CHARTRIER-FERRIERE
+  4       45.697635        2.130448    19290                 SAINT-SETIERS
+  5       45.256987        1.475629    19240                      ALLASSAC
+  6       45.315531        1.339392    19350                    CHABRIGNAC
+  7       45.265650        1.771697    19000                         TULLE
+  8       45.517924        1.423479    19210                    MONTGIBAUD
+  9       45.465565        1.732282    19470                     LE LONZAC
+ 10       45.169889        1.564005    19360          MALEMORT-SUR-CORREZE
+ 11       45.355501        1.344082    19350                       CONCEZE
+ 12       45.408167        1.935675    19800                        SARRAN
+ 13       45.208001        1.375633    19310                      YSSANDON
+ 14       45.457314        1.972261    19300       SAINT-YRIEIX-LE-DEJALAT
+ 15       45.017759        2.014530    19430 CAMPS-SAINT-MATHURIN-LEOBAZEL
+ 16       45.408167        1.935675    19800                        SARRAN
+ 17       45.123826        1.723226    19190                        BEYNAT
+ 18       45.172484        1.734632    19190                   LE CHASTANG
+ 19       45.517646        1.768515    19260                       AFFIEUX
+ 20       45.155196        1.871771    19380                        FORGES
+ 21       45.426564        2.111313    19300                       DARNETS
+ 22       45.483741        2.092969    19250                      DAVIGNAC
+ 23       45.424066        1.563457    19140                       UZERCHE
+ 24       45.017759        2.014530    19430 CAMPS-SAINT-MATHURIN-LEOBAZEL
+ 25       45.517949        1.469628    19510                       BENAYES
+ 26       45.361537        1.800209    19390                 ORLIAC-DE-BAR
+ 27       45.447162        1.520802    19140                   SAINT-YBARD
+ 28       45.371630        1.402087    19230                       BEYSSAC
+ 29       45.256987        1.475629    19240                      ALLASSAC
+ 30       45.025384        1.794785    19120                       NONARDS
+ 31       45.275874        2.200898    19550                       SOURSAC
+ 32       45.265650        1.771697    19000                         TULLE
+ 33       45.211241        2.072495    19220             BASSIGNAC-LE-HAUT
+ 34       45.082004        1.908862    19400         MONCEAUX-SUR-DORDOGNE
+ 35       45.361537        1.800209    19390                 ORLIAC-DE-BAR
+ 36       45.376291        1.935063    19800            VITRAC-SUR-MONTANE
+ 37       45.017828        1.660752    19500            CHAUFFOUR-SUR-VELL
+ 38       45.319120        1.389723    19130                       VIGNOLS
+ 39       45.089039        1.728119    19190                      SERILHAC
+ 40       45.055925        1.674352    19500                       MEYSSAC
+ 41       45.319120        1.389723    19130                       VIGNOLS
+ 42       45.319120        1.389723    19130                       VIGNOLS
+ 43       45.697635        2.130448    19290                 SAINT-SETIERS
+ 44       45.314554        1.484936    19410                      ESTIVAUX
+ 45       45.515752        2.369577    19200      SAINT-EXUPERY-LES-ROCHES
+ 46       45.147020        1.627209    19360         LA CHAPELLE-AUX-BROCS
+ 47       45.424066        1.563457    19140                       UZERCHE
+ 48       45.456016        1.880782    19390                      CHAUMEIL
+ 49       45.377549        1.382877    19230          SAINT-SORNIN-LAVOLPS
+ 50       45.403152        1.286624    19230                     BEYSSENAC
+ 51       45.424066        1.563457    19140                       UZERCHE
+ 52       45.123826        1.723226    19190                        BEYNAT
+ 53       45.605882        2.275295    19200        SAINT-PARDOUX-LE-VIEUX
+ 54       44.929316        1.807975    19120                     LIOURDRES
+ 55       45.073721        1.617074    19500                      NOAILHAC
+ 56       45.515752        2.369577    19200      SAINT-EXUPERY-LES-ROCHES
+ 57       45.499183        2.318334    19200                        MESTES
+ 58       45.300689        1.868434    19800         SAINT-PRIEST-DE-GIMEL
+ 59       45.228015        1.582840    19270                SAINTE-FEREOLE
+ 60       45.204135        2.147324    19220                        AURIAC
+ 61       45.053841        1.728159    19500       SAINT-BAZILE-DE-MEYSSAC
+ 62       45.697635        2.130448    19290                 SAINT-SETIERS
+ 63       45.456371        2.403570    19200                    MARGERIDES
+ 64       45.418286        2.206116    19160                       PALISSE
+ 65       45.275799        1.277516    19310                      SEGONZAC
+ 66       45.414195        2.429909    19110                       SARROUX
+ 67       45.273706        1.634929    19330     SAINT-GERMAIN-LES-VERGNES
+ 68       45.396960        1.644449    19700                     SAINT-JAL
+ 69       45.679296        1.946161    19170                        TARNAC
+ 70       45.504427        1.537279    19510                 SALON-LA-TOUR
+ 71       45.134712        1.584612    19360                        COSNAC
+ 72       45.414574        1.595191    19140                   ESPARTIGNAC
+ 73       45.247717        1.327569    19310                          AYEN
+ 74       45.070957        1.451504    19600            CHARTRIER-FERRIERE
+ 75       45.278836        1.968388    19320                      CLERGOUX
+ 76       45.456016        1.880782    19390                      CHAUMEIL
+ 77       45.027070        1.786478    19120                   PUY-D'ARNAC
+ 78       45.605882        2.275295    19200        SAINT-PARDOUX-LE-VIEUX
+ 79       45.297466        1.577676    19270      SAINT-PARDOUX-L'ORTIGIER
+ 80       45.403152        1.286624    19230                     BEYSSENAC
+ 81       45.079478        2.097092    19220       SAINT-CIRGUES-LA-LOUTRE
+ 82       45.025384        1.794785    19120                       NONARDS
+ 83       45.662627        2.452126    19340                     EYGURANDE
+ 84       45.447162        1.520802    19140                   SAINT-YBARD
+ 85       45.245565        1.983420    19320    SAINT-PARDOUX-LA-CROISILLE
+ 86       45.126242        1.894607    19380                 SAINT-CHAMANT
+ 87       45.207311        1.771450    19490              SAINTE-FORTUNADE
+ 88       45.415943        2.331773    19160                      LIGINIAC
+ 89       45.213438        1.648915    19560         SAINT-HILAIRE-PEYROUX
+ 90       45.556964        1.741205    19370          SOUDAINE-LAVINADIERE
+ 91       45.414574        1.595191    19140                   ESPARTIGNAC
+ 92       45.309908        1.638065    19330                      CHANTEIX
+ 93       45.079478        2.097092    19220       SAINT-CIRGUES-LA-LOUTRE
+ 94       45.245565        1.983420    19320    SAINT-PARDOUX-LA-CROISILLE
+ 95       45.123826        1.723226    19190                        BEYNAT
+ 96       45.167559        2.195821    19220               RILHAC-XAINTRIE
+ 97       45.016323        1.909227    19430                       REYGADE
+ 98       45.326252        1.552553    19410              PERPEZAC-LE-NOIR
+ 99       45.247717        1.327569    19310                          AYEN
+100       45.073721        1.617074    19500                      NOAILHAC
+101       45.169889        1.564005    19360          MALEMORT-SUR-CORREZE
+102       45.101754        1.523595    19600                      NOAILLES
+103       45.027070        1.786478    19120                   PUY-D'ARNAC
+104       45.461276        1.329002    19210     SAINT-JULIEN-LE-VENDOMOIS
+105       45.517924        1.423479    19210                    MONTGIBAUD
+106       45.128904        1.658957    19190                      LANTEUIL
+107       45.218636        1.896735    19150                    SAINT-PAUL
+108       45.229981        1.896810    19150                      ESPAGNAC
+109       45.208001        1.375633    19310                      YSSANDON
+110       45.014989        1.947574    19430                      MERCOEUR
+111       45.188474        1.340285    19310             BRIGNAC-LA-PLAINE
+112       45.137284        1.836194    19380                      ALBUSSAC
+113       45.017828        1.660752    19500            CHAUFFOUR-SUR-VELL
+114       45.445850        2.077519    19300                    SOUDEILLES
+115       45.027070        1.786478    19120                   PUY-D'ARNAC
+116       45.129788        2.142431    19220         SAINT-JULIEN-AUX-BOIS
+117       45.083439        2.001363    19400                     HAUTEFAGE
+118       45.027070        1.786478    19120                   PUY-D'ARNAC
+119       45.517646        1.768515    19260                       AFFIEUX
+120       45.426564        2.111313    19300                       DARNETS
+121       45.398331        1.383885    19230               ARNAC-POMPADOUR
+122       45.275874        2.200898    19550                       SOURSAC
+123       45.172484        1.734632    19190                   LE CHASTANG
+124       45.213438        1.648915    19560         SAINT-HILAIRE-PEYROUX
+125       45.424066        1.563457    19140                       UZERCHE
+126       45.474601        2.159937    19250                    COMBRESSOL
+127       45.233356        1.837569    19150        LADIGNAC-SUR-RONDELLES
+128       45.326252        1.552553    19410              PERPEZAC-LE-NOIR
+129       45.267333        1.872983    19150        SAINT-MARTIAL-DE-GIMEL
+130       45.535827        1.795097    19260                      TREIGNAC
+131       45.560264        1.649879    19510                     MEILHARDS
+132       45.465565        1.732282    19470                     LE LONZAC
+133       45.517924        1.423479    19210                    MONTGIBAUD
+134       45.451923        2.305810    19160               CHIRAC-BELLEVUE
+135       45.218636        1.896735    19150                    SAINT-PAUL
+136       45.233651        1.698369    19330                     CHAMEYRAT
+137       45.207311        1.771450    19490              SAINTE-FORTUNADE
+138       45.137284        1.836194    19380                      ALBUSSAC
+139       45.187456        1.807857    19150                 LAGARDE-ENVAL
+140       45.089039        1.728119    19190                      SERILHAC
+141       45.278836        1.968388    19320                      CLERGOUX
+142       45.283127        1.549174    19270                        SADROC
+143       45.250457        1.352214    19130                 SAINT-CYPRIEN
+144       45.596963        1.927444    19170                        BUGEAT
+145       45.204713        1.845843    19150                  MARC-LA-TOUR
+146       45.264331        1.820398    19150              CHANAC-LES-MINES
+147       45.474601        2.159937    19250                    COMBRESSOL
+148       45.137284        1.836194    19380                      ALBUSSAC
+149       45.414574        1.595191    19140                   ESPARTIGNAC
+150       45.207311        1.771450    19490              SAINTE-FORTUNADE
+151       45.275799        1.277516    19310                      SEGONZAC
+152       45.414574        1.595191    19140                   ESPARTIGNAC
+153       45.341551        1.686180    19700                 SAINT-CLEMENT
+154       45.082004        1.908862    19400         MONCEAUX-SUR-DORDOGNE
+155       45.609523        1.834686    19170     SAINT-HILAIRE-LES-COURBES
+156       45.137284        1.836194    19380                      ALBUSSAC
+157       45.426564        2.111313    19300                       DARNETS
+158       45.426564        2.111313    19300                       DARNETS
+159       45.406018        2.046378    19300                      EGLETONS
+160       44.966681        1.769487    19120           QUEYSSAC-LES-VIGNES
+161       45.027070        1.786478    19120                   PUY-D'ARNAC
+162       45.233651        1.698369    19330                     CHAMEYRAT
+163       45.264093        1.409581    19130                         OBJAT
+164       45.457314        1.972261    19300       SAINT-YRIEIX-LE-DEJALAT
+165       45.354034        1.980855    19300    MONTAIGNAC-SAINT-HIPPOLYTE
+166       45.174090        1.669433    19190                     AUBAZINES
+167       45.285200        1.657517    19330                  SAINT-MEXANT
+168       45.278836        1.968388    19320                      CLERGOUX
+169       45.648230        2.474912    19340            MONESTIER-MERLINES
+170       45.540503        1.520830    19510                      MASSERET
+171       45.502253        2.414308    19200        SAINT-BONNET-PRES-BORT
+172       45.426564        2.111313    19300                       DARNETS
+173       45.398331        1.383885    19230               ARNAC-POMPADOUR
+174       45.039557        1.953390    19430      LA CHAPELLE-SAINT-GERAUD
+175       45.415943        2.331773    19160                      LIGINIAC
+176       45.567582        2.457934    19200        SAINT-ETIENNE-AUX-CLOS
+177       45.211591        1.691928    19150                        CORNIL
+178       45.293574        2.165652    19550                       LAPLEAU
+179       45.147020        1.627209    19360         LA CHAPELLE-AUX-BROCS
+180       45.334879        1.946626    19800                        EYREIN
+181       45.049935        1.502599    19600                      NESPOULS
+182       45.188474        1.340285    19310             BRIGNAC-LA-PLAINE
+183       45.204713        1.845843    19150                  MARC-LA-TOUR
+184       45.147020        1.627209    19360         LA CHAPELLE-AUX-BROCS
+185       45.039557        1.953390    19430      LA CHAPELLE-SAINT-GERAUD
+186       45.424441        1.833416    19390                SAINT-AUGUSTIN
+187       45.367612        1.714244    19700                       SEILHAC
+188       45.187456        1.807857    19150                 LAGARDE-ENVAL
+189       45.208001        1.375633    19310                      YSSANDON
+190       45.560264        1.649879    19510                     MEILHARDS
+191       45.414195        2.429909    19110                       SARROUX
+192       45.140610        1.446773    19600     SAINT-PANTALEON-DE-LARCHE
+193       45.082004        1.908862    19400         MONCEAUX-SUR-DORDOGNE
+194       45.208001        1.375633    19310                      YSSANDON
+195       45.705501        2.049740    19290                   PEYRELEVADE
+196       45.172484        1.734632    19190                   LE CHASTANG
+197       45.056084        1.838943    19120           CHENAILLER-MASCHEIX
+198       45.394847        2.104150    19300            MOUSTIER-VENTADOUR
+199       45.445850        2.077519    19300                    SOUDEILLES
+200       45.134712        1.584612    19360                        COSNAC
+201       45.400996        2.495397    19110               BORT-LES-ORGUES
+202       45.540503        1.520830    19510                      MASSERET
+203       45.039557        1.953390    19430      LA CHAPELLE-SAINT-GERAUD
+204       45.403152        1.286624    19230                     BEYSSENAC
+205       45.414574        1.595191    19140                   ESPARTIGNAC
+206       45.039929        2.078332    19430                       GOULLES
+207       45.377549        1.382877    19230          SAINT-SORNIN-LAVOLPS
+208       45.038106        1.711686    19500          SAINT-JULIEN-MAUMONT
+209       45.017828        1.660752    19500            CHAUFFOUR-SUR-VELL
+210       45.300689        1.868434    19800         SAINT-PRIEST-DE-GIMEL
+211       45.426564        2.111313    19300                       DARNETS
+212       44.976825        1.846139    19120                      ALTILLAC
+213       45.300689        1.868434    19800         SAINT-PRIEST-DE-GIMEL
+214       45.483741        2.092969    19250                      DAVIGNAC
+215       45.560264        1.649879    19510                     MEILHARDS
+216       45.217296        1.452709    19240                  SAINT-VIANCE
+217       45.293857        1.302715    19350            ROSIERS-DE-JUILLAC
+218       45.466492        2.383280    19200                 SAINT-VICTOUR
+219       45.352431        1.637657    19700                   LAGRAULIERE
+220       45.204713        1.845843    19150                  MARC-LA-TOUR
+221       45.093356        1.937550    19400                      ARGENTAT
+222       45.264353        1.678028    19330                        FAVARS
+223       44.981433        1.738836    19120                      VEGENNES
+224       45.430795        1.449847    19210         SAINT-PARDOUX-CORBIER

@@ -1,0 +1,136 @@
+67 41
+  0       47.247576        1.439650    41110                        COUFFY 
+  1       47.609579        1.903737    41600         CHAUMONT-SUR-THARONNE
+  2       47.590690        1.198809    41190                      ORCHAISE
+  3       47.395148        1.441301    41700                        SASSAY
+  4       47.480012        1.182876    41150            CHAUMONT-SUR-LOIRE
+  5       47.656390        1.673822    41220            LA FERTE-SAINT-CYR
+  6       47.274840        1.554083    41130               SELLES-SUR-CHER
+  7       47.655348        1.487246    41500           SAINT-DYE-SUR-LOIRE
+  8       47.632439        1.284039    41330                         FOSSE
+  9       47.496647        1.298100    41120                   LES MONTILS
+ 10       47.680276        1.295145    41330                       AVERDON
+ 11       47.792551        1.065343    41100                       VENDOME
+ 12       47.316999        1.291964    41110                       POUILLE
+ 13       47.331940        1.244219    41400                          ANGE
+ 14       47.458589        2.181417    41300                      SOUESMES
+ 15       47.614734        1.416221    41350         SAINT-CLAUDE-DE-DIRAY
+ 16       47.655348        1.487246    41500           SAINT-DYE-SUR-LOIRE
+ 17       47.268553        1.373492    41110                  SAINT-AIGNAN
+ 18       47.717956        1.604584    41220           SAINT-LAURENT-NOUAN
+ 19       47.612981        1.238212    41190     SAINT-LUBIN-EN-VERGONNOIS
+ 20       47.823981        0.945008    41100                       MAZANGE
+ 21       47.331940        1.244219    41400                          ANGE
+ 22       47.508733        1.457552    41700                 COUR-CHEVERNY
+ 23       47.604235        1.139623    41190                      HERBAULT
+ 24       47.447810        1.341117    41120           FOUGERES-SUR-BIEVRE
+ 25       47.316999        1.291964    41110                       POUILLE
+ 26       47.823247        1.294387    41290                       OUCQUES
+ 27       47.310995        1.538579    41130                         BILLY
+ 28       48.040550        1.076242    41270                         DROUE
+ 29       47.548676        1.542905    41250                      BRACIEUX
+ 30       47.808528        0.915158    41360                         LUNAY
+ 31       47.412468        1.524499    41230             SOINGS-EN-SOLOGNE
+ 32       47.980720        0.894563    41170                   MONDOUBLEAU
+ 33       47.695714        0.921392    41310              PRUNAY-CASSEREAU
+ 34       47.316999        1.291964    41110                       POUILLE
+ 35       47.328300        1.203300    41400        SAINT-JULIEN-DE-CHEDON
+ 36       47.645159        2.058555    41600                        VOUZON
+ 37       47.670856        1.238293    41330        LA CHAPELLE-VENDOMOISE
+ 38       47.670856        1.238293    41330        LA CHAPELLE-VENDOMOISE
+ 39       47.717480        1.414904    41500 LA CHAPELLE-SAINT-MARTIN-EN-PLAINE
+ 40       47.418910        1.429013    41700                       CONTRES
+ 41       47.316999        1.291964    41110                       POUILLE
+ 42       47.639063        1.444667    41350                   MONTLIVAULT
+ 43       47.889458        1.208877    41160                      FRETEVAL
+ 44       47.655348        1.487246    41500           SAINT-DYE-SUR-LOIRE
+ 45       47.601677        2.025165    41600               LAMOTTE-BEUVRON
+ 46       47.589656        1.657635    41220                       DHUIZON
+ 47       47.912183        1.524223    41240             OUZOUER-LE-MARCHE
+ 48       47.548676        1.542905    41250                      BRACIEUX
+ 49       47.614734        1.416221    41350         SAINT-CLAUDE-DE-DIRAY
+ 50       47.612981        1.238212    41190     SAINT-LUBIN-EN-VERGONNOIS
+ 51       47.458589        2.181417    41300                      SOUESMES
+ 52       47.614734        1.416221    41350         SAINT-CLAUDE-DE-DIRAY
+ 53       47.717480        1.414904    41500 LA CHAPELLE-SAINT-MARTIN-EN-PLAINE
+ 54       47.412400        1.607615    41230                MUR-DE-SOLOGNE
+ 55       47.527417        1.382525    41120                     CELLETTES
+ 56       47.291981        1.330598    41110              MAREUIL-SUR-CHER
+ 57       47.538455        1.500392    41250               TOUR-EN-SOLOGNE
+ 58       47.662095        1.373219    41000                     VILLERBON
+ 59       47.689362        1.016138    41310           SAINT-AMAND-LONGPRE
+ 60       47.268553        1.373492    41110                  SAINT-AIGNAN
+ 61       47.662095        1.373219    41000                     VILLERBON
+ 62       47.499730        1.460130    41700                      CHEVERNY
+ 63       47.564024        1.457195    41250            MONT-PRES-CHAMBORD
+ 64       47.670856        1.238293    41330        LA CHAPELLE-VENDOMOISE
+ 65       47.980720        0.894563    41170                   MONDOUBLEAU
+ 66       47.624558        1.387232    41000         SAINT-DENIS-SUR-LOIRE
+ 67       47.667176        1.460599    41500                       SUEVRES
+ 68       47.328300        1.203300    41400        SAINT-JULIEN-DE-CHEDON
+ 69       47.249751        1.496675    41130                       MEUSNES
+ 70       47.448010        1.773083    41200                     MILLANCAY
+ 71       47.667858        1.523731    41500              MUIDES-SUR-LOIRE
+ 72       47.912183        1.524223    41240             OUZOUER-LE-MARCHE
+ 73       47.662095        1.373219    41000                     VILLERBON
+ 74       47.752435        0.862388    41800          MONTOIRE-SUR-LE-LOIR
+ 75       47.495921        1.261919    41120             CANDE-SUR-BEUVRON
+ 76       47.752435        0.862388    41800          MONTOIRE-SUR-LE-LOIR
+ 77       47.343127        1.183623    41400                   MONTRICHARD
+ 78       47.587952        1.336272    41000                         BLOIS
+ 79       47.689362        1.016138    41310           SAINT-AMAND-LONGPRE
+ 80       47.497791        1.371163    41120                      CHITENAY
+ 81       47.412400        1.607615    41230                MUR-DE-SOLOGNE
+ 82       47.425029        2.053595    41300                       SALBRIS
+ 83       47.969917        0.893732    41170                      CORMENON
+ 84       47.390249        1.254324    41400                     PONTLEVOY
+ 85       47.793927        1.029602    41100                        NAVEIL
+ 86       47.564024        1.457195    41250            MONT-PRES-CHAMBORD
+ 87       47.269495        1.865180    41320             MENNETOU-SUR-CHER
+ 88       47.823981        0.945008    41100                       MAZANGE
+ 89       47.796671        1.524262    41370                        JOSNES
+ 90       47.823981        0.945008    41100                       MAZANGE
+ 91       47.809739        1.081779    41100                    SAINT-OUEN
+ 92       47.632439        1.284039    41330                         FOSSE
+ 93       47.395148        1.441301    41700                        SASSAY
+ 94       47.587952        1.336272    41000                         BLOIS
+ 95       47.717480        1.414904    41500 LA CHAPELLE-SAINT-MARTIN-EN-PLAINE
+ 96       47.325425        1.124901    41400        SAINT-GEORGES-SUR-CHER
+ 97       47.499230        1.175105    41150                        ONZAIN
+ 98       47.254865        1.397905    41110                         SEIGY
+ 99       47.345733        1.478938    41700                       CHEMERY
+100       47.612981        1.238212    41190     SAINT-LUBIN-EN-VERGONNOIS
+101       47.581201        1.375111    41350                       VINEUIL
+102       47.548676        1.542905    41250                      BRACIEUX
+103       47.508733        1.457552    41700                 COUR-CHEVERNY
+104       47.412400        1.607615    41230                MUR-DE-SOLOGNE
+105       47.346699        1.294519    41400              MONTHOU-SUR-CHER
+106       47.590690        1.198809    41190                      ORCHAISE
+107       47.604235        1.139623    41190                      HERBAULT
+108       47.508733        1.457552    41700                 COUR-CHEVERNY
+109       47.521590        1.932433    41210                  SAINT-VIATRE
+110       47.358657        1.747259    41200          ROMORANTIN-LANTHENAY
+111       47.499730        1.460130    41700                      CHEVERNY
+112       47.418910        1.429013    41700                       CONTRES
+113       47.390249        1.254324    41400                     PONTLEVOY
+114       47.644855        0.894529    41310                        AUTHON
+115       47.667858        1.523731    41500              MUIDES-SUR-LOIRE
+116       47.604235        1.139623    41190                      HERBAULT
+117       47.465608        1.873127    41210             MARCILLY-EN-GAULT
+118       47.269495        1.865180    41320             MENNETOU-SUR-CHER
+119       47.822646        1.396350    41370                    MARCHENOIR
+120       47.320856        1.185784    41400           FAVEROLLES-SUR-CHER
+121       47.752435        0.862388    41800          MONTOIRE-SUR-LE-LOIR
+122       47.756017        1.193097    41100                      SELOMMES
+123       47.346102        1.222672    41400                        BOURRE
+124       47.448010        1.773083    41200                     MILLANCAY
+125       47.385759        1.954481    41300              LA FERTE-IMBAULT
+126       47.345733        1.478938    41700                       CHEMERY
+127       47.561093        1.361681    41350        SAINT-GERVAIS-LA-FORET
+128       47.793927        1.029602    41100                        NAVEIL
+129       47.717956        1.604584    41220           SAINT-LAURENT-NOUAN
+130       47.249751        1.496675    41130                       MEUSNES
+131       47.522341        1.245582    41150              CHOUZY-SUR-CISSE
+132       47.632439        1.284039    41330                         FOSSE
+133       47.274840        1.554083    41130               SELLES-SUR-CHER
+134       47.465608        1.873127    41210             MARCILLY-EN-GAULT

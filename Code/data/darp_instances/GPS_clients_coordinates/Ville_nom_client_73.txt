@@ -1,0 +1,138 @@
+68 73
+  0       45.553292        6.674054    73210               MACOT-LA-PLAGNE 
+  1       45.564601        5.917781    73000                      CHAMBERY
+  2       45.880811        5.842856    73310        SERRIERES-EN-CHAUTAGNE
+  3       45.596488        5.874112    73290             LA MOTTE-SERVOLEX
+  4       45.538237        5.908586    73000                    MONTAGNOLE
+  5       45.511512        5.960261    73190                      APREMONT
+  6       45.339665        6.302318    73130        SAINTE-MARIE-DE-CUINES
+  7       45.433942        6.637265    73120          SAINT-BON-TARENTAISE
+  8       45.501377        5.729497    73520                   SAINT-BERON
+  9       45.468323        6.905579    73320                        TIGNES
+ 10       45.358463        6.301654    73130                    LA CHAMBRE
+ 11       45.622200        6.011900    73230                   LES DESERTS
+ 12       45.691987        6.391150    73200                        PALLUD
+ 13       45.498866        6.000293    73800                   LES MARCHES
+ 14       45.614046        6.434903    73540                  ESSERTS-BLAY
+ 15       45.528900        6.092200    73800                         CRUET
+ 16       45.455983        6.591089    73350                      MONTAGNY
+ 17       45.880811        5.842856    73310        SERRIERES-EN-CHAUTAGNE
+ 18       45.472429        6.533888    73600            SALINS-LES-THERMES
+ 19       45.275403        6.344886    73300       SAINT-JEAN-DE-MAURIENNE
+ 20       45.625953        6.343741    73460      NOTRE-DAME-DES-MILLIERES
+ 21       45.585680        5.996106    73230            SAINT-JEAN-D'ARVEY
+ 22       45.526700        6.143300    73800 COISE-SAINT-JEAN-PIED-GAUTHIER
+ 23       45.566732        6.008158    73190                      CURIENNE
+ 24       45.563052        6.258963    73220                         AITON
+ 25       45.555982        6.652126    73210                          AIME
+ 26       45.555982        6.652126    73210                          AIME
+ 27       45.571581        6.739879    73210                        LANDRY
+ 28       45.358463        6.301654    73130                    LA CHAMBRE
+ 29       45.625953        6.343741    73460      NOTRE-DAME-DES-MILLIERES
+ 30       45.527898        5.741862    73520                   LA BRIDOIRE
+ 31       45.255932        6.404084    73870       SAINT-JULIEN-MONT-DENIS
+ 32       45.273484        6.994880    73480        LANSLEBOURG-MONT-CENIS
+ 33       45.598527        5.632855    73240        SAINT-GENIX-SUR-GUIERS
+ 34       45.511935        6.566843    73600                  SAINT-MARCEL
+ 35       45.500184        6.034646    73800                       FRANCIN
+ 36       45.563052        6.258963    73220                         AITON
+ 37       45.454410        6.571562    73570              BRIDES-LES-BAINS
+ 38       45.380402        6.504104    73440    SAINT-MARTIN-DE-BELLEVILLE
+ 39       45.581098        5.942217    73000                       BASSENS
+ 40       45.676400        5.900216    73100                     TRESSERVE
+ 41       45.708487        6.105445    73340                  LESCHERAINES
+ 42       45.454410        6.571562    73570              BRIDES-LES-BAINS
+ 43       45.433942        6.637265    73120          SAINT-BON-TARENTAISE
+ 44       45.611792        6.846731    73700                   MONTVALEZAN
+ 45       45.536900        5.673300    73330         LE PONT-DE-BEAUVOISIN
+ 46       45.552255        6.180042    73390                   CHATEAUNEUF
+ 47       45.433942        6.637265    73120          SAINT-BON-TARENTAISE
+ 48       45.704015        5.758476    73170                         YENNE
+ 49       45.708487        6.105445    73340                  LESCHERAINES
+ 50       45.848148        5.843400    73310                      RUFFIEUX
+ 51       45.590821        6.883265    73640         SAINTE-FOY-TARENTAISE
+ 52       45.478600        6.456700    73260        LES AVANCHERS-VALMOREL
+ 53       45.616063        6.279203    73460                   MONTAILLEUR
+ 54       45.546405        5.865231    73160                       VIMINES
+ 55       45.165292        6.428733    73450                      VALLOIRE
+ 56       45.659700        5.937800    73420           DRUMETTAZ-CLARAFOND
+ 57       45.239624        6.448100    73140      SAINT-MARTIN-DE-LA-PORTE
+ 58       45.654870        6.440176    73790               TOURS-EN-SAVOIE
+ 59       45.443260        6.648139    73350                         BOZEL
+ 60       45.692341        5.908998    73100                 AIX-LES-BAINS
+ 61       45.255932        6.404084    73870       SAINT-JULIEN-MONT-DENIS
+ 62       45.552381        5.983246    73190              CHALLES-LES-EAUX
+ 63       45.543855        6.310285    73220                       RANDENS
+ 64       45.626780        6.301719    73460                   SAINT-VITAL
+ 65       45.352027        6.309756    73130                    SAINT-AVRE
+ 66       45.217675        6.475870    73140     SAINT-MICHEL-DE-MAURIENNE
+ 67       45.625953        6.343741    73460      NOTRE-DAME-DES-MILLIERES
+ 68       45.533100        6.474200    73260                    LA LECHERE
+ 69       45.750540        6.585506    73620                     HAUTELUCE
+ 70       45.436571        5.753686    73360                  LES ECHELLES
+ 71       45.687058        6.420209    73200                       VENTHON
+ 72       45.543855        6.310285    73220                       RANDENS
+ 73       45.601496        6.254615    73460               GRESY-SUR-ISERE
+ 74       45.626780        6.301719    73460                   SAINT-VITAL
+ 75       45.533100        6.474200    73260                    LA LECHERE
+ 76       45.560286        5.891540    73160                        COGNIN
+ 77       45.511935        6.566843    73600                  SAINT-MARCEL
+ 78       45.227947        6.741517    73500                       AUSSOIS
+ 79       45.526700        6.143300    73800 COISE-SAINT-JEAN-PIED-GAUTHIER
+ 80       45.752939        6.419968    73400                         UGINE
+ 81       45.613048        6.318791    73460       SAINTE-HELENE-SUR-ISERE
+ 82       45.659523        6.349052    73200               GILLY-SUR-ISERE
+ 83       45.719914        6.459098    73720                        QUEIGE
+ 84       45.614046        6.434903    73540                  ESSERTS-BLAY
+ 85       45.649392        5.859076    73370             LE BOURGET-DU-LAC
+ 86       45.596488        5.874112    73290             LA MOTTE-SERVOLEX
+ 87       45.482405        6.066097    73800          SAINTE-HELENE-DU-LAC
+ 88       45.339665        6.302318    73130        SAINTE-MARIE-DE-CUINES
+ 89       45.880811        5.842856    73310        SERRIERES-EN-CHAUTAGNE
+ 90       45.585680        5.996106    73230            SAINT-JEAN-D'ARVEY
+ 91       45.785606        5.943959    73410                        ALBENS
+ 92       45.567979        6.668574    73210                LA COTE-D'AIME
+ 93       45.552255        6.180042    73390                   CHATEAUNEUF
+ 94       45.601496        6.254615    73460               GRESY-SUR-ISERE
+ 95       45.533100        6.474200    73260                    LA LECHERE
+ 96       45.541921        6.306159    73220                    AIGUEBELLE
+ 97       45.581098        5.942217    73000                       BASSENS
+ 98       45.848148        5.843400    73310                      RUFFIEUX
+ 99       45.453850        6.295049    73220                       EPIERRE
+100       45.191194        6.650023    73500                     FOURNEAUX
+101       45.785606        5.943959    73410                        ALBENS
+102       45.552255        6.180042    73390                   CHATEAUNEUF
+103       45.255932        6.404084    73870       SAINT-JULIEN-MONT-DENIS
+104       45.564601        5.917781    73000                      CHAMBERY
+105       45.571581        6.739879    73210                        LANDRY
+106       45.616063        6.279203    73460                   MONTAILLEUR
+107       45.261226        6.372758    73300                 VILLARGONDRAN
+108       45.691987        6.391150    73200                        PALLUD
+109       45.541921        6.306159    73220                    AIGUEBELLE
+110       45.632671        6.311863    73460                     FRONTENEX
+111       45.626217        6.449893    73540                     LA BATHIE
+112       45.545998        6.755880    73210               PEISEY-NANCROIX
+113       45.564601        5.917781    73000                      CHAMBERY
+114       45.880811        5.842856    73310        SERRIERES-EN-CHAUTAGNE
+115       45.571581        6.739879    73210                        LANDRY
+116       45.511512        5.960261    73190                      APREMONT
+117       45.567979        6.668574    73210                LA COTE-D'AIME
+118       45.551670        5.916621    73000           JACOB-BELLECOMBETTE
+119       45.611792        6.846731    73700                   MONTVALEZAN
+120       45.571581        6.739879    73210                        LANDRY
+121       45.717105        6.574292    73270                      BEAUFORT
+122       45.708487        6.105445    73340                  LESCHERAINES
+123       45.239624        6.448100    73140      SAINT-MARTIN-DE-LA-PORTE
+124       45.339665        6.302318    73130        SAINTE-MARIE-DE-CUINES
+125       45.352027        6.309756    73130                    SAINT-AVRE
+126       45.571581        6.739879    73210                        LANDRY
+127       45.380402        6.504104    73440    SAINT-MARTIN-DE-BELLEVILLE
+128       45.536900        5.673300    73330         LE PONT-DE-BEAUVOISIN
+129       45.616063        6.279203    73460                   MONTAILLEUR
+130       45.631185        5.895330    73420                       VOGLANS
+131       45.493603        6.313267    73220                     ARGENTINE
+132       45.618598        6.769548    73700           BOURG-SAINT-MAURICE
+133       45.691987        6.391150    73200                        PALLUD
+134       45.358463        6.301654    73130                    LA CHAMBRE
+135       45.546405        5.865231    73160                       VIMINES
+136       45.750540        6.585506    73620                     HAUTELUCE

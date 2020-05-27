@@ -1,0 +1,180 @@
+89 42
+  0       45.403592        4.081750    42380        SAINT-NIZIER-DE-FORNAS 
+  1       45.572959        4.443756    42140                      GRAMMOND
+  2       45.597009        4.362038    42330         SAINT-MEDARD-EN-FOREZ
+  3       45.531365        4.581055    42800                       GENILAC
+  4       45.538708        4.648653    42800                   CHATEAUNEUF
+  5       45.548061        4.437189    42140                      FONTANES
+  6       45.967322        4.000721    42155 SAINT-JEAN-SAINT-MAURICE-SUR-LOIRE
+  7       45.544046        4.485674    42320        SAINT-CHRISTO-EN-JAREZ
+  8       45.538092        4.183189    42450                SURY-LE-COMTAL
+  9       45.543289        4.328379    42330        SAINT-BONNET-LES-OULES
+ 10       45.914123        3.845841    42430        SAINT-JUST-EN-CHEVALET
+ 11       45.618691        3.996559    42600      ESSERTINES-EN-CHATELNEUF
+ 12       45.796048        4.277277    42810               ROZIER-EN-DONZY
+ 13       45.660799        4.356091    42140                      MARINGES
+ 14       45.426560        4.065822    42380       SAINT-BONNET-LE-CHATEAU
+ 15       45.608157        4.266988    42330                        CUZIEU
+ 16       45.996257        4.036675    42300                     VILLEREST
+ 17       45.775234        3.981093    42130                   SAINT-SIXTE
+ 18       46.152996        4.245787    42750                          MARS
+ 19       45.796048        4.277277    42810               ROZIER-EN-DONZY
+ 20       46.154007        4.123294    42190    SAINT-NIZIER-SOUS-CHARLIEU
+ 21       46.097945        4.297850    42460                    SEVELINGES
+ 22       45.637154        4.390390    42140            CHAZELLES-SUR-LYON
+ 23       46.043248        4.044545    42153                       RIORGES
+ 24       45.504440        4.570513    42320                LA GRAND-CROIX
+ 25       45.544296        4.595588    42800        SAINT-MARTIN-LA-PLAINE
+ 26       45.710831        4.013247    42130                       MARCOUX
+ 27       46.085930        4.062936    42300                         MABLY
+ 28       45.720200        4.353072    42110           SAINT-MARTIN-LESTRA
+ 29       45.497451        4.166860    42680      SAINT-MARCELLIN-EN-FOREZ
+ 30       46.127173        4.266630    42460                      CUINZIER
+ 31       46.175153        3.868767    42310                 LA PACAUDIERE
+ 32       46.159599        4.172521    42190                      CHARLIEU
+ 33       45.446564        4.745326    42410        SAINT-MICHEL-SUR-RHONE
+ 34       45.906481        3.842687    42111                    NOIRETABLE
+ 35       45.538708        4.648653    42800                   CHATEAUNEUF
+ 36       45.997936        4.175174    42630                      PRADINES
+ 37       46.175153        3.868767    42310                 LA PACAUDIERE
+ 38       45.382620        4.749246    42520         SAINT-PIERRE-DE-BOEUF
+ 39       46.159599        4.172521    42190                      CHARLIEU
+ 40       45.482786        4.574143    42740           SAINT-PAUL-EN-JAREZ
+ 41       46.143978        4.108076    42720         POUILLY-SOUS-CHARLIEU
+ 42       45.296398        4.559968    42220                BOURG-ARGENTAL
+ 43       45.560110        4.056874    42600                     LEZIGNEUX
+ 44       45.476088        4.512712    42400                 SAINT-CHAMOND
+ 45       45.607143        4.082572    42600                     SAVIGNEUX
+ 46       45.591131        4.408418    42140                    CHEVRIERES
+ 47       45.710831        4.013247    42130                       MARCOUX
+ 48       45.498718        4.239709    42170      SAINT-JUST-SAINT-RAMBERT
+ 49       45.427329        4.585819    42740                      DOIZIEUX
+ 50       45.734519        4.055822    42130   SAINTE-AGATHE-LA-BOUTERESSE
+ 51       45.837393        4.268862    42510                     BUSSIERES
+ 52       45.620522        4.212016    42210          BOISSET-LES-MONTROND
+ 53       46.034432        4.072695    42300                        ROANNE
+ 54       45.695243        4.036709    42130            MARCILLY-LE-CHATEL
+ 55       45.837393        4.268862    42510                     BUSSIERES
+ 56       45.837393        4.268862    42510                     BUSSIERES
+ 57       45.447486        4.589925    42740        LA TERRASSE-SUR-DORLAY
+ 58       45.389247        3.941005    42550                USSON-EN-FOREZ
+ 59       45.449304        4.444594    42650         SAINT-JEAN-BONNEFONDS
+ 60       45.637154        4.390390    42140            CHAZELLES-SUR-LYON
+ 61       45.659456        3.943954    42940      SAINT-BONNET-LE-COURREAU
+ 62       45.548061        4.437189    42140                      FONTANES
+ 63       45.967322        4.000721    42155 SAINT-JEAN-SAINT-MAURICE-SUR-LOIRE
+ 64       46.175153        3.868767    42310                 LA PACAUDIERE
+ 65       45.608157        4.266988    42330                        CUZIEU
+ 66       45.403881        4.181305    42240     SAINT-MAURICE-EN-GOURGOIS
+ 67       45.590322        4.318391    42330                 SAINT-GALMIER
+ 68       46.204768        3.798706    42620       SAINT-MARTIN-D'ESTREAUX
+ 69       45.382620        4.749246    42520         SAINT-PIERRE-DE-BOEUF
+ 70       45.734677        3.971799    42890              SAIL-SOUS-COUZAN
+ 71       45.868885        4.190588    42122       SAINT-MARCEL-DE-FELINES
+ 72       45.454461        4.753024    42410                         VERIN
+ 73       45.591131        4.408418    42140                    CHEVRIERES
+ 74       45.296398        4.559968    42220                BOURG-ARGENTAL
+ 75       46.039238        3.978816    42155           POUILLY-LES-NONAINS
+ 76       46.014944        3.986587    42155                        OUCHES
+ 77       45.660799        4.356091    42140                      MARINGES
+ 78       46.037620        4.122751    42120                       PERREUX
+ 79       45.523172        4.215969    42160                        BONSON
+ 80       45.523172        4.215969    42160                        BONSON
+ 81       45.450626        4.385943    42000                 SAINT-ETIENNE
+ 82       45.537765        4.236549    42160                 SAINT-CYPRIEN
+ 83       45.554258        4.099255    42610     SAINT-GEORGES-HAUTE-VILLE
+ 84       46.039238        3.978816    42155           POUILLY-LES-NONAINS
+ 85       45.387638        4.287617    42700                       FIRMINY
+ 86       45.805380        4.154580    42510                      NERVIEUX
+ 87       46.085057        3.983308    42640         SAINT-ROMAIN-LA-MOTTE
+ 88       45.719658        4.340391    42110       SAINT-BARTHELEMY-LESTRA
+ 89       45.659456        3.943954    42940      SAINT-BONNET-LE-COURREAU
+ 90       45.780786        4.251979    42110                        CIVENS
+ 91       46.165398        4.346539    42670           BELMONT-DE-LA-LOIRE
+ 92       45.715691        4.067721    42130                    MONTVERDUN
+ 93       45.500302        4.317417    42480                 LA FOUILLOUSE
+ 94       45.416477        4.726011    42410                      CHAVANAY
+ 95       45.665890        4.030722    42600                       PRALONG
+ 96       45.793744        4.297987    42360                      COTTANCE
+ 97       45.793744        4.297987    42360                      COTTANCE
+ 98       45.967322        4.000721    42155 SAINT-JEAN-SAINT-MAURICE-SUR-LOIRE
+ 99       46.043248        4.044545    42153                       RIORGES
+100       46.104178        3.895670    42820                      AMBIERLE
+101       45.570914        4.376382    42330                     AVEIZIEUX
+102       45.450903        4.079611    42380                       LURIECQ
+103       45.901939        4.181277    42590                       NEULISE
+104       45.453210        4.703865    42410                        CHUYER
+105       45.906481        3.842687    42111                    NOIRETABLE
+106       45.829630        4.011080    42260           SAINT-GERMAIN-LAVAL
+107       45.868885        4.190588    42122       SAINT-MARCEL-DE-FELINES
+108       46.141594        3.892760    42310                        CHANGY
+109       45.734519        4.055822    42130   SAINTE-AGATHE-LA-BOUTERESSE
+110       46.040094        3.997489    42155        SAINT-LEGER-SUR-ROANNE
+111       45.892570        4.240827    42540          SAINT-JUST-LA-PENDUE
+112       45.644418        4.231436    42210            MONTROND-LES-BAINS
+113       45.389247        3.941005    42550                USSON-EN-FOREZ
+114       45.868885        4.190588    42122       SAINT-MARCEL-DE-FELINES
+115       45.482786        4.574143    42740           SAINT-PAUL-EN-JAREZ
+116       45.572959        4.443756    42140                      GRAMMOND
+117       45.734677        3.971799    42890              SAIL-SOUS-COUZAN
+118       45.618691        3.996559    42600      ESSERTINES-EN-CHATELNEUF
+119       45.901939        4.181277    42590                       NEULISE
+120       45.997936        4.175174    42630                      PRADINES
+121       45.901939        4.181277    42590                       NEULISE
+122       45.607450        4.063338    42600                    MONTBRISON
+123       45.943664        4.061763    42123                      CORDELLE
+124       45.665890        4.030722    42600                       PRALONG
+125       45.585927        4.150928    42600                      PRECIEUX
+126       45.493316        4.543359    42152                       L'HORME
+127       45.498718        4.239709    42170      SAINT-JUST-SAINT-RAMBERT
+128       45.796048        4.277277    42810               ROZIER-EN-DONZY
+129       45.607450        4.063338    42600                    MONTBRISON
+130       45.726486        4.160597    42110                       PONCINS
+131       45.385435        4.258524    42490                      FRAISSES
+132       45.404462        4.372446    42150                  LA RICAMARIE
+133       45.956356        4.218978    42470                           LAY
+134       45.446564        4.745326    42410        SAINT-MICHEL-SUR-RHONE
+135       45.948467        4.211650    42470       SAINT-SYMPHORIEN-DE-LAY
+136       45.995000        4.066900    42120               COMMELLE-VERNAY
+137       45.493316        4.543359    42152                       L'HORME
+138       45.561992        4.264850    42340                    VEAUCHETTE
+139       45.544296        4.595588    42800        SAINT-MARTIN-LA-PLAINE
+140       45.695243        4.036709    42130            MARCILLY-LE-CHATEL
+141       45.659456        3.943954    42940      SAINT-BONNET-LE-COURREAU
+142       45.646411        4.263927    42210            SAINT-ANDRE-LE-PUY
+143       45.453210        4.703865    42410                        CHUYER
+144       45.427329        4.585819    42740                      DOIZIEUX
+145       45.996171        3.981733    42155                      LENTIGNY
+146       45.385435        4.258524    42490                      FRAISSES
+147       45.382854        4.440369    42660                       PLANFOY
+148       45.775234        3.981093    42130                   SAINT-SIXTE
+149       45.523068        4.541576    42320                       CELLIEU
+150       45.660799        4.356091    42140                      MARINGES
+151       45.837393        4.268862    42510                     BUSSIERES
+152       45.608157        4.266988    42330                        CUZIEU
+153       46.073920        4.210092    42460                     COUTOUVRE
+154       45.791910        4.338702    42360                   PANISSIERES
+155       45.504440        4.570513    42320                LA GRAND-CROIX
+156       45.554513        4.668993    42800                      TARTARAS
+157       45.996171        3.981733    42155                      LENTIGNY
+158       45.805380        4.154580    42510                      NERVIEUX
+159       45.637154        4.390390    42140            CHAZELLES-SUR-LYON
+160       45.590322        4.318391    42330                 SAINT-GALMIER
+161       45.637154        4.390390    42140            CHAZELLES-SUR-LYON
+162       45.368433        4.663061    42520                       VERANNE
+163       45.480702        4.432911    42350                 LA TALAUDIERE
+164       45.608157        4.266988    42330                        CUZIEU
+165       45.837393        4.268862    42510                     BUSSIERES
+166       45.901939        4.181277    42590                       NEULISE
+167       45.676232        4.299388    42210          SAINT-CYR-LES-VIGNES
+168       45.562104        4.541457    42800         SAINT-ROMAIN-EN-JAREZ
+169       45.892570        4.240827    42540          SAINT-JUST-LA-PENDUE
+170       45.881358        4.130617    42590                  SAINT-JODARD
+171       46.165398        4.346539    42670           BELMONT-DE-LA-LOIRE
+172       45.433013        4.322825    42230              ROCHE-LA-MOLIERE
+173       46.152996        4.245787    42750                          MARS
+174       45.450626        4.385943    42000                 SAINT-ETIENNE
+175       45.591310        4.195261    42210            L'HOPITAL-LE-GRAND
+176       45.914123        3.845841    42430        SAINT-JUST-EN-CHEVALET
+177       46.034432        4.072695    42300                        ROANNE
+178       45.719658        4.340391    42110       SAINT-BARTHELEMY-LESTRA

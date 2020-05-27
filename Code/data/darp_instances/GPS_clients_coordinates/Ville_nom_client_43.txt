@@ -1,0 +1,88 @@
+43 43
+  0       45.187091        4.183567    43200                       GRAZAC  
+  1       45.223658        4.138664    43120      SAINT-MAURICE-DE-LIGNON 
+  2       45.000858        4.004690    43260                     LANTRIAC 
+  3       45.132270        3.986170    43800                     ROSIERES 
+  4       45.098071        3.965504    43800                    MALREVERS 
+  5       45.339391        4.247359    43330                 PONT-SALOMON 
+  6       45.241156        4.235165    43600              SAINTE-SIGOLENE 
+  7       45.088633        3.748021    43320                       LOUDES 
+  8       45.047210        4.245299    43520              MAZET-SAINT-VOY 
+  9       45.072401        4.047414    43260                SAINT-HOSTIEN 
+ 10       45.265379        4.334470    43620         SAINT-ROMAIN-LACHALM 
+ 11       45.121700        3.528900    43300            MAZEYRAT-D'ALLIER 
+ 12       44.967819        3.887954    43370           SOLIGNAC-SUR-LOIRE 
+ 13       45.385472        3.270560    43410         LEMPDES-SUR-ALLAGNON 
+ 14       45.142667        4.123734    43200                   YSSINGEAUX 
+ 15       44.939996        3.994968    43150    LE MONASTIER-SUR-GAZEILLE 
+ 16       45.134706        3.813037    43350                SAINT-PAULIEN 
+ 17       45.118609        3.906302    43800            LAVOUTE-SUR-LOIRE 
+ 18       45.341390        4.313346    43240           SAINT-JUST-MALMONT 
+ 19       45.343409        3.318114    43360      BOURNONCLE-SAINT-PIERRE 
+ 20       45.334998        4.205564    43120          LA CHAPELLE-D'AUREC 
+ 21       45.334998        4.205564    43120          LA CHAPELLE-D'AUREC 
+ 22       45.200105        3.712038    43270                      ALLEGRE 
+ 23       45.313457        3.424997    43100                      LAMOTHE 
+ 24       45.158453        4.345737    43290                   MONTREGARD 
+ 25       45.235974        4.181117    43600                LES VILLETTES 
+ 26       44.996576        3.917551    43700                       COUBON 
+ 27       45.072401        4.047414    43260                SAINT-HOSTIEN 
+ 28       45.264730        3.404690    43100              VIEILLE-BRIOUDE 
+ 29       45.313457        3.424997    43100                      LAMOTHE 
+ 30       45.046636        3.926905    43700             BRIVES-CHARENSAC 
+ 31       45.296569        4.258749    43140         LA SEAUVE-SUR-SEMENE 
+ 32       45.305846        4.109558    43210                BAS-EN-BASSET 
+ 33       45.089831        4.173367    43200                      ARAULES 
+ 34       45.295564        3.386482    43100                      BRIOUDE 
+ 35       45.385472        3.270560    43410         LEMPDES-SUR-ALLAGNON 
+ 36       45.094700        3.633300    43300        SIAUGUES-SAINTE-MARIE 
+ 37       45.049396        3.883158    43000                     AIGUILHE 
+ 38       45.288694        3.422626    43100                    FONTANNES 
+ 39       45.046744        4.032538    43260           SAINT-PIERRE-EYNAC 
+ 40       45.129157        3.940676    43800                     BEAULIEU 
+ 41       45.056802        3.980647    43700                      BLAVOZY 
+ 42       45.143604        3.908139    43800                SAINT-VINCENT 
+ 43       45.121700        3.528900    43300            MAZEYRAT-D'ALLIER 
+ 44       45.009346        3.775932    43370                        BAINS 
+ 45       45.356344        3.956950    43500       SAINT-PAL-DE-CHALENCON 
+ 46       45.291030        4.313006    43140      SAINT-VICTOR-MALESCOURS 
+ 47       45.235974        4.181117    43600                LES VILLETTES 
+ 48       45.000858        4.004690    43260                     LANTRIAC 
+ 49       45.056802        3.980647    43700                      BLAVOZY 
+ 50       45.330005        3.845037    43500           CRAPONNE-SUR-ARZON 
+ 51       45.291030        4.313006    43140      SAINT-VICTOR-MALESCOURS 
+ 52       44.960270        3.546566    43170                      SAUGUES 
+ 53       45.061962        3.900741    43770                     POLIGNAC 
+ 54       45.300475        3.346649    43100                      PAULHAC 
+ 55       45.207088        3.515285    43230                   PAULHAGUET 
+ 56       45.200105        3.712038    43270                      ALLEGRE 
+ 57       44.925031        3.807583    43510                       CAYRES 
+ 58       45.187917        4.295163    43290                    RAUCOULES 
+ 59       45.337588        3.372863    43100                       COHADE 
+ 60       45.241156        4.235165    43600              SAINTE-SIGOLENE 
+ 61       45.000858        4.004690    43260                     LANTRIAC 
+ 62       45.305846        4.109558    43210                BAS-EN-BASSET 
+ 63       45.061962        3.900741    43770                     POLIGNAC 
+ 64       45.072401        4.047414    43260                SAINT-HOSTIEN 
+ 65       45.089831        4.173367    43200                      ARAULES 
+ 66       45.061962        3.900741    43770                     POLIGNAC 
+ 67       44.769875        3.882018    43420                    PRADELLES 
+ 68       44.997795        3.820913    43370 SAINT-CHRISTOPHE-SUR-DOLAISON 
+ 69       45.320631        3.695845    43160               LA CHAISE-DIEU 
+ 70       45.318937        3.170256    43450                       BLESLE 
+ 71       45.118609        3.906302    43800            LAVOUTE-SUR-LOIRE 
+ 72       45.042768        3.882936    43000              LE PUY-EN-VELAY 
+ 73       44.925031        3.807583    43510                       CAYRES 
+ 74       45.343409        3.318114    43360      BOURNONCLE-SAINT-PIERRE 
+ 75       45.318937        3.170256    43450                       BLESLE 
+ 76       45.246127        4.274097    43620            SAINT-PAL-DE-MONS 
+ 77       44.996576        3.917551    43700                       COUBON 
+ 78       45.052083        3.779194    43320             SANSSAC-L'EGLISE 
+ 79       45.143604        3.908139    43800                SAINT-VINCENT 
+ 80       45.265379        4.334470    43620         SAINT-ROMAIN-LACHALM 
+ 81       45.132270        3.986170    43800                     ROSIERES 
+ 82       45.187917        4.295163    43290                    RAUCOULES 
+ 83       44.967819        3.887954    43370           SOLIGNAC-SUR-LOIRE 
+ 84       45.200105        3.712038    43270                      ALLEGRE 
+ 85       45.355394        4.255058    43330      SAINT-FERREOL-D'AUROURE 
+ 86       45.207088        3.515285    43230                   PAULHAGUET 

@@ -1,0 +1,112 @@
+55 48
+  0       44.512455        3.336881    48100                        GREZES 
+  1       44.245584        3.923134    48160             LE COLLET-DE-DEZE
+  2       44.517978        3.248901    48100       LE MONASTIER-PIN-MORIES
+  3       44.807909        3.695312    48600                   LAVAL-ATGER
+  4       44.626811        3.233991    48100                    LE BUISSON
+  5       44.853114        3.659608    48600            CHAMBON-LE-CHATEAU
+  6       44.370562        3.535284    48320                      ISPAGNAC
+  7       44.324014        3.593714    48400                        FLORAC
+  8       44.522967        3.265272    48100                        CHIRAC
+  9       44.650156        3.891261    48250                           LUC
+ 10       44.245800        3.353100    48150               HURES-LA-PARADE
+ 11       44.748053        3.222099    48130                  FAU-DE-PEYRE
+ 12       44.662788        3.046409    48260                     NASBINALS
+ 13       44.700656        3.135493    48270                     MALBOUZON
+ 14       44.163900        3.785300    48110      MOISSAC-VALLEE-FRANCAISE
+ 15       44.591491        3.905662    48250         LA BASTIDE-PUYLAURENT
+ 16       44.180863        3.430010    48150                      MEYRUEIS
+ 17       44.773861        3.252649    48200                   LES BESSONS
+ 18       44.482474        3.358885    48230                    ESCLANEDES
+ 19       44.661655        3.631652    48170              ARZENC-DE-RANDON
+ 20       44.536216        3.550333    48000                      BADAROUX
+ 21       44.574408        3.404447    48000                     SERVIERES
+ 22       44.281287        3.836598    48240     SAINT-PRIVAT-DE-VALLONGUE
+ 23       44.690101        3.238735    48130       SAINTE-COLOMBE-DE-PEYRE
+ 24       44.580867        3.267688    48100                      ANTRENAS
+ 25       44.757442        3.150934    48310          LA FAGE-MONTIVERNOUX
+ 26       44.245584        3.923134    48160             LE COLLET-DE-DEZE
+ 27       44.727236        3.855416    48300                      LANGOGNE
+ 28       44.662788        3.046409    48260                     NASBINALS
+ 29       44.593689        3.301546    48100          SAINT-LEGER-DE-PEYRE
+ 30       44.191643        3.206943    48150                     LE ROZIER
+ 31       44.200217        3.922162    48160       SAINT-MARTIN-DE-BOUBAUX
+ 32       44.475285        3.984923    48800                 PIED-DE-BORNE
+ 33       44.550133        3.289894    48100                     MARVEJOLS
+ 34       44.826664        3.342207    48200                     PRUNIERES
+ 35       44.551900        3.329055    48100                     MONTRODAT
+ 36       44.593689        3.301546    48100          SAINT-LEGER-DE-PEYRE
+ 37       44.180863        3.430010    48150                      MEYRUEIS
+ 38       44.727236        3.855416    48300                      LANGOGNE
+ 39       44.817102        3.121333    48310                      FOURNELS
+ 40       44.641705        3.675263    48170         CHATEAUNEUF-DE-RANDON
+ 41       44.700656        3.135493    48270                     MALBOUZON
+ 42       44.500731        3.571598    48000                     LANUEJOLS
+ 43       44.348150        3.621762    48400                       COCURES
+ 44       44.633379        3.477684    48700            RIEUTORT-DE-RANDON
+ 45       44.848100        3.309200    48200         SAINT-PIERRE-LE-VIEUX
+ 46       44.807909        3.695312    48600                   LAVAL-ATGER
+ 47       44.738972        3.386696    48700                       FONTANS
+ 48       44.363118        3.745339    48220           LE PONT-DE-MONTVERT
+ 49       44.454957        3.561503    48000    SAINT-ETIENNE-DU-VALDONNEZ
+ 50       44.722846        3.284150    48130                 AUMONT-AUBRAC
+ 51       44.483640        3.533709    48000                       BRENOUX
+ 52       44.602402        3.208031    48100        SAINT-LAURENT-DE-MURET
+ 53       44.481937        3.456436    48000                     BALSIEGES
+ 54       44.690101        3.238735    48130       SAINTE-COLOMBE-DE-PEYRE
+ 55       44.309882        3.173637    48500                  LE MASSEGROS
+ 56       44.568301        3.616919    48000                       PELOUSE
+ 57       44.690101        3.238735    48130       SAINTE-COLOMBE-DE-PEYRE
+ 58       44.817102        3.121333    48310                      FOURNELS
+ 59       44.340217        3.604151    48400                       BEDOUES
+ 60       44.580867        3.267688    48100                      ANTRENAS
+ 61       44.633379        3.477684    48700            RIEUTORT-DE-RANDON
+ 62       44.454957        3.561503    48000    SAINT-ETIENNE-DU-VALDONNEZ
+ 63       44.200217        3.922162    48160       SAINT-MARTIN-DE-BOUBAUX
+ 64       44.568301        3.616919    48000                       PELOUSE
+ 65       44.239610        3.578290    48400                        VEBRON
+ 66       44.517611        3.501873    48000                         MENDE
+ 67       44.431036        3.214921    48500                  LA CANOURGUE
+ 68       44.481937        3.456436    48000                     BALSIEGES
+ 69       44.386877        3.616461    48400                   LES BONDONS
+ 70       44.702310        3.388557    48700                    SERVERETTE
+ 71       44.727591        3.838643    48300                       NAUSSAC
+ 72       44.713775        3.781326    48300                        ROCLES
+ 73       44.748053        3.222099    48130                  FAU-DE-PEYRE
+ 74       44.473331        3.858628    48800                        ALTIER
+ 75       44.826664        3.342207    48200                     PRUNIERES
+ 76       44.521732        3.909046    48800                  PREVENCHERES
+ 77       44.853562        3.377361    48140             LE MALZIEU-FORAIN
+ 78       44.858600        3.205800    48200               LES MONTS-VERTS
+ 79       44.245584        3.923134    48160             LE COLLET-DE-DEZE
+ 80       44.454957        3.561503    48000    SAINT-ETIENNE-DU-VALDONNEZ
+ 81       44.333074        3.896285    48220                        VIALAS
+ 82       44.766321        3.324912    48200                       RIMEIZE
+ 83       44.884766        3.286072    48200                     BLAVIGNAC
+ 84       44.727236        3.855416    48300                      LANGOGNE
+ 85       44.550133        3.289894    48100                     MARVEJOLS
+ 86       44.374472        3.700984    48220          FRAISSINET-DE-LOZERE
+ 87       44.536216        3.550333    48000                      BADAROUX
+ 88       44.466806        3.340478    48230                        CHANAC
+ 89       44.522967        3.265272    48100                        CHIRAC
+ 90       44.858600        3.205800    48200               LES MONTS-VERTS
+ 91       44.727591        3.838643    48300                       NAUSSAC
+ 92       44.340217        3.604151    48400                       BEDOUES
+ 93       44.486532        3.735726    48190                   LE BLEYMARD
+ 94       44.659604        3.757938    48170                    CHAUDEYRAC
+ 95       44.371382        3.524454    48320                        QUEZAC
+ 96       44.704703        3.253449    48130             LA CHAZE-DE-PEYRE
+ 97       44.593689        3.301546    48100          SAINT-LEGER-DE-PEYRE
+ 98       44.626811        3.233991    48100                    LE BUISSON
+ 99       44.481937        3.456436    48000                     BALSIEGES
+100       44.371382        3.524454    48320                        QUEZAC
+101       44.748053        3.222099    48130                  FAU-DE-PEYRE
+102       44.517978        3.248901    48100       LE MONASTIER-PIN-MORIES
+103       44.519346        3.299354    48100                       PALHERS
+104       44.813885        3.166401    48310                        TERMES
+105       44.536216        3.550333    48000                      BADAROUX
+106       44.839392        3.625666    48600              SAINT-SYMPHORIEN
+107       44.661655        3.631652    48170              ARZENC-DE-RANDON
+108       44.591491        3.905662    48250         LA BASTIDE-PUYLAURENT
+109       44.507851        3.662914    48190             BAGNOLS-LES-BAINS
+110       44.371382        3.524454    48320                        QUEZAC

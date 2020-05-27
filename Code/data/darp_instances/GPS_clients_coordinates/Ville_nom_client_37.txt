@@ -1,0 +1,162 @@
+80 37
+  0       46.832256        0.961944    37290             BOSSAY-SUR-CLAISE 
+  1       47.246625        0.543334    37190                         SACHE
+  2       47.472232        0.702268    37390       CHANCEAUX-SUR-CHOISILLE
+  3       47.058331        1.100532    37600               SAINT-HIPPOLYTE
+  4       47.291498        0.302874    37130                 SAINT-PATRICE
+  5       47.037380        0.351039    37120                    CHAVEIGNES
+  6       47.433241        0.949045    37530               NAZELLES-NEGRON
+  7       47.215351        0.321748    37500         SAINT-BENOIT-LA-FORET
+  8       47.332457        1.048981    37150            CIVRAY-DE-TOURAINE
+  9       47.520326        0.398873    37330                      SOUVIGNE
+ 10       47.138725        1.036560    37600         FERRIERE-SUR-BEAULIEU
+ 11       47.339333        0.512000    37510                     VILLANDRY
+ 12       47.659186        0.649173    37370             CHEMILLE-SUR-DEME
+ 13       47.167296        0.240385    37500                        CHINON
+ 14       47.273383        0.599111    37260            ARTANNES-SUR-INDRE
+ 15       47.144626        0.536590    37800                   SAINT-EPAIN
+ 16       47.252336        0.212894    37140         LA CHAPELLE-SUR-LOIRE
+ 17       47.083711        1.035233    37600      SAINT-JEAN-SAINT-GERMAIN
+ 18       47.542880        0.919533    37110           AUZOUER-EN-TOURAINE
+ 19       47.110040        0.558747    37800            NOYANT-DE-TOURAINE
+ 20       47.282487        0.168611    37140                     BOURGUEIL
+ 21       47.246625        0.543334    37190                         SACHE
+ 22       47.266654        0.356684    37190                    RIVARENNES
+ 23       47.193927        0.186337    37420             BEAUMONT-EN-VERON
+ 24       46.982319        0.488759    37120              MARIGNY-MARMANDE
+ 25       47.066886        0.323119    37120           CHAMPIGNY-SUR-VEUDE
+ 26       47.383274        0.689797    37000                         TOURS
+ 27       47.591908        0.909210    37110               CHATEAU-RENAULT
+ 28       47.489584        0.629594    37360       SAINT-ANTOINE-DU-ROCHER
+ 29       47.135869        1.300385    37460          NOUANS-LES-FONTAINES
+ 30       46.990562        0.918303    37600               BETZ-LE-CHATEAU
+ 31       47.113322        0.622078    37800      SAINTE-MAURE-DE-TOURAINE
+ 32       47.420813        0.845365    37210             VERNOU-SUR-BRENNE
+ 33       47.368340        0.778101    37270                        LARCAY
+ 34       47.332457        1.048981    37150            CIVRAY-DE-TOURAINE
+ 35       47.480259        0.263626    37330            CHANNAY-SUR-LATHAN
+ 36       47.388309        0.658258    37520                      LA RICHE
+ 37       47.337489        0.989941    37150          LA CROIX-EN-TOURAINE
+ 38       47.215351        0.321748    37500         SAINT-BENOIT-LA-FORET
+ 39       47.200934        0.633503    37260                   VILLEPERDUE
+ 40       47.286984        0.713777    37250                     MONTBAZON
+ 41       47.332457        1.048981    37150            CIVRAY-DE-TOURAINE
+ 42       47.388309        0.658258    37520                      LA RICHE
+ 43       47.330545        1.088686    37150                     CHISSEAUX
+ 44       47.351971        0.850254    37270                 AZAY-SUR-CHER
+ 45       47.602824        0.481640    37370           SAINT-PATERNE-RACAN
+ 46       47.295780        0.355538    37130                     BREHEMONT
+ 47       47.297045        0.418186    37130         LIGNIERES-DE-TOURAINE
+ 48       47.404813        0.599971    37230                     FONDETTES
+ 49       47.467288        0.994565    37530         SAINT-OUEN-LES-VIGNES
+ 50       47.542880        0.919533    37110           AUZOUER-EN-TOURAINE
+ 51       47.421441        0.891333    37210                        NOIZAY
+ 52       47.659186        0.649173    37370             CHEMILLE-SUR-DEME
+ 53       47.282487        0.168611    37140                     BOURGUEIL
+ 54       46.973539        0.698666    37160                     DESCARTES
+ 55       47.262128        1.059992    37150                       LUZILLE
+ 56       47.083711        1.035233    37600      SAINT-JEAN-SAINT-GERMAIN
+ 57       47.437707        0.638748    37390    LA MEMBROLLE-SUR-CHOISILLE
+ 58       47.111624        0.274052    37500                         LIGRE
+ 59       47.260980        0.405787    37190                       CHEILLE
+ 60       47.128158        0.997664    37600                        LOCHES
+ 61       47.193927        0.186337    37420             BEAUMONT-EN-VERON
+ 62       47.193927        0.186337    37420             BEAUMONT-EN-VERON
+ 63       47.542880        0.919533    37110           AUZOUER-EN-TOURAINE
+ 64       47.396106        0.763046    37700            LA VILLE-AUX-DAMES
+ 65       47.587077        0.777085    37380      SAINT-LAURENT-EN-GATINES
+ 66       47.359452        0.805212    37270                        VERETZ
+ 67       47.100065        1.013676    37600                     PERRUSSON
+ 68       47.351861        0.661310    37510                JOUE-LES-TOURS
+ 69       47.501140        0.685183    37390                      CERELLES
+ 70       47.569706        0.670877    37360             BEAUMONT-LA-RONCE
+ 71       47.246625        0.543334    37190                         SACHE
+ 72       47.209621        1.235217    37460                       ORBIGNY
+ 73       47.441420        0.745623    37210                 PARCAY-MESLAY
+ 74       47.602824        0.481640    37370           SAINT-PATERNE-RACAN
+ 75       47.367854        0.726905    37550                 SAINT-AVERTIN
+ 76       47.443899        0.499282    37230                        PERNAY
+ 77       47.659186        0.649173    37370             CHEMILLE-SUR-DEME
+ 78       47.455313        1.098697    37530                        MOSNES
+ 79       47.262128        1.059992    37150                       LUZILLE
+ 80       47.454176        0.451237    37340                      AMBILLOU
+ 81       47.501140        0.685183    37390                      CERELLES
+ 82       47.200934        0.633503    37260                   VILLEPERDUE
+ 83       47.444617        0.320189    37340            SAVIGNE-SUR-LATHAN
+ 84       47.520326        0.398873    37330                      SOUVIGNE
+ 85       47.659186        0.649173    37370             CHEMILLE-SUR-DEME
+ 86       47.128151        1.012653    37600           BEAULIEU-LES-LOCHES
+ 87       47.250338        0.876135    37310                       COURCAY
+ 88       47.273866        0.845933    37320                        TRUYES
+ 89       47.236387        0.127458    37140              CHOUZE-SUR-LOIRE
+ 90       47.377919        0.598647    37510                 SAINT-GENOUPH
+ 91       47.351971        0.850254    37270                 AZAY-SUR-CHER
+ 92       47.520326        0.398873    37330                      SOUVIGNE
+ 93       47.377919        0.598647    37510                 SAINT-GENOUPH
+ 94       47.443899        0.499282    37230                        PERNAY
+ 95       47.295780        0.355538    37130                     BREHEMONT
+ 96       47.517243        0.648268    37360          ROUZIERS-DE-TOURAINE
+ 97       47.273383        0.599111    37260            ARTANNES-SUR-INDRE
+ 98       47.242921        0.694014    37250                       SORIGNY
+ 99       47.414169        0.754852    37210                   ROCHECORBON
+100       47.242921        0.694014    37250                       SORIGNY
+101       46.920619        0.803318    37350            LE GRAND-PRESSIGNY
+102       47.137766        0.792836    37240                     MANTHELAN
+103       47.226692        0.772492    37320                 SAINT-BRANCHS
+104       47.068025        0.674727    37800                        SEPMES
+105       47.472232        0.702268    37390       CHANCEAUX-SUR-CHOISILLE
+106       46.982319        0.488759    37120              MARIGNY-MARMANDE
+107       47.341500        0.613269    37510                   BALLAN-MIRE
+108       47.355813        0.910268    37270          SAINT-MARTIN-LE-BEAU
+109       47.023914        0.789212    37240                        CUSSAY
+110       47.284385        0.785270    37320                        ESVRES
+111       47.468132        1.059673    37530                        CANGEY
+112       47.370800        0.516900    37230       SAINT-ETIENNE-DE-CHIGNY
+113       47.144626        0.536590    37800                   SAINT-EPAIN
+114       47.284852        0.125350    37140    SAINT-NICOLAS-DE-BOURGUEIL
+115       47.250338        0.876135    37310                       COURCAY
+116       47.052702        0.580328    37800                        MAILLE
+117       46.968085        1.026439    37600                 SAINT-FLOVIER
+118       47.367854        0.726905    37550                 SAINT-AVERTIN
+119       47.111624        0.274052    37500                         LIGRE
+120       47.111624        0.274052    37500                         LIGRE
+121       47.145740        0.277159    37500                       RIVIERE
+122       47.058331        1.100532    37600               SAINT-HIPPOLYTE
+123       47.347742        0.548543    37510                   SAVONNIERES
+124       47.512638        0.910234    37380             NEUILLE-LE-LIERRE
+125       47.591908        0.909210    37110               CHATEAU-RENAULT
+126       47.467288        0.994565    37530         SAINT-OUEN-LES-VIGNES
+127       47.351971        0.850254    37270                 AZAY-SUR-CHER
+128       47.262128        1.059992    37150                       LUZILLE
+129       47.520326        0.398873    37330                      SOUVIGNE
+130       46.920619        0.803318    37350            LE GRAND-PRESSIGNY
+131       47.266654        0.356684    37190                    RIVARENNES
+132       47.443899        0.499282    37230                        PERNAY
+133       47.145460        0.400439    37220                      PANZOULT
+134       47.181845        0.967883    37310           CHAMBOURG-SUR-INDRE
+135       47.119833        0.425897    37220                L'ILE-BOUCHARD
+136       47.413326        0.984407    37400                       AMBOISE
+137       47.455313        1.098697    37530                        MOSNES
+138       46.973539        0.698666    37160                     DESCARTES
+139       47.135869        1.300385    37460          NOUANS-LES-FONTAINES
+140       47.547414        0.546587    37360           NEUILLE-PONT-PIERRE
+141       47.437707        0.638748    37390    LA MEMBROLLE-SUR-CHOISILLE
+142       47.527077        0.462045    37360                        SONZAY
+143       47.214510        0.834066    37310                      TAUXIGNY
+144       47.200575        0.145137    37420              SAVIGNY-EN-VERON
+145       47.268127        0.835679    37320                       CORMERY
+146       47.324847        0.406217    37130                      LANGEAIS
+147       47.232165        0.916641    37310             REIGNAC-SUR-INDRE
+148       47.517243        0.648268    37360          ROUZIERS-DE-TOURAINE
+149       47.432341        1.030288    37530                        CHARGE
+150       47.282487        0.168611    37140                     BOURGUEIL
+151       47.569706        0.670877    37360             BEAUMONT-LA-RONCE
+152       47.054163        0.623479    37800                        DRACHE
+153       46.990562        0.918303    37600               BETZ-LE-CHATEAU
+154       47.370800        0.516900    37230       SAINT-ETIENNE-DE-CHIGNY
+155       47.527077        0.462045    37360                        SONZAY
+156       47.051186        0.549650    37800                       NOUATRE
+157       47.489584        0.629594    37360       SAINT-ANTOINE-DU-ROCHER
+158       47.451049        0.872756    37210                       CHANCAY
+159       47.363028        0.523612    37510                     BERTHENAY
+160       47.412068        0.799248    37210                       VOUVRAY

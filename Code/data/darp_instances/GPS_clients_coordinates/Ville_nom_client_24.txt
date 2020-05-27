@@ -1,0 +1,164 @@
+81 24
+  0       45.148869        1.229050    24120       BEAUREGARD-DE-TERRASSON 
+  1       44.860645        1.364530    24370        SAINT-JULIEN-DE-LAMPON
+  2       44.933336        1.253546    24200                     PROISSANS
+  3       44.859213        0.107519    24230                       VELINES
+  4       45.053934        0.365049    24400        SAINT-FRONT-DE-PRADOUX
+  5       45.183594        0.657144    24430             MARSAC-SUR-L'ISLE
+  6       44.816741        1.294158    24250                      GROLEJAC
+  7       45.594658        0.701422    24300                      AUGIGNAC
+  8       45.187200        0.692200    24660          COULOUNIEIX-CHAMIERS
+  9       44.888426        1.166493    24200           SAINT-ANDRE-D'ALLAS
+ 10       45.400129        1.218573    24270                        PAYZAC
+ 11       44.832101        1.225166    24200                        VITRAC
+ 12       45.051726        0.395897    24400                       SOURZAC
+ 13       45.204188        0.664189    24650                    CHANCELADE
+ 14       44.780065        0.417989    24240                       POMPORT
+ 15       45.204188        0.664189    24650                    CHANCELADE
+ 16       45.530402        0.662239    24300                       NONTRON
+ 17       45.161735        0.855500    24330                        EYLIAC
+ 18       45.467079        0.778424    24470             MILHAC-DE-NONTRON
+ 19       45.009274        0.162000    24700            MONTPON-MENESTEROL
+ 20       45.204146        0.138012    24410                  SAINT-AULAYE
+ 21       45.392176        1.139211    24270                    LANOUAILLE
+ 22       45.161735        0.855500    24330                        EYLIAC
+ 23       44.974739        1.321884    24590             SALIGNAC-EYVIGUES
+ 24       44.845706        0.154088    24230      SAINT-ANTOINE-DE-BREUILH
+ 25       44.836377        0.331866    24680                      GARDONNE
+ 26       44.853806        0.483392    24100                      BERGERAC
+ 27       45.129378        0.639094    24430                       COURSAC
+ 28       44.801305        1.217048    24250                         DOMME
+ 29       45.427995        1.138990    24270                      ANGOISSE
+ 30       45.414368        0.944163    24800                     NANTHEUIL
+ 31       45.278117        0.547571    24350                         LISLE
+ 32       44.884720        0.524525    24100                       LEMBRAS
+ 33       44.884720        0.524525    24100                       LEMBRAS
+ 34       44.949568        1.215061    24200       MARCILLAC-SAINT-QUENTIN
+ 35       45.427995        1.138990    24270                      ANGOISSE
+ 36       45.323881        0.585520    24310                   BOURDEILLES
+ 37       45.204146        0.138012    24410                  SAINT-AULAYE
+ 38       44.845322        0.592738    24520         SAINT-GERMAIN-ET-MONS
+ 39       45.099750        0.469484    24190                        NEUVIC
+ 40       45.452358        0.453407    24340                       MAREUIL
+ 41       44.780065        0.417989    24240                       POMPORT
+ 42       44.853806        0.483392    24100                      BERGERAC
+ 43       45.274844        0.916565    24420          SAVIGNAC-LES-EGLISES
+ 44       45.009274        0.162000    24700            MONTPON-MENESTEROL
+ 45       45.592387        0.664369    24360                 SAINT-ESTEPHE
+ 46       44.833783        1.164002    24220                         VEZAC
+ 47       45.064332        1.161380    24290                     MONTIGNAC
+ 48       45.494721        1.062474    24630             JUMILHAC-LE-GRAND
+ 49       44.844028        0.210809    33220   PORT-SAINTE-FOY-ET-PONCHAPT
+ 50       44.834995        0.972768    24220             COUX-ET-BIGAROQUE
+ 51       45.271060        1.060190    24390                    TOURTOIRAC
+ 52       45.161735        0.855500    24330                        EYLIAC
+ 53       45.248559        0.685139    24460              CHATEAU-L'EVEQUE
+ 54       44.888426        1.166493    24200           SAINT-ANDRE-D'ALLAS
+ 55       45.016902        0.107567    24700                     MENESPLET
+ 56       45.180548        0.768949    24750                      BOULAZAC
+ 57       44.855598        0.065677    24230                     MONTCARET
+ 58       45.246394        0.337651    24600                       RIBERAC
+ 59       44.949568        1.215061    24200       MARCILLAC-SAINT-QUENTIN
+ 60       44.793529        0.492161    24240                   MONBAZILLAC
+ 61       44.730741        0.607473    24560                      ISSIGEAC
+ 62       45.118272        1.230377    24570             CONDAT-SUR-VEZERE
+ 63       44.818519        0.455108    24100      SAINT-LAURENT-DES-VIGNES
+ 64       45.256703        0.495844    24350             TOCANE-SAINT-APRE
+ 65       45.363368        1.220031    24270              SAVIGNAC-LEDRIER
+ 66       45.493528        0.744947    24470      SAINT-PARDOUX-LA-RIVIERE
+ 67       44.801305        1.217048    24250                         DOMME
+ 68       45.290530        1.118532    24390                CHERVEIX-CUBAS
+ 69       45.392176        1.139211    24270                    LANOUAILLE
+ 70       45.146371        1.155497    24210                LA BACHELLERIE
+ 71       44.860645        1.364530    24370        SAINT-JULIEN-DE-LAMPON
+ 72       45.099750        0.469484    24190                        NEUVIC
+ 73       45.340019        1.048906    24160                     EXCIDEUIL
+ 74       44.949568        1.215061    24200       MARCILLAC-SAINT-QUENTIN
+ 75       44.860645        1.364530    24370        SAINT-JULIEN-DE-LAMPON
+ 76       45.097755        0.784836    24750                     MARSANEIX
+ 77       45.263594        0.362491    24600                  VILLETOUREIX
+ 78       44.947288        0.807778    24510                 SAINTE-ALVERE
+ 79       45.009274        0.162000    24700            MONTPON-MENESTEROL
+ 80       45.347133        0.366328    24320                    VERTEILLAC
+ 81       44.780065        0.417989    24240                       POMPORT
+ 82       45.340600        1.071472    24160      SAINT-MEDARD-D'EXCIDEUIL
+ 83       45.134475        0.590074    24110                       MONTREM
+ 84       44.818519        0.455108    24100      SAINT-LAURENT-DES-VIGNES
+ 85       45.237235        0.874854    24420            SARLIAC-SUR-L'ISLE
+ 86       45.145202        0.527780    24110                  SAINT-ASTIER
+ 87       44.829555        0.704438    24150          COUZE-ET-SAINT-FRONT
+ 88       45.478588        0.999347    24800           SAINT-PAUL-LA-ROCHE
+ 89       44.952081        0.108661    24610        SAINT-MARTIN-DE-GURSON
+ 90       45.129378        0.639094    24430                       COURSAC
+ 91       45.145202        0.527780    24110                  SAINT-ASTIER
+ 92       45.393955        0.698699    24530          CHAMPAGNAC-DE-BELAIR
+ 93       45.293688        0.751782    24460                        AGONAC
+ 94       45.623206        0.691046    24360               PIEGUT-PLUVIERS
+ 95       45.215868        0.725841    24750                  CHAMPCEVINEL
+ 96       45.015402        0.204666    24700      SAINT-MARTIAL-D'ARTENSET
+ 97       45.051726        0.395897    24400                       SOURZAC
+ 98       45.592387        0.664369    24360                 SAINT-ESTEPHE
+ 99       45.323881        0.585520    24310                   BOURDEILLES
+100       45.226026        0.559843    24350                     MENSIGNAC
+101       44.853806        0.483392    24100                      BERGERAC
+102       44.834995        0.972768    24220             COUX-ET-BIGAROQUE
+103       45.053934        0.365049    24400        SAINT-FRONT-DE-PRADOUX
+104       45.061515        0.863282    24330                      LA DOUZE
+105       44.935608        0.484160    24140                       MAURENS
+106       45.026165        0.719312    24380                         VERGT
+107       45.515603        0.647625    24300      SAINT-MARTIAL-DE-VALETTE
+108       45.229659        0.359852    24600       SAINT-MARTIN-DE-RIBERAC
+109       44.854494        0.594951    24520                    MOULEYDIER
+110       45.549673        0.904275    24450                        MIALET
+111       45.146371        1.155497    24210                LA BACHELLERIE
+112       45.204188        0.664189    24650                    CHANCELADE
+113       44.855598        0.065677    24230                     MONTCARET
+114       44.844188        0.904572    24480         LE BUISSON-DE-CADOUIN
+115       45.416858        0.922369    24800                      THIVIERS
+116       45.180548        0.768949    24750                      BOULAZAC
+117       44.933336        1.253546    24200                     PROISSANS
+118       45.467079        0.778424    24470             MILHAC-DE-NONTRON
+119       44.855443        0.401867    24130                   PRIGONRIEUX
+120       45.570739        0.560354    24300 JAVERLHAC-ET-LA-CHAPELLE-SAINT-ROBERT
+121       45.127560        1.305566    24120         TERRASSON-LAVILLEDIEU
+122       45.084698        0.414738    24190                     DOUZILLAC
+123       45.184299        0.555159    24110          LEGUILLAC-DE-L'AUCHE
+124       45.549673        0.904275    24450                        MIALET
+125       44.757906        0.408685    24240                      SIGOULES
+126       45.215868        0.725841    24750                  CHAMPCEVINEL
+127       45.346696        0.868580    24460                     NEGRONDES
+128       44.933336        1.253546    24200                     PROISSANS
+129       45.311843        1.196951    24160                      SALAGNAC
+130       44.854494        0.594951    24520                    MOULEYDIER
+131       45.263594        0.362491    24600                  VILLETOUREIX
+132       44.834995        0.972768    24220             COUX-ET-BIGAROQUE
+133       45.311843        1.196951    24160                      SALAGNAC
+134       44.832101        1.225166    24200                        VITRAC
+135       44.853806        0.483392    24100                      BERGERAC
+136       44.804449        0.547772    24520                  SAINT-NEXANS
+137       45.129644        1.225793    24570        LE LARDIN-SAINT-LAZARE
+138       44.884720        0.524525    24100                       LEMBRAS
+139       44.850211        0.026745    24230             LAMOTHE-MONTRAVEL
+140       44.995517        0.823009    24380                     CENDRIEUX
+141       44.867248        0.376642    24130                      LA FORCE
+142       44.836377        0.331866    24680                      GARDONNE
+143       44.888426        1.166493    24200           SAINT-ANDRE-D'ALLAS
+144       45.237235        0.874854    24420            SARLIAC-SUR-L'ISLE
+145       45.416858        0.922369    24800                      THIVIERS
+146       45.125286        0.855988    24330       SAINT-PIERRE-DE-CHIGNAC
+147       44.838113        0.739477    24150                       LALINDE
+148       44.854003        0.565493    24100                       CREYSSE
+149       44.829555        0.704438    24150          COUZE-ET-SAINT-FRONT
+150       45.308053        0.872656    24420                        SORGES
+151       45.048271        0.979543    24580 ROUFFIGNAC-SAINT-CERNIN-DE-REILHAC
+152       44.869767        1.042678    24220                 SAINT-CYPRIEN
+153       45.365187        0.647394    24310                      BRANTOME
+154       44.629660        1.080006    24550      VILLEFRANCHE-DU-PERIGORD
+155       44.865300        0.798100    24150       MAUZAC-ET-GRAND-CASTANG
+156       44.834995        0.972768    24220             COUX-ET-BIGAROQUE
+157       44.855443        0.401867    24130                   PRIGONRIEUX
+158       45.036291        1.037587    24580                        PLAZAC
+159       45.022468        0.540670    24140                   VILLAMBLARD
+160       45.187200        0.692200    24660          COULOUNIEIX-CHAMIERS
+161       45.452358        0.453407    24340                       MAREUIL
+162       45.138315        1.071306    24210                        THENON

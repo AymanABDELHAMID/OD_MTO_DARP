@@ -1,0 +1,188 @@
+93 50
+  0       48.675096       -0.887102    50140      SAINT-CLEMENT-RANCOUDRAY 
+  1       48.949880       -1.264130    50450                        HAMBYE
+  2       48.595034       -1.083082    50600                       PARIGNY
+  3       49.528928       -1.519935    50700                  SAINT-JOSEPH
+  4       49.667074       -1.844943    50440                BEAUMONT-HAGUE
+  5       49.180608       -1.257559    50570             REMILLY-SUR-LOZON
+  6       48.533168       -1.152867    50730      SAINT-BRICE-DE-LANDELLES
+  7       49.052050       -1.037985    50890                CONDE-SUR-VIRE
+  8       49.034127       -0.978918    50160              TORIGNI-SUR-VIRE
+  9       49.509246       -1.742541    50340                     GROSVILLE
+ 10       48.917318       -1.194829    50410                         PERCY
+ 11       49.648868       -1.653674    50120    EQUEURDREVILLE-HAINNEVILLE
+ 12       49.014075       -0.977072    50160                      GIEVILLE
+ 13       49.489536       -1.504238    50700                 YVETOT-BOCAGE
+ 14       48.824523       -1.411121    50320                      FOLLIGNY
+ 15       48.599457       -0.832288    50720                      BARENTON
+ 16       48.988201       -0.945414    50160                  GUILBERVILLE
+ 17       48.615417       -1.292082    50111     SAINT-AUBIN-DE-TERREGATTE
+ 18       48.987078       -1.031578    50420                       DOMJEAN
+ 19       48.580971       -0.956494    50140         NOTRE-DAME-DU-TOUCHET
+ 20       49.008471       -1.552858    50590            REGNEVILLE-SUR-MER
+ 21       49.409904       -1.318183    50480            SAINTE-MERE-EGLISE
+ 22       48.917318       -1.194829    50410                         PERCY
+ 23       49.038144       -1.105899    50750               SAINT-ROMPHAIRE
+ 24       48.838032       -1.221714    50800          VILLEDIEU-LES-POELES
+ 25       49.189591       -0.883461    50810               CERISY-LA-FORET
+ 26       48.646293       -1.316164    50220    SAINT-QUENTIN-SUR-LE-HOMME
+ 27       48.723841       -1.167278    50370                        BRECEY
+ 28       49.509246       -1.742541    50340                     GROSVILLE
+ 29       48.599457       -0.832288    50720                      BARENTON
+ 30       49.682908       -1.452171    50840                   FERMANVILLE
+ 31       49.008471       -1.552858    50590            REGNEVILLE-SUR-MER
+ 32       49.594621       -1.663863    50690                    MARTINVAST
+ 33       48.972656       -1.059332    50420                TESSY-SUR-VIRE
+ 34       49.656100       -1.268764    50760                  MONTFARVILLE
+ 35       48.700655       -1.441969    50530                       BACILLY
+ 36       49.192572       -1.029273    50680        SAINT-CLAIR-SUR-L-ELLE
+ 37       49.470529       -1.633983    50260                    BRICQUEBEC
+ 38       49.619476       -1.259585    50760                       REVILLE
+ 39       48.949880       -1.264130    50450                        HAMBYE
+ 40       49.379026       -1.399977    50360                    PICAUVILLE
+ 41       49.518733       -1.683686    50260             RAUVILLE-LA-BIGOT
+ 42       48.977566       -1.542045    50590            HAUTEVILLE-SUR-MER
+ 43       49.509594       -1.469216    50700                      VALOGNES
+ 44       48.618185       -1.310215    50220                       POILLEY
+ 45       48.710104       -1.261329    50870                      TIREPIED
+ 46       48.577086       -1.092034    50600     SAINT-HILAIRE-DU-HARCOUET
+ 47       49.610800       -1.600800    50470                   LA GLACERIE
+ 48       48.700655       -1.441969    50530                       BACILLY
+ 49       49.093496       -1.307140    50570                      LE LOREY
+ 50       48.646293       -1.316164    50220    SAINT-QUENTIN-SUR-LE-HOMME
+ 51       49.176469       -1.112335    50880                    LA MEAUFFE
+ 52       48.539327       -0.873507    50640                   LE TEILLEUL
+ 53       48.950989       -1.527045    50660                   LINGREVILLE
+ 54       49.639345       -1.762059    50440            SAINTE-CROIX-HAGUE
+ 55       49.574687       -1.652356    50690                    HARDINVAST
+ 56       49.639144       -1.466022    50330                    GONNEVILLE
+ 57       49.606968       -1.524977    50110              LE MESNIL-AU-VAL
+ 58       49.066009       -1.584458    50560            BLAINVILLE-SUR-MER
+ 59       49.631808       -1.532324    50110                    DIGOSVILLE
+ 60       49.648868       -1.653674    50120    EQUEURDREVILLE-HAINNEVILLE
+ 61       48.681947       -0.788928    50850                           GER
+ 62       49.379026       -1.225989    50480          SAINTE-MARIE-DU-MONT
+ 63       48.700655       -1.441969    50530                       BACILLY
+ 64       49.609894       -1.749786    50440                    ACQUEVILLE
+ 65       48.917030       -1.435265    50510                      CERENCES
+ 66       49.606968       -1.524977    50110              LE MESNIL-AU-VAL
+ 67       48.577038       -1.293821    50111   SAINT-LAURENT-DE-TERREGATTE
+ 68       48.975896       -1.473566    50660       QUETTREVILLE-SUR-SIENNE
+ 69       49.609894       -1.749786    50440                    ACQUEVILLE
+ 70       48.712500       -1.496100    50530                DRAGEY-RONTHON
+ 71       49.034127       -0.978918    50160              TORIGNI-SUR-VIRE
+ 72       49.622090       -1.721996    50690          FLOTTEMANVILLE-HAGUE
+ 73       49.200966       -1.566558    50770                      CREANCES
+ 74       48.989698       -1.333489    50210                        RONCEY
+ 75       49.335659       -1.700023    50580                      PORTBAIL
+ 76       49.130533       -1.411591    50490        SAINT-SAUVEUR-LENDELIN
+ 77       48.670253       -1.330291    50300       SAINT-MARTIN-DES-CHAMPS
+ 78       49.067032       -1.200585    50750                        QUIBOU
+ 79       49.686366       -1.283043    50760           GATTEVILLE-LE-PHARE
+ 80       48.972656       -1.059332    50420                TESSY-SUR-VIRE
+ 81       48.685056       -1.342751    50300   SAINT-SENIER-SOUS-AVRANCHES
+ 82       49.485872       -1.782964    50340     SAINT-GERMAIN-LE-GAILLARD
+ 83       49.040548       -1.585523    50230             AGON-COUTAINVILLE
+ 84       49.168792       -1.135509    50880                   PONT-HEBERT
+ 85       49.104925       -1.174702    50180                  SAINT-GILLES
+ 86       49.594621       -1.663863    50690                    MARTINVAST
+ 87       48.950989       -1.527045    50660                   LINGREVILLE
+ 88       48.539327       -0.873507    50640                   LE TEILLEUL
+ 89       48.676922       -1.019723    50520             JUVIGNY-LE-TERTRE
+ 90       48.680737       -1.259461    50300                    SAINT-OVIN
+ 91       48.686843       -1.361660    50300                     AVRANCHES
+ 92       48.680737       -1.259461    50300                    SAINT-OVIN
+ 93       48.949880       -1.264130    50450                        HAMBYE
+ 94       48.881862       -1.528327    50290            COUDEVILLE-SUR-MER
+ 95       48.599457       -0.832288    50720                      BARENTON
+ 96       49.305666       -1.242834    50500                      CARENTAN
+ 97       49.653800       -1.530698    50110                   BRETTEVILLE
+ 98       49.379026       -1.399977    50360                    PICAUVILLE
+ 99       48.912839       -1.521481    50290          BRICQUEVILLE-SUR-MER
+100       48.697664       -1.390570    50300             MARCEY-LES-GREVES
+101       49.686366       -1.283043    50760           GATTEVILLE-LE-PHARE
+102       49.587369       -1.268371    50550         SAINT-VAAST-LA-HOUGUE
+103       48.988201       -0.945414    50160                  GUILBERVILLE
+104       49.592526       -1.302724    50550                     QUETTEHOU
+105       48.988585       -1.524114    50590            MONTMARTIN-SUR-MER
+106       49.180608       -1.257559    50570             REMILLY-SUR-LOZON
+107       48.615417       -1.292082    50111     SAINT-AUBIN-DE-TERREGATTE
+108       48.541678       -1.087971    50600             LES LOGES-MARCHIS
+109       48.619481       -1.293817    50220                         DUCEY
+110       48.917030       -1.435265    50510                      CERENCES
+111       49.250000       -1.200000    50620                      GRAIGNES
+112       48.825007       -1.526202    50400               SAINT-PLANCHERS
+113       49.300042       -1.320514    50500                        AUVERS
+114       49.583203       -1.728931    50690            TEURTHEVILLE-HAGUE
+115       49.111268       -1.034527    50810           LA BARRE-DE-SEMILLY
+116       48.710104       -1.261329    50870                      TIREPIED
+117       49.181157       -1.574524    50770                         PIROU
+118       49.130533       -1.411591    50490        SAINT-SAUVEUR-LENDELIN
+119       49.066108       -1.488401    50200                        GRATOT
+120       48.525779       -1.324606    50240                   SAINT-JAMES
+121       49.235447       -1.593386    50430          SAINT-GERMAIN-SUR-AY
+122       48.825007       -1.526202    50400               SAINT-PLANCHERS
+123       49.518733       -1.683686    50260             RAUVILLE-LA-BIGOT
+124       48.770885       -1.567332    50610                   JULLOUVILLE
+125       49.093496       -1.307140    50570                      LE LOREY
+126       48.845605       -1.558768    50400                       YQUELON
+127       49.509594       -1.469216    50700                      VALOGNES
+128       48.649222       -0.941546    50140                       MORTAIN
+129       48.746260       -1.560906    50740                      CAROLLES
+130       48.972656       -1.059332    50420                TESSY-SUR-VIRE
+131       48.814184       -1.567718    50380            SAINT-PAIR-SUR-MER
+132       49.382002       -1.755905    50270           BARNEVILLE-CARTERET
+133       48.838032       -1.221714    50800          VILLEDIEU-LES-POELES
+134       49.206657       -1.047777    50680                 MOON-SUR-ELLE
+135       49.228274       -1.138040    50620            SAINT-JEAN-DE-DAYE
+136       49.455238       -1.818924    50270                  SURTAINVILLE
+137       48.917318       -1.194829    50410                         PERCY
+138       48.988201       -0.945414    50160                  GUILBERVILLE
+139       48.864553       -1.556388    50290              BREVILLE-SUR-MER
+140       49.185779       -1.408952    50190                       PERIERS
+141       49.185779       -1.408952    50190                       PERIERS
+142       49.189591       -0.883461    50810               CERISY-LA-FORET
+143       49.304700       -1.226400    50500      SAINT-HILAIRE-PETITVILLE
+144       49.545715       -1.579207    50700                          BRIX
+145       48.681947       -0.788928    50850                           GER
+146       49.185779       -1.408952    50190                       PERIERS
+147       49.217800       -1.530385    50430                        LESSAY
+148       49.168792       -1.135509    50880                   PONT-HEBERT
+149       49.382002       -1.755905    50270           BARNEVILLE-CARTERET
+150       49.119882       -1.113128    50180                       AGNEAUX
+151       48.533168       -1.152867    50730      SAINT-BRICE-DE-LANDELLES
+152       49.472917       -1.783316    50340                   PIERREVILLE
+153       49.278358       -1.300124    50500                       MEAUTIS
+154       48.580971       -0.956494    50140         NOTRE-DAME-DU-TOUCHET
+155       49.066009       -1.584458    50560            BLAINVILLE-SUR-MER
+156       49.104925       -1.174702    50180                  SAINT-GILLES
+157       49.014075       -0.977072    50160                      GIEVILLE
+158       49.168792       -1.135509    50880                   PONT-HEBERT
+159       49.557901       -1.683909    50690                      COUVILLE
+160       48.987078       -1.031578    50420                       DOMJEAN
+161       49.189591       -0.883461    50810               CERISY-LA-FORET
+162       49.587369       -1.268371    50550         SAINT-VAAST-LA-HOUGUE
+163       49.045990       -1.544557    50200          TOURVILLE-SUR-SIENNE
+164       49.040548       -1.585523    50230             AGON-COUTAINVILLE
+165       49.587369       -1.268371    50550         SAINT-VAAST-LA-HOUGUE
+166       48.533168       -1.152867    50730      SAINT-BRICE-DE-LANDELLES
+167       48.770885       -1.567332    50610                   JULLOUVILLE
+168       49.008471       -1.552858    50590            REGNEVILLE-SUR-MER
+169       49.217800       -1.530385    50430                        LESSAY
+170       48.950989       -1.527045    50660                   LINGREVILLE
+171       49.610800       -1.600800    50470                   LA GLACERIE
+172       49.583203       -1.728931    50690            TEURTHEVILLE-HAGUE
+173       49.075986       -1.175718    50750                        CANISY
+174       48.898687       -1.522787    50290                        BREHAL
+175       49.619476       -1.259585    50760                       REVILLE
+176       49.572031       -1.462863    50700                  SAUSSEMESNIL
+177       48.950989       -1.527045    50660                   LINGREVILLE
+178       49.181157       -1.574524    50770                         PIROU
+179       49.290954       -1.545299    50250              LA HAYE-DU-PUITS
+180       49.278358       -1.300124    50500                       MEAUTIS
+181       48.723841       -1.167278    50370                        BRECEY
+182       48.863026       -1.492760    50510                    HUDIMESNIL
+183       49.052050       -1.037985    50890                CONDE-SUR-VIRE
+184       49.168792       -1.135509    50880                   PONT-HEBERT
+185       48.986253       -1.403561    50210           SAINT-DENIS-LE-VETU
+186       48.595034       -1.083082    50600                       PARIGNY

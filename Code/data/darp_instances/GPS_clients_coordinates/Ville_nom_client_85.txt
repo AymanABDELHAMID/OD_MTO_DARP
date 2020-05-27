@@ -1,0 +1,148 @@
+73 85
+  0       46.672737       -1.292401    85310          LA CHAIZE-LE-VICOMTE 
+  1       46.408491       -1.403055    85750                        ANGLES
+  2       46.829633       -1.269648    85140                       CHAUCHE
+  3       46.958955       -0.889664    85290       SAINT-LAURENT-SUR-SEVRE
+  4       46.579442       -1.237102    85320               CHATEAU-GUIBERT
+  5       46.605700       -1.829880    85470                  BREM-SUR-MER
+  6       46.720204       -1.945917    85270         SAINT-HILAIRE-DE-RIEZ
+  7       46.844355       -1.496408    85170         LES LUCS-SUR-BOULOGNE
+  8       46.833336       -1.190386    85250       SAINT-ANDRE-GOULE-D'OIE
+  9       46.754755       -1.685472    85190                         MACHE
+ 10       46.754755       -1.685472    85190                         MACHE
+ 11       46.368568       -0.596559    85490                         BENET
+ 12       46.808714       -1.426157    85170                       SALIGNY
+ 13       46.738256       -1.384799    85170             DOMPIERRE-SUR-YON
+ 14       46.579442       -1.237102    85320               CHATEAU-GUIBERT
+ 15       46.727121       -1.514218    85190                  LA GENETOUZE
+ 16       46.516506       -1.387621    85540       SAINT-VINCENT-SUR-GRAON
+ 17       46.597217       -1.452615    85430                       AUBIGNY
+ 18       46.507106       -1.346824    85540           LE CHAMP-SAINT-PERE
+ 19       46.720204       -1.945917    85270         SAINT-HILAIRE-DE-RIEZ
+ 20       46.833336       -1.190386    85250       SAINT-ANDRE-GOULE-D'OIE
+ 21       46.574025       -1.508986    85430               NIEUL-LE-DOLENT
+ 22       46.687082       -1.050176    85110                    CHANTONNAY
+ 23       46.677521       -1.610318    85190        BEAULIEU-SOUS-LA-ROCHE
+ 24       46.822571       -1.360246    85170       SAINT-DENIS-LA-CHEVASSE
+ 25       46.727121       -1.514218    85190                  LA GENETOUZE
+ 26       46.715016       -1.312644    85280                   LA FERRIERE
+ 27       46.831085       -2.130722    85690           NOTRE-DAME-DE-MONTS
+ 28       46.597217       -1.452615    85430                       AUBIGNY
+ 29       46.597217       -1.452615    85430                       AUBIGNY
+ 30       46.891401       -1.830615    85710                   LA GARNACHE
+ 31       46.767746       -1.508806    85170              LE POIRE-SUR-VIE
+ 32       46.412568       -1.577139    85520                  JARD-SUR-MER
+ 33       46.741547       -0.765321    85700                   MONTOURNAIS
+ 34       46.562407       -1.780664    85340                L'ILE-D'OLONNE
+ 35       46.965977       -1.250221    85600                 LA GUYONNIERE
+ 36       46.902738       -1.998738    85230                 SAINT-GERVAIS
+ 37       46.742801       -1.114426    85110                 SAINTE-CECILE
+ 38       46.649193       -0.739875    85120              LA CHATAIGNERAIE
+ 39       46.635629       -1.171011    85480                    BOURNEZEAU
+ 40       46.697777       -1.944529    85800     SAINT-GILLES-CROIX-DE-VIE
+ 41       46.454772       -1.167062    85400                         LUCON
+ 42       46.656807       -0.916520    85390             BAZOGES-EN-PAREDS
+ 43       46.907005       -1.089706    85500                   BEAUREPAIRE
+ 44       46.965977       -1.250221    85600                 LA GUYONNIERE
+ 45       46.592606       -1.402733    85310                         NESMY
+ 46       46.465235       -0.983798    85370         MOUZEUIL-SAINT-MARTIN
+ 47       46.833336       -1.190386    85250       SAINT-ANDRE-GOULE-D'OIE
+ 48       46.908666       -1.377686    85260                L'HERBERGEMENT
+ 49       46.974469       -1.999141    85230                         BOUIN
+ 50       46.516506       -1.387621    85540       SAINT-VINCENT-SUR-GRAON
+ 51       46.675893       -0.847796    85390          MOUILLERON-EN-PAREDS
+ 52       46.465235       -0.983798    85370         MOUZEUIL-SAINT-MARTIN
+ 53       46.671262       -1.883768    85800                       GIVRAND
+ 54       46.640041       -1.712725    85150       SAINT-JULIEN-DES-LANDES
+ 55       46.671262       -1.883768    85800                       GIVRAND
+ 56       46.697777       -1.944529    85800     SAINT-GILLES-CROIX-DE-VIE
+ 57       46.670511       -1.426442    85000              LA ROCHE-SUR-YON
+ 58       46.454772       -1.167062    85400                         LUCON
+ 59       46.523825       -0.757168    85200                       MERVENT
+ 60       46.795782       -1.901805    85300                      SOULLANS
+ 61       46.830549       -0.883265    85700     SAINT-MICHEL-MONT-MERCURE
+ 62       47.003910       -1.331426    85600       SAINT-HILAIRE-DE-LOULAY
+ 63       46.529682       -0.682556    85240                FOUSSAIS-PAYRE
+ 64       46.778454       -1.063541    85640                     MOUCHAMPS
+ 65       46.364304       -0.858801    85770                           VIX
+ 66       46.605700       -1.829880    85470                  BREM-SUR-MER
+ 67       46.394046       -1.020419    85450            CHAILLE-LES-MARAIS
+ 68       46.985044       -1.521408    85660     SAINT-PHILBERT-DE-BOUAINE
+ 69       46.908666       -1.377686    85260                L'HERBERGEMENT
+ 70       46.929895       -0.902591    85590            SAINT-MALO-DU-BOIS
+ 71       46.937625       -1.889203    85710                  BOIS-DE-CENE
+ 72       46.741547       -0.765321    85700                   MONTOURNAIS
+ 73       46.719153       -1.902825    85800                 LE FENOUILLER
+ 74       46.523825       -0.757168    85200                       MERVENT
+ 75       46.697777       -1.944529    85800     SAINT-GILLES-CROIX-DE-VIE
+ 76       46.685358       -1.512982    85190                    VENANSAULT
+ 77       46.830850       -1.594970    85670         SAINT-ETIENNE-DU-BOIS
+ 78       46.540023       -1.616176    85440                    GROSBREUIL
+ 79       46.675893       -0.847796    85390          MOUILLERON-EN-PAREDS
+ 80       46.555152       -1.058782    85210                SAINTE-HERMINE
+ 81       46.967752       -2.233425    85680                 LA GUERINIERE
+ 82       46.471514       -0.664775    85240       SAINT-HILAIRE-DES-LOGES
+ 83       46.774141       -1.230520    85140                   LES ESSARTS
+ 84       46.579442       -1.237102    85320               CHATEAU-GUIBERT
+ 85       46.937625       -1.889203    85710                  BOIS-DE-CENE
+ 86       47.050734       -1.265319    85610                LA BERNARDIERE
+ 87       46.929895       -0.902591    85590            SAINT-MALO-DU-BOIS
+ 88       46.574025       -1.508986    85430               NIEUL-LE-DOLENT
+ 89       46.658886       -1.571227    85150                    LANDERONDE
+ 90       46.950756       -1.190198    85600      LA BOISSIERE-DE-MONTAIGU
+ 91       46.782648       -0.837243    85700                     POUZAUGES
+ 92       46.579442       -1.237102    85320               CHATEAU-GUIBERT
+ 93       46.767746       -1.508806    85170              LE POIRE-SUR-VIE
+ 94       46.333783       -1.305752    85460           L'AIGUILLON-SUR-MER
+ 95       46.907005       -1.089706    85500                   BEAUREPAIRE
+ 96       46.408491       -1.403055    85750                        ANGLES
+ 97       46.408491       -1.403055    85750                        ANGLES
+ 98       46.545832       -1.672115    85150                    SAINTE-FOY
+ 99       46.974469       -1.999141    85230                         BOUIN
+100       46.822571       -1.360246    85170       SAINT-DENIS-LA-CHEVASSE
+101       46.483266       -1.113742    85400        SAINTE-GEMME-LA-PLAINE
+102       46.545832       -1.672115    85150                    SAINTE-FOY
+103       46.985044       -1.521408    85660     SAINT-PHILBERT-DE-BOUAINE
+104       46.471514       -0.664775    85240       SAINT-HILAIRE-DES-LOGES
+105       46.555152       -1.058782    85210                SAINTE-HERMINE
+106       46.670511       -1.426442    85000              LA ROCHE-SUR-YON
+107       46.783646       -1.430610    85170            BELLEVILLE-SUR-VIE
+108       46.738256       -1.384799    85170             DOMPIERRE-SUR-YON
+109       46.884536       -0.899612    85590                   LES EPESSES
+110       46.754755       -1.685472    85190                         MACHE
+111       46.478464       -1.219565    85400         LES MAGNILS-REIGNIERS
+112       46.783646       -1.430610    85170            BELLEVILLE-SUR-VIE
+113       46.727121       -1.514218    85190                  LA GENETOUZE
+114       46.893026       -1.250419    85250         CHAVAGNES-EN-PAILLERS
+115       46.844355       -1.496408    85170         LES LUCS-SUR-BOULOGNE
+116       46.881229       -1.701122    85670                      FALLERON
+117       46.618220       -1.659175    85150               LA MOTHE-ACHARD
+118       46.831085       -2.130722    85690           NOTRE-DAME-DE-MONTS
+119       46.991846       -1.044168    85130       SAINT-AUBIN-DES-ORMEAUX
+120       46.761324       -1.835906    85220                   COMMEQUIERS
+121       46.745319       -1.905941    85270            NOTRE-DAME-DE-RIEZ
+122       46.562407       -1.780664    85340                L'ILE-D'OLONNE
+123       46.555152       -1.058782    85210                SAINTE-HERMINE
+124       46.721824       -1.178285    85140       SAINT-MARTIN-DES-NOYERS
+125       46.597217       -1.452615    85430                       AUBIGNY
+126       46.697284       -1.762595    85220                          COEX
+127       46.344059       -1.438786    85360            LA TRANCHE-SUR-MER
+128       46.742801       -1.114426    85110                 SAINTE-CECILE
+129       46.985044       -1.521408    85660     SAINT-PHILBERT-DE-BOUAINE
+130       46.829633       -1.269648    85140                       CHAUCHE
+131       46.605700       -1.829880    85470                  BREM-SUR-MER
+132       46.830549       -0.883265    85700     SAINT-MICHEL-MONT-MERCURE
+133       46.677521       -1.610318    85190        BEAULIEU-SOUS-LA-ROCHE
+134       46.656807       -0.916520    85390             BAZOGES-EN-PAREDS
+135       46.478464       -1.219565    85400         LES MAGNILS-REIGNIERS
+136       46.830549       -0.883265    85700     SAINT-MICHEL-MONT-MERCURE
+137       46.611755       -1.577752    85150       SAINTE-FLAIVE-DES-LOUPS
+138       46.887364       -1.320963    85260                  LES BROUZILS
+139       46.593044       -1.316755    85310        SAINT-FLORENT-DES-BOIS
+140       46.380691       -1.123594    85450          CHAMPAGNE-LES-MARAIS
+141       46.774141       -1.230520    85140                   LES ESSARTS
+142       46.675893       -0.847796    85390          MOUILLERON-EN-PAREDS
+143       46.523825       -0.757168    85200                       MERVENT
+144       46.754755       -1.685472    85190                         MACHE
+145       46.507106       -1.346824    85540           LE CHAMP-SAINT-PERE
+146       46.523825       -0.757168    85200                       MERVENT

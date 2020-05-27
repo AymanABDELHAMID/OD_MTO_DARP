@@ -1,0 +1,188 @@
+93 72
+  0       47.872158       -0.095583    72430              NOYEN-SUR-SARTHE 
+  1       47.931992        0.467965    72440                        VOLNAY
+  2       48.136965        0.235426    72290          SOULIGNE-SOUS-BALLON
+  3       47.923112        0.153669    72700                          SPAY
+  4       48.064785        0.120496    72650                         AIGNE
+  5       47.891655        0.026584    72210            LA SUZE-SUR-SARTHE
+  6       48.108807        0.216679    72380                   JOUE-L'ABBE
+  7       48.355218        0.018457    72130            GESNES-LE-GANDELIN
+  8       48.146652        0.363191    72110                       BEAUFAY
+  9       47.840112       -0.331634    72300              SABLE-SUR-SARTHE
+ 10       48.308669        0.397279    72600          SAINT-REMY-DES-MONTS
+ 11       48.024825        0.073747    72550           CHAUFOUR-NOTRE-DAME
+ 12       48.028136        0.109536    72650                        TRANGE
+ 13       48.185934        0.655979    72400              LA FERTE-BERNARD
+ 14       48.252822        0.311280    72260          MAROLLES-LES-BRAULTS
+ 15       47.809683        0.103687    72330                          OIZE
+ 16       48.172491        0.589959    72400      SAINT-AUBIN-DES-COUDRAIS
+ 17       47.692668        0.418068    72500               CHATEAU-DU-LOIR
+ 18       47.784354        0.159591    72510                       REQUEIL
+ 19       47.667595        0.313595    72500                          VAAS
+ 20       47.866190        0.467655    72150                 LE GRAND-LUCE
+ 21       48.018492        0.569188    72440    SAINT-MICHEL-DE-CHAVAIGNES
+ 22       48.234317        0.157015    72170                        VIVOIN
+ 23       48.355218        0.018457    72130            GESNES-LE-GANDELIN
+ 24       47.818064        0.339444    72220                MARIGNE-LAILLE
+ 25       48.347607        0.367330    72600                        MAMERS
+ 26       47.833485        0.211566    72220           SAINT-OUEN-EN-BELIN
+ 27       47.728568        0.571416    72340        LA CHARTRE-SUR-LE-LOIR
+ 28       47.833387        0.753144    72310               BESSE-SUR-BRAYE
+ 29       48.316524       -0.028676    72130              SOUGE-LE-GANELON
+ 30       48.076935        0.300514    72460              SAVIGNE-L'EVEQUE
+ 31       47.828200        0.075405    72330           CERANS-FOULLETOURTE
+ 32       48.170933        0.706489    72400                        CORMES
+ 33       48.064559        0.136552    72650                    LA MILESSE
+ 34       48.009836        0.478574    72370           LE BREIL-SUR-MERIZE
+ 35       48.193080        0.296003    72290        MEZIERES-SUR-PONTHOUIN
+ 36       48.211226        0.154968    72170                      MARESCHE
+ 37       48.059124        0.035754    72550                     LA QUINTE
+ 38       48.112709        0.518778    72160                         TUFFE
+ 39       47.646742        0.159291    72800                       LE LUDE
+ 40       48.272516        0.458937    72110        SAINT-COSME-EN-VAIRAIS
+ 41       48.060283        0.493572    72160                      CONNERRE
+ 42       47.860131       -0.289605    72300             JUIGNE-SUR-SARTHE
+ 43       48.140995        0.165288    72380       SAINTE-JAMME-SUR-SARTHE
+ 44       48.100505        0.153272    72650                     LA BAZOGE
+ 45       48.225911        0.125846    72170           BEAUMONT-SUR-SARTHE
+ 46       48.349601        0.087192    72610              OISSEAU-LE-PETIT
+ 47       47.849650        0.109350    72330              PARIGNE-LE-POLIN
+ 48       48.068489        0.519072    72160                        DUNEAU
+ 49       48.107597       -0.080038    72240                        TENNIE
+ 50       47.813936       -0.086743    72270          MALICORNE-SUR-SARTHE
+ 51       47.798883       -0.303725    72300                   COURTILLERS
+ 52       48.030323        0.374782    72470          SAINT-MARS-LA-BRIERE
+ 53       47.828332        0.273046    72220                       ECOMMOY
+ 54       48.225911        0.125846    72170           BEAUMONT-SUR-SARTHE
+ 55       47.870215        0.327599    72220          SAINT-MARS-D'OUTILLE
+ 56       47.741100        0.513586    72340                    CHAHAIGNES
+ 57       47.849650        0.109350    72330              PARIGNE-LE-POLIN
+ 58       47.743195        0.057721    72510        SAINT-JEAN-DE-LA-MOTTE
+ 59       48.068489        0.519072    72160                        DUNEAU
+ 60       47.734376       -0.234684    72300          LA CHAPELLE-D'ALIGNE
+ 61       48.032211        0.240253    72190             SARGE-LES-LE-MANS
+ 62       48.107385        0.348992    72460             SILLE-LE-PHILIPPE
+ 63       47.743195        0.057721    72510        SAINT-JEAN-DE-LA-MOTTE
+ 64       47.961768       -0.069361    72540                VALLON-SUR-GEE
+ 65       48.292327        0.050005    72130          SAINT-OUEN-DE-MIMBRE
+ 66       47.820968        0.239037    72220           SAINT-BIEZ-EN-BELIN
+ 67       48.121467       -0.018231    72240                        CONLIE
+ 68       47.769178       -0.162655    72200                   LE BAILLEUL
+ 69       47.749779        0.620518    72340               RUILLE-SUR-LOIR
+ 70       47.937377        0.367055    72250              PARIGNE-L'EVEQUE
+ 71       48.172939        0.656665    72400                        CHERRE
+ 72       48.032624        0.159039    72650       LA CHAPELLE-SAINT-AUBIN
+ 73       48.182818       -0.127533    72140            SILLE-LE-GUILLAUME
+ 74       48.112709        0.518778    72160                         TUFFE
+ 75       47.711790        0.398543    72500                        LUCEAU
+ 76       47.743195        0.057721    72510        SAINT-JEAN-DE-LA-MOTTE
+ 77       47.704060        0.075918    72800                  LUCHE-PRINGE
+ 78       47.993050        0.628792    72440                   COUDRECIEUX
+ 79       48.178847        0.424766    72110                    BONNETABLE
+ 80       47.814304        0.561242    72150                  COURDEMANCHE
+ 81       48.141425        0.093239    72380     SAINTE-SABINE-SUR-LONGEVE
+ 82       48.100505        0.153272    72650                     LA BAZOGE
+ 83       47.870215        0.327599    72220          SAINT-MARS-D'OUTILLE
+ 84       47.751156        0.192151    72510                   PONTVALLAIN
+ 85       48.237148        0.492072    72110             NOGENT-LE-BERNARD
+ 86       48.026628        0.333235    72470                     CHAMPAGNE
+ 87       47.956743        0.089829    72700            ETIVAL-LES-LE-MANS
+ 88       48.026380       -0.270363    72350          SAINT-DENIS-D'ORQUES
+ 89       47.986925        0.278643    72560                        CHANGE
+ 90       48.064559        0.136552    72650                    LA MILESSE
+ 91       47.931992        0.467965    72440                        VOLNAY
+ 92       47.993050        0.628792    72440                   COUDRECIEUX
+ 93       48.107597       -0.080038    72240                        TENNIE
+ 94       48.252822        0.311280    72260          MAROLLES-LES-BRAULTS
+ 95       47.749779        0.620518    72340               RUILLE-SUR-LOIR
+ 96       47.759357        0.275119    72360                         MAYET
+ 97       47.994289        0.108827    72700             PRUILLE-LE-CHETIF
+ 98       48.054000        0.643544    72390                        LAVARE
+ 99       47.686809        0.042341    72800               THOREE-LES-PINS
+100       47.993595       -0.151066    72540                          LOUE
+101       47.971877        0.099648    72700         SAINT-GEORGES-DU-BOIS
+102       48.121467       -0.018231    72240                        CONLIE
+103       48.037203        0.185308    72190                  SAINT-PAVACE
+104       47.667595        0.313595    72500                          VAAS
+105       47.689551       -0.171745    72200          BAZOUGES-SUR-LE-LOIR
+106       48.064559        0.136552    72650                    LA MILESSE
+107       48.014183        0.273540    72530                 YVRE-L'EVEQUE
+108       47.929012        0.415024    72250                       CHALLES
+109       48.112770        0.194526    72380                   LA GUIERCHE
+110       48.024825        0.073747    72550           CHAUFOUR-NOTRE-DAME
+111       47.734376       -0.234684    72300          LA CHAPELLE-D'ALIGNE
+112       47.828200        0.075405    72330           CERANS-FOULLETOURTE
+113       48.136965        0.235426    72290          SOULIGNE-SOUS-BALLON
+114       48.252822        0.311280    72260          MAROLLES-LES-BRAULTS
+115       47.819816        0.155067    72330                 YVRE-LE-POLIN
+116       48.185934        0.655979    72400              LA FERTE-BERNARD
+117       48.068697        0.584284    72390                      LE LUART
+118       47.931992        0.467965    72440                        VOLNAY
+119       47.710267        0.509982    72340                        MARCON
+120       48.108681        0.455890    72160        LA CHAPELLE-SAINT-REMY
+121       48.185934        0.655979    72400              LA FERTE-BERNARD
+122       47.994289        0.108827    72700             PRUILLE-LE-CHETIF
+123       47.704060        0.075918    72800                  LUCHE-PRINGE
+124       47.814304        0.561242    72150                  COURDEMANCHE
+125       47.689551       -0.171745    72200          BAZOUGES-SUR-LE-LOIR
+126       47.813936       -0.086743    72270          MALICORNE-SUR-SARTHE
+127       48.076887        0.061789    72240                      LAVARDIN
+128       47.870215        0.327599    72220          SAINT-MARS-D'OUTILLE
+129       48.026380       -0.270363    72350          SAINT-DENIS-D'ORQUES
+130       48.172455        0.247859    72290        SAINT-MARS-SOUS-BALLON
+131       48.193080        0.296003    72290        MEZIERES-SUR-PONTHOUIN
+132       48.067292        0.344522    72460               SAINT-CORNEILLE
+133       48.139449       -0.114082    72140                         ROUEZ
+134       47.943115        0.043945    72210                     LOUPLANDE
+135       47.897014        0.125758    72210                         FILLE
+136       48.112709        0.518778    72160                         TUFFE
+137       48.090293        0.648798    72320                 SAINT-MAIXENT
+138       47.741100        0.513586    72340                    CHAHAIGNES
+139       48.187599       -0.094208    72140           SAINT-REMY-DE-SILLE
+140       48.108681        0.455890    72160        LA CHAPELLE-SAINT-REMY
+141       48.141425        0.093239    72380     SAINTE-SABINE-SUR-LONGEVE
+142       47.920857       -0.265443    72350              POILLE-SUR-VEGRE
+143       48.009836        0.478574    72370           LE BREIL-SUR-MERIZE
+144       48.028136        0.109536    72650                        TRANGE
+145       48.199140        0.025952    72170                        SEGRIE
+146       47.973317        0.548873    72440                      BOULOIRE
+147       48.064628        0.161762    72650                SAINT-SATURNIN
+148       47.696973        0.463254    72500              VOUVRAY-SUR-LOIR
+149       48.108681        0.455890    72160        LA CHAPELLE-SAINT-REMY
+150       47.825492        0.488067    72150      SAINT-VINCENT-DU-LOROUER
+151       47.743769        0.556161    72340                        LHOMME
+152       48.199140        0.025952    72170                        SEGRIE
+153       47.667595        0.313595    72500                          VAAS
+154       48.032928        0.599228    72390                        DOLLON
+155       48.192240        0.684184    72400                      CHERREAU
+156       48.012295        0.455746    72370                      SOULITRE
+157       48.150958        0.118070    72380             SAINT-JEAN-D'ASSE
+158       48.064628        0.161762    72650                SAINT-SATURNIN
+159       48.032211        0.240253    72190             SARGE-LES-LE-MANS
+160       48.048230        0.419952    72450           MONTFORT-LE-GESNOIS
+161       48.136965        0.235426    72290          SOULIGNE-SOUS-BALLON
+162       48.347607        0.367330    72600                        MAMERS
+163       48.236689        0.624817    72400                        PREVAL
+164       47.877900        0.218609    72220        SAINT-GERVAIS-EN-BELIN
+165       47.943115        0.043945    72210                     LOUPLANDE
+166       47.840112       -0.331634    72300              SABLE-SUR-SARTHE
+167       47.751156        0.192151    72510                   PONTVALLAIN
+168       47.823263       -0.021280    72270                       MEZERAY
+169       47.767030       -0.324305    72300                      PRECIGNE
+170       47.819816        0.155067    72330                 YVRE-LE-POLIN
+171       48.064559        0.136552    72650                    LA MILESSE
+172       47.920821       -0.163261    72430           CHANTENAY-VILLEDIEU
+173       47.646742        0.159291    72800                       LE LUDE
+174       48.386749        0.124937    72610                    CHAMPFLEUR
+175       48.076887        0.061789    72240                      LAVARDIN
+176       47.689981        0.270233    72800                 AUBIGNE-RACAN
+177       48.107597       -0.080038    72240                        TENNIE
+178       48.347607        0.367330    72600                        MAMERS
+179       47.961768       -0.069361    72540                VALLON-SUR-GEE
+180       47.743195        0.057721    72510        SAINT-JEAN-DE-LA-MOTTE
+181       48.023031        0.200556    72190                     COULAINES
+182       47.860131       -0.289605    72300             JUIGNE-SUR-SARTHE
+183       47.689981        0.270233    72800                 AUBIGNE-RACAN
+184       48.028136        0.109536    72650                        TRANGE
+185       47.664876        0.474944    72500        DISSAY-SOUS-COURCILLON
+186       48.048230        0.419952    72450           MONTFORT-LE-GESNOIS

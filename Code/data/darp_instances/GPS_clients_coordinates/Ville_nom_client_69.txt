@@ -1,0 +1,154 @@
+76 69
+  0       45.638662        4.866302    69360       SAINT-SYMPHORIEN-D'OZON 
+  1       45.897969        4.700402    69480                       MORANCE
+  2       45.708962        5.113632    69124            COLOMBIER-SAUGNIEU
+  3       45.757274        4.726052    69290      SAINT-GENIS-LES-OLLIERES
+  4       45.757274        4.726052    69290      SAINT-GENIS-LES-OLLIERES
+  5       45.897035        4.840570    69730                         GENAY
+  6       45.875632        4.493707    69490        PONTCHARRA-SUR-TURDINE
+  7       45.551183        4.716960    69700                       ECHALAS
+  8       45.726843        4.815220    69350                  LA MULATIERE
+  9       45.609938        4.792769    69520                        GRIGNY
+ 10       45.853056        4.612073    69210  SAINT-GERMAIN-SUR-L'ARBRESLE
+ 11       45.788646        4.612268    69210         SAINT-PIERRE-LA-PALUD
+ 12       45.732041        5.001291    69740                         GENAS
+ 13       45.743527        4.971918    69680                      CHASSIEU
+ 14       45.715442        4.396291    69610                 HAUTE-RIVOIRE
+ 15       45.711926        4.800660    69600                       OULLINS
+ 16       45.733316        4.911927    69500                          BRON
+ 17       45.782029        4.922661    69120                VAULX-EN-VELIN
+ 18       45.897035        4.840570    69730                         GENAY
+ 19       45.746821        4.724917    69290                      CRAPONNE
+ 20       45.784372        4.735502    69260       CHARBONNIERES-LES-BAINS
+ 21       45.674970        4.814016    69540                        IRIGNY
+ 22       46.119085        4.736861    69220         SAINT-JEAN-D'ARDIERES
+ 23       45.861422        4.845168    69250            FLEURIEU-SUR-SAONE
+ 24       45.896760        4.433425    69170                        TARARE
+ 25       45.796138        5.050381    69330                        JONAGE
+ 26       45.815306        4.817729    69450        SAINT-CYR-AU-MONT-D'OR
+ 27       45.811363        4.601599    69210                      SAIN-BEL
+ 28       45.732041        5.001291    69740                         GENAS
+ 29       45.708874        4.853374    69190                    SAINT-FONS
+ 30       45.699594        4.884465    69200                    VENISSIEUX
+ 31       45.855118        4.529185    69490         SAINT-ROMAIN-DE-POPEY
+ 32       45.620885        4.747658    69700                      MONTAGNY
+ 33       45.639550        4.840915    69360                       SOLAIZE
+ 34       45.691243        5.028886    69720          SAINT-BONNET-DE-MURE
+ 35       45.873270        4.769281    69380                     CHASSELAY
+ 36       44.706282       -0.066226    69000                          LYON
+ 37       45.771944        4.890171    69100                  VILLEURBANNE
+ 38       45.524713        4.858102    69560                SAINTE-COLOMBE
+ 39       45.833661        4.880098    69580              SATHONAY-VILLAGE
+ 40       45.767450        4.957024    69150              DECINES-CHARPIEU
+ 41       45.784372        4.735502    69260       CHARBONNIERES-LES-BAINS
+ 42       45.818962        4.662736    69210                      LENTILLY
+ 43       45.649200        4.794608    69390                        CHARLY
+ 44       45.886772        4.622407    69380                        CHESSY
+ 45       46.062400        4.722180    69830      SAINT-GEORGES-DE-RENEINS
+ 46       45.746821        4.724917    69290                      CRAPONNE
+ 47       45.920229        4.585680    69620               LE BOIS-D'OINGT
+ 48       45.811833        4.798020    69370     SAINT-DIDIER-AU-MONT-D'OR
+ 49       45.595894        4.608767    69440     SAINT-DIDIER-SOUS-RIVERIE
+ 50       45.674970        4.814016    69540                        IRIGNY
+ 51       45.873270        4.769281    69380                     CHASSELAY
+ 52       45.639550        4.840915    69360                       SOLAIZE
+ 53       45.874266        4.709947    69380             CHAZAY-D'AZERGUES
+ 54       45.896760        4.433425    69170                        TARARE
+ 55       45.698938        4.947071    69800                  SAINT-PRIEST
+ 56       45.737406        4.658003    69670                     VAUGNERAY
+ 57       45.936404        4.718725    69480                          ANSE
+ 58       45.673616        4.859394    69320                        FEYZIN
+ 59       45.691999        4.792768    69230             SAINT-GENIS-LAVAL
+ 60       45.644571        5.010241    69780      SAINT-PIERRE-DE-CHANDIEU
+ 61       45.835806        4.845543    69270           FONTAINES-SUR-SAONE
+ 62       45.682808        4.641063    69510                       THURINS
+ 63       45.815399        4.717265    69890           LA TOUR-DE-SALVAGNY
+ 64       45.767450        4.957024    69150              DECINES-CHARPIEU
+ 65       45.790135        4.466353    69770                   MONTROTTIER
+ 66       45.746821        4.724917    69290                      CRAPONNE
+ 67       45.640261        4.694356    69440          SAINT-LAURENT-D'AGNY
+ 68       45.636092        4.459054    69590    SAINT-SYMPHORIEN-SUR-COISE
+ 69       45.853056        4.612073    69210  SAINT-GERMAIN-SUR-L'ARBRESLE
+ 70       45.628515        4.825014    69360              SEREZIN-DU-RHONE
+ 71       45.703204        4.824651    69310                 PIERRE-BENITE
+ 72       45.897035        4.840570    69730                         GENAY
+ 73       45.883903        4.803468    69650    SAINT-GERMAIN-AU-MONT-D'OR
+ 74       45.658731        4.773828    69390                       VOURLES
+ 75       45.972653        4.333081    69550                     AMPLEPUIS
+ 76       45.815399        4.717265    69890           LA TOUR-DE-SALVAGNY
+ 77       45.674970        4.814016    69540                        IRIGNY
+ 78       45.488977        4.810132    69420                        AMPUIS
+ 79       45.708874        4.853374    69190                    SAINT-FONS
+ 80       45.609938        4.792769    69520                        GRIGNY
+ 81       45.463713        4.768011    69420                      CONDRIEU
+ 82       45.595894        4.608767    69440     SAINT-DIDIER-SOUS-RIVERIE
+ 83       45.844287        4.827629    69270           COUZON-AU-MONT-D'OR
+ 84       46.031799        4.644602    69460                         BLACE
+ 85       45.833661        4.880098    69580              SATHONAY-VILLAGE
+ 86       46.194341        4.700625    69820                       FLEURIE
+ 87       45.619722        4.673029    69440                       MORNANT
+ 88       45.737406        4.658003    69670                     VAUGNERAY
+ 89       46.119085        4.736861    69220         SAINT-JEAN-D'ARDIERES
+ 90       45.972653        4.333081    69550                     AMPLEPUIS
+ 91       45.855118        4.529185    69490         SAINT-ROMAIN-DE-POPEY
+ 92       45.857205        4.712328    69380           CIVRIEUX-D'AZERGUES
+ 93       44.706282       -0.066226    69000                          LYON
+ 94       46.119085        4.736861    69220         SAINT-JEAN-D'ARDIERES
+ 95       46.024607        4.706269    69400                         ARNAS
+ 96       45.715442        4.396291    69610                 HAUTE-RIVOIRE
+ 97       45.678825        4.702644    69510            SOUCIEU-EN-JARREST
+ 98       45.741616        4.468981    69930   SAINT-LAURENT-DE-CHAMOUSSET
+ 99       46.160931        4.679334    69910                 VILLIE-MORGON
+100       45.678825        4.702644    69510            SOUCIEU-EN-JARREST
+101       45.746821        4.724917    69290                      CRAPONNE
+102       45.609938        4.792769    69520                        GRIGNY
+103       45.796138        5.050381    69330                        JONAGE
+104       45.759153        4.777790    69160           TASSIN-LA-DEMI-LUNE
+105       46.119085        4.736861    69220         SAINT-JEAN-D'ARDIERES
+106       46.158237        4.580456    69430                       BEAUJEU
+107       46.031799        4.644602    69460                         BLACE
+108       46.158237        4.580456    69430                       BEAUJEU
+109       45.737406        4.658003    69670                     VAUGNERAY
+110       45.658630        4.716988    69530                      ORLIENAS
+111       44.706282       -0.066226    69000                          LYON
+112       45.561285        4.805186    69700               LOIRE-SUR-RHONE
+113       45.776770        4.553561    69690                      BESSENAY
+114       45.662963        4.953204    69780                         MIONS
+115       45.726843        4.815220    69350                  LA MULATIERE
+116       45.834999        4.614934    69210                    L'ARBRESLE
+117       45.790135        4.466353    69770                   MONTROTTIER
+118       45.708874        4.853374    69190                    SAINT-FONS
+119       45.883903        4.803468    69650    SAINT-GERMAIN-AU-MONT-D'OR
+120       45.524713        4.858102    69560                SAINTE-COLOMBE
+121       45.883903        4.803468    69650    SAINT-GERMAIN-AU-MONT-D'OR
+122       45.704408        4.470519    69610       SAINTE-FOY-L'ARGENTIERE
+123       44.706282       -0.066226    69000                          LYON
+124       45.715442        4.396291    69610                 HAUTE-RIVOIRE
+125       45.874266        4.709947    69380             CHAZAY-D'AZERGUES
+126       45.583290        4.772829    69700                        GIVORS
+127       45.463713        4.768011    69420                      CONDRIEU
+128       46.109457        4.745161    69220                    BELLEVILLE
+129       45.640338        4.722216    69440                      TALUYERS
+130       45.649200        4.794608    69390                        CHARLY
+131       45.861422        4.845168    69250            FLEURIEU-SUR-SAONE
+132       45.603447        4.809996    69360                        TERNAY
+133       45.752953        5.066754    69330                      PUSIGNAN
+134       45.488977        4.810132    69420                        AMPUIS
+135       45.741616        4.468981    69930   SAINT-LAURENT-DE-CHAMOUSSET
+136       45.818962        4.662736    69210                      LENTILLY
+137       45.759153        4.777790    69160           TASSIN-LA-DEMI-LUNE
+138       46.031842        4.309243    69240                         THIZY
+139       45.790135        4.466353    69770                   MONTROTTIER
+140       45.741616        4.468981    69930   SAINT-LAURENT-DE-CHAMOUSSET
+141       45.698938        4.947071    69800                  SAINT-PRIEST
+142       45.654397        4.985048    69780                      TOUSSIEU
+143       45.896760        4.433425    69170                        TARARE
+144       45.988917        4.696849    69400                        GLEIZE
+145       45.972653        4.333081    69550                     AMPLEPUIS
+146       46.160931        4.679334    69910                 VILLIE-MORGON
+147       46.024607        4.706269    69400                         ARNAS
+148       45.808196        5.080390    69330                          JONS
+149       46.109457        4.745161    69220                    BELLEVILLE
+150       45.852332        4.872010    69270        CAILLOUX-SUR-FONTAINES
+151       45.897035        4.840570    69730                         GENAY
+152       45.833661        4.880098    69580              SATHONAY-VILLAGE

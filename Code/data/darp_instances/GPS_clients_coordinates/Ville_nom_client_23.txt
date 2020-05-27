@@ -1,0 +1,204 @@
+101 23
+  0       46.348054        2.213945    23600                       BOUSSAC 
+  1       46.166416        1.964374    23000                 SAINT-LAURENT
+  2       46.153171        2.476382    23110        SAINT-JULIEN-LA-GENETE
+  3       46.191664        2.236802    23230                        GOUZON
+  4       46.168571        1.787041    23000                    LA BRIONNE
+  5       46.146881        1.512234    23290        SAINT-PIERRE-DE-FURSAC
+  6       45.942214        2.382724    23190                        MAUTES
+  7       45.958593        2.128043    23200                       BLESSAC
+  8       45.929939        1.938547    23460         LE MONTEIL-AU-VICOMTE
+  9       45.774991        2.381713    23260                        FLAYAT
+ 10       46.077100        1.645234    23210         MOURIOUX-VIEILLEVILLE
+ 11       45.942214        2.382724    23190                        MAUTES
+ 12       46.391400        1.532867    23160               SAINT-SEBASTIEN
+ 13       46.150761        1.814393    23000      SAINT-LEGER-LE-GUERETOIS
+ 14       46.353525        1.475694    23160                     AZERABLES
+ 15       45.958160        1.906014    23250                     VIDAILLAT
+ 16       46.191664        2.236802    23230                        GOUZON
+ 17       46.126418        1.976462    23150       SAINT-HILAIRE-LA-PLAINE
+ 18       46.299631        1.728420    23800       SAINT-SULPICE-LE-DUNOIS
+ 19       45.931283        2.121251    23200         SAINT-MARC-A-FRONGIER
+ 20       46.132530        2.205231    23130                SAINT-CHABRAIS
+ 21       45.994031        2.023314    23480      SAINT-SULPICE-LES-CHAMPS
+ 22       46.358934        1.875951    23220                        LINARD
+ 23       45.993820        1.970971    23250        SAINT-GEORGES-LA-POUGE
+ 24       46.419941        1.902597    23360            LA FORET-DU-TEMPLE
+ 25       45.826064        2.217342    23500                    POUSSANGES
+ 26       46.062911        2.434498    23700             ARFEUILLE-CHATAIN
+ 27       46.296017        1.827718    23220                LE BOURG-D'HEM
+ 28       46.402776        2.013449    23350                   LA CELLETTE
+ 29       46.101185        1.937672    23150         SAINT-YRIEIX-LES-BOIS
+ 30       46.262719        2.178285    23140      SAINT-SILVAIN-SOUS-TOULX
+ 31       46.170799        2.024473    23140                       PIONNAT
+ 32       46.126418        1.976462    23150       SAINT-HILAIRE-LA-PLAINE
+ 33       46.048859        2.092411    23150         SAINT-MARTIAL-LE-MONT
+ 34       46.420878        2.224943    23600                  SAINT-MARIEN
+ 35       46.390389        1.621146    23160                       CROZANT
+ 36       45.749379        1.935921    23340              FAUX-LA-MONTAGNE
+ 37       45.915521        2.486337    23420                     MERINCHAL
+ 38       46.114092        2.174888    23130                  CHENERAILLES
+ 39       46.169599        1.871452    23000                        GUERET
+ 40       45.841737        1.912694    23460          ROYERE-DE-VASSIVIERE
+ 41       46.334724        1.614148    23800                         LAFAT
+ 42       46.214414        1.430595    23300  SAINT-MAURICE-LA-SOUTERRAINE
+ 43       45.986604        2.558986    23700                      DONTREIX
+ 44       46.284635        2.214335    23600            TOULX-SAINTE-CROIX
+ 45       45.804653        2.350336    23260       SAINT-AGNANT-PRES-CROCQ
+ 46       45.819756        2.169392    23500                         CROZE
+ 47       46.307523        1.545206    23160         SAINT-GERMAIN-BEAUPRE
+ 48       45.981675        2.294885    23190          BELLEGARDE-EN-MARCHE
+ 49       46.000074        1.817935    23250                       THAURON
+ 50       46.285639        1.588390    23300         SAINT-LEGER-BRIDEREIX
+ 51       46.310443        1.769626    23800              LA CELLE-DUNOISE
+ 52       46.284635        2.214335    23600            TOULX-SAINTE-CROIX
+ 53       46.204322        1.755749    23320                   SAINT-VAURY
+ 54       46.041984        2.300072    23190                   SAINT-DOMET
+ 55       45.972673        2.303305    23190      SAINT-SILVAIN-BELLEGARDE
+ 56       46.025111        2.500712    23700                      AUZANCES
+ 57       45.883928        2.020427    23460      SAINT-YRIEIX-LA-MONTAGNE
+ 58       45.958593        2.128043    23200                       BLESSAC
+ 59       45.931667        2.233319    23200         SAINT-PARDOUX-LE-NEUF
+ 60       45.958160        1.906014    23250                     VIDAILLAT
+ 61       45.915521        2.486337    23420                     MERINCHAL
+ 62       45.774991        2.381713    23260                        FLAYAT
+ 63       46.003698        2.078076    23480                           ARS
+ 64       46.121188        1.735052    23320            MONTAIGUT-LE-BLANC
+ 65       46.000074        1.817935    23250                       THAURON
+ 66       45.915521        2.486337    23420                     MERINCHAL
+ 67       46.126418        1.976462    23150       SAINT-HILAIRE-LA-PLAINE
+ 68       45.882361        1.754393    23400       SAINT-JUNIEN-LA-BREGERE
+ 69       46.416197        1.777069    23360                       MEASNES
+ 70       46.141993        1.751028    23320       SAINT-SILVAIN-MONTAIGUT
+ 71       45.919017        2.284403    23200          SAINT-AVIT-DE-TARDES
+ 72       45.841737        1.912694    23460          ROYERE-DE-VASSIVIERE
+ 73       45.972673        2.303305    23190      SAINT-SILVAIN-BELLEGARDE
+ 74       45.878418        2.329177    23260         SAINT-PARDOUX-D'ARNET
+ 75       46.121188        1.735052    23320            MONTAIGUT-LE-BLANC
+ 76       46.342772        2.142622    23600              MALLERET-BOUSSAC
+ 77       45.917260        2.197022    23200              MOUTIER-ROZEILLE
+ 78       45.810051        2.121160    23500                         GIOUX
+ 79       45.804653        2.350336    23260       SAINT-AGNANT-PRES-CROCQ
+ 80       45.961674        1.575606    23430 SAINT-MARTIN-SAINTE-CATHERINE
+ 81       46.250926        2.156000    23140                      DOMEYROT
+ 82       46.296017        1.827718    23220                LE BOURG-D'HEM
+ 83       46.146178        1.513216    23290       SAINT-ETIENNE-DE-FURSAC
+ 84       46.338632        1.668968    23800                  MAISON-FEYNE
+ 85       46.183414        2.340544    23170                        LUSSAT
+ 86       46.132530        2.205231    23130                SAINT-CHABRAIS
+ 87       45.917578        1.888493    23460         SAINT-PIERRE-BELLEVUE
+ 88       45.993820        1.970971    23250        SAINT-GEORGES-LA-POUGE
+ 89       46.265791        1.637728    23800                       NAILLAT
+ 90       46.144608        2.153509    23130          SAINT-DIZIER-LA-TOUR
+ 91       45.988645        2.154957    23200                      ALLEYRAT
+ 92       45.976467        2.237416    23200                SAINT-ALPINIEN
+ 93       45.993820        1.970971    23250        SAINT-GEORGES-LA-POUGE
+ 94       46.027478        1.714370    23400         SAINT-DIZIER-LEYRENNE
+ 95       46.353525        1.475694    23160                     AZERABLES
+ 96       45.946077        2.477056    23700                         CHARD
+ 97       46.361552        2.293635    23600                        LEYRAT
+ 98       46.090957        2.054127    23150                MOUTIER-D'AHUN
+ 99       46.416197        1.777069    23360                       MEASNES
+100       46.358934        1.875951    23220                        LINARD
+101       46.285940        2.391395    23170                       NOUHANT
+102       46.201484        2.153028    23140                        PARSAC
+103       46.206467        1.994541    23380                         AJAIN
+104       45.923959        1.783745    23400                  FAUX-MAZURAS
+105       46.256891        1.935609    23220                      JOUILLAT
+106       45.994031        2.023314    23480      SAINT-SULPICE-LES-CHAMPS
+107       45.883928        2.020427    23460      SAINT-YRIEIX-LA-MONTAGNE
+108       46.390389        1.621146    23160                       CROZANT
+109       46.201179        1.828203    23000    SAINT-SULPICE-LE-GUERETOIS
+110       46.075682        1.928693    23150                       LEPINAS
+111       46.213679        1.894962    23000                    SAINT-FIEL
+112       45.986604        2.558986    23700                      DONTREIX
+113       46.201484        2.153028    23140                        PARSAC
+114       45.864793        2.154453    23500     SAINT-QUENTIN-LA-CHABANNE
+115       46.332017        1.701404    23800                       VILLARD
+116       45.819756        2.169392    23500                         CROZE
+117       45.836865        2.263938    23500       SAINT-GEORGES-NIGREMONT
+118       45.929939        1.938547    23460         LE MONTEIL-AU-VICOMTE
+119       45.975540        1.739982    23400            MASBARAUD-MERIGNAT
+120       46.146178        1.513216    23290       SAINT-ETIENNE-DE-FURSAC
+121       46.119540        2.406225    23110                        SANNAT
+122       46.284635        2.214335    23600            TOULX-SAINTE-CROIX
+123       46.168571        1.787041    23000                    LA BRIONNE
+124       46.416197        1.777069    23360                       MEASNES
+125       46.299631        1.728420    23800       SAINT-SULPICE-LE-DUNOIS
+126       46.043597        2.148895    23200      SAINT-MEDARD-LA-ROCHETTE
+127       46.170799        2.024473    23140                       PIONNAT
+128       46.331658        2.227270    23600      SAINT-SILVAIN-BAS-LE-ROC
+129       45.699520        2.263172    23100                   LA COURTINE
+130       46.319861        2.272366    23600                  LAVAUFRANCHE
+131       46.169599        1.871452    23000                        GUERET
+132       46.000074        1.817935    23250                       THAURON
+133       46.299631        1.728420    23800       SAINT-SULPICE-LE-DUNOIS
+134       46.301784        2.309449    23600                       SOUMANS
+135       46.119540        2.406225    23110                        SANNAT
+136       46.307523        1.545206    23160         SAINT-GERMAIN-BEAUPRE
+137       46.025111        2.500712    23700                      AUZANCES
+138       46.060124        2.143513    23130             ISSOUDUN-LETRIEIX
+139       45.961674        1.575606    23430 SAINT-MARTIN-SAINTE-CATHERINE
+140       45.953150        2.054350    23480        SAINT-MICHEL-DE-VEISSE
+141       46.270233        2.429418    23170                       VIERSAT
+142       46.101185        1.937672    23150         SAINT-YRIEIX-LES-BOIS
+143       46.267547        1.864336    23000                        ANZEME
+144       46.258714        1.763327    23320              BUSSIERE-DUNOISE
+145       46.382782        1.684638    23450                   FRESSELINES
+146       45.976467        2.237416    23200                SAINT-ALPINIEN
+147       46.132530        2.205231    23130                SAINT-CHABRAIS
+148       45.868211        2.367235    23260                         CROCQ
+149       46.327915        1.904046    23220                        BONNAT
+150       45.917260        2.197022    23200              MOUTIER-ROZEILLE
+151       46.174156        2.487302    23110               EVAUX-LES-BAINS
+152       45.882361        1.754393    23400       SAINT-JUNIEN-LA-BREGERE
+153       46.318662        2.033144    23270     SAINT-DIZIER-LES-DOMAINES
+154       45.846103        2.064182    23500                   LA NOUAILLE
+155       45.917578        1.888493    23460         SAINT-PIERRE-BELLEVUE
+156       46.141020        2.106896    23140                       CRESSAT
+157       45.883928        2.020427    23460      SAINT-YRIEIX-LA-MONTAGNE
+158       46.318662        2.033144    23270     SAINT-DIZIER-LES-DOMAINES
+159       45.749379        1.935921    23340              FAUX-LA-MONTAGNE
+160       46.235126        1.586996    23300                          NOTH
+161       46.388853        2.107965    23600                    NOUZERINES
+162       46.301784        2.309449    23600                       SOUMANS
+163       45.981283        2.476681    23700                      LES MARS
+164       46.097372        1.588964    23210                        MARSAC
+165       45.862609        2.226020    23500                   SAINT-FRION
+166       46.201484        2.153028    23140                        PARSAC
+167       45.785079        1.995882    23340           GENTIOUX-PIGEROLLES
+168       45.872832        2.398213    23260                      BASVILLE
+169       46.223545        1.922582    23380                        GLENIC
+170       46.156328        1.572257    23240                    CHAMBORAND
+171       46.191664        2.236802    23230                        GOUZON
+172       46.353525        1.475694    23160                     AZERABLES
+173       46.040933        1.575885    23430                SAINT-GOUSSAUD
+174       45.958160        1.906014    23250                     VIDAILLAT
+175       46.075682        1.928693    23150                       LEPINAS
+176       46.116141        2.269644    23130        SAINT-JULIEN-LE-CHATEL
+177       46.183414        2.340544    23170                        LUSSAT
+178       46.420878        2.224943    23600                  SAINT-MARIEN
+179       46.075682        1.928693    23150                       LEPINAS
+180       46.000074        1.817935    23250                       THAURON
+181       46.212494        1.578312    23240                      LIZIERES
+182       45.868211        2.367235    23260                         CROCQ
+183       46.037113        2.217281    23130                 PUY-MALSIGNAT
+184       46.282545        2.000344    23270                        ROCHES
+185       45.914963        2.258680    23200                         NEOUX
+186       46.072330        1.569940    23210                       ARRENES
+187       46.077100        1.645234    23210         MOURIOUX-VIEILLEVILLE
+188       46.170799        2.024473    23140                       PIONNAT
+189       46.180658        2.084981    23140                      JARNAGES
+190       45.743500        2.429602    23100        SAINT-MERD-LA-BREUILLE
+191       46.117899        1.628622    23210             BENEVENT-L'ABBAYE
+192       45.743500        2.429602    23100        SAINT-MERD-LA-BREUILLE
+193       45.923959        1.783745    23400                  FAUX-MAZURAS
+194       46.305310        1.663653    23800               DUN-LE-PALESTEL
+195       46.270233        2.429418    23170                       VIERSAT
+196       46.201233        1.535709    23300       SAINT-PRIEST-LA-FEUILLE
+197       46.301784        2.309449    23600                       SOUMANS
+198       45.986604        2.558986    23700                      DONTREIX
+199       45.975540        1.739982    23400            MASBARAUD-MERIGNAT
+200       45.868211        2.367235    23260                         CROCQ
+201       46.116141        2.269644    23130        SAINT-JULIEN-LE-CHATEL
+202       45.783229        2.166592    23500                    CLAIRAVAUX

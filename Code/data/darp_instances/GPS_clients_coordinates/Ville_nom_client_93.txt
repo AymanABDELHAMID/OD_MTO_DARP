@@ -1,0 +1,42 @@
+20 93
+  0       48.885063        2.405570    93310          LE PRE-SAINT-GERVAIS 
+  1       48.967903        2.364077    93380         PIERREFITTE-SUR-SEINE
+  2       48.955735        2.314739    93800              EPINAY-SUR-SEINE
+  3       48.960226        2.542867    93420                    VILLEPINTE
+  4       48.955735        2.314739    93800              EPINAY-SUR-SEINE
+  5       48.886112        2.435048    93230                   ROMAINVILLE
+  6       48.979952        2.557211    93290            TREMBLAY-EN-FRANCE
+  7       48.902029        2.570773    93370                   MONTFERMEIL
+  8       48.979952        2.557211    93290            TREMBLAY-EN-FRANCE
+  9       48.967903        2.364077    93380         PIERREFITTE-SUR-SEINE
+ 10       48.936181        2.357443    93200                   SAINT-DENIS
+ 11       48.979952        2.557211    93290            TREMBLAY-EN-FRANCE
+ 12       48.955735        2.314739    93800              EPINAY-SUR-SEINE
+ 13       48.963476        2.347354    93430                  VILLETANEUSE
+ 14       48.960226        2.542867    93420                    VILLEPINTE
+ 15       48.919230        2.536118    93190                  LIVRY-GARGAN
+ 16       48.863812        2.448451    93100                     MONTREUIL
+ 17       48.936181        2.357443    93200                   SAINT-DENIS
+ 18       48.955735        2.314739    93800              EPINAY-SUR-SEINE
+ 19       48.963476        2.347354    93430                  VILLETANEUSE
+ 20       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 21       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 22       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 23       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 24       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 25       48.941345        2.464360    93150               LE BLANC-MESNIL
+ 26       48.931422        2.398701    93120                  LA COURNEUVE
+ 27       48.967903        2.364077    93380         PIERREFITTE-SUR-SEINE
+ 28       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 29       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 30       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 31       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 32       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 33       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 34       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 35       48.936181        2.357443    93200                   SAINT-DENIS
+ 36       48.936752        2.425377    93350                    LE BOURGET
+ 37       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 38       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 39       48.848579        2.552610    93160                NOISY-LE-GRAND
+ 40       48.908612        2.439712    93000                       BOBIGNY
