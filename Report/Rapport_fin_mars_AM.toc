@@ -1,32 +1,39 @@
-\contentsline {section}{\numberline {1}Introduction}{2}%
-\contentsline {section}{\numberline {2}Motivation}{3}%
-\contentsline {section}{\numberline {3}Research Methodology}{4}%
-\contentsline {subsection}{\numberline {3.1}Scientific Journals}{4}%
-\contentsline {subsubsection}{\numberline {3.1.1}Books}{5}%
-\contentsline {subsubsection}{\numberline {3.1.2}Online Tools}{5}%
-\contentsline {subsubsection}{\numberline {3.1.3}Conferences}{6}%
-\contentsline {subsection}{\numberline {3.2}Courses}{6}%
-\contentsline {section}{\numberline {4}State of the Art}{7}%
-\contentsline {subsection}{\numberline {4.1}Shared mobility}{7}%
-\contentsline {subsection}{\numberline {4.2}Multimodal Trip Planning}{11}%
-\contentsline {subsection}{\numberline {4.3}Conclusion of the state of the art}{12}%
-\contentsline {section}{\numberline {5}Taxonomy}{13}%
-\contentsline {subsection}{\numberline {5.1}Terminology}{13}%
-\contentsline {subsection}{\numberline {5.2}Pre-arranged, real-time bookings}{14}%
-\contentsline {section}{\numberline {6}Problem Definition}{15}%
-\contentsline {subsection}{\numberline {6.1}Introduction}{15}%
-\contentsline {subsection}{\numberline {6.2}Problem Visualisation}{16}%
-\contentsline {subsection}{\numberline {6.3} Problem Formulation}{17}%
-\contentsline {subsubsection}{\numberline {6.3.1}Introduction}{17}%
-\contentsline {subsubsection}{\numberline {6.3.2}Part I: Station Matching Optimization}{18}%
-\contentsline {subsubsection}{\numberline {6.3.3}Model}{19}%
-\contentsline {subsubsection}{\numberline {6.3.4}Part II: Driver Matching Optimization}{20}%
-\contentsline {subsection}{\numberline {6.4}Time Sequence}{21}%
-\contentsline {subsubsection}{\numberline {6.4.1}Model}{23}%
-\contentsline {section}{\numberline {7}Solution Approaches}{25}%
-\contentsline {subsection}{\numberline {7.1}Data Structure}{25}%
-\contentsline {subsection}{\numberline {7.2}Defining Pickup Stations}{26}%
-\contentsline {subsubsection}{\numberline {7.2.1}Algorithm}{26}%
-\contentsline {subsection}{\numberline {7.3}The matching problem}{27}%
-\contentsline {subsection}{\numberline {7.4}Next Steps}{28}%
-\contentsline {section}{\numberline {8}Conclusion}{30}%
+\contentsline {section}{\numberline {1}Introduction}{3}%
+\contentsline {section}{\numberline {2}Motivation}{4}%
+\contentsline {section}{\numberline {3}Research Methodology}{5}%
+\contentsline {subsection}{\numberline {3.1}Scientific Journals}{5}%
+\contentsline {subsubsection}{\numberline {3.1.1}Books}{6}%
+\contentsline {subsubsection}{\numberline {3.1.2}Online Tools}{6}%
+\contentsline {subsubsection}{\numberline {3.1.3}Conferences}{7}%
+\contentsline {subsection}{\numberline {3.2}Courses}{7}%
+\contentsline {section}{\numberline {4}State of the Art}{8}%
+\contentsline {subsection}{\numberline {4.1}Shared mobility}{8}%
+\contentsline {subsection}{\numberline {4.2}Multimodal Trip Planning}{12}%
+\contentsline {subsection}{\numberline {4.3}Conclusion of the state of the art}{13}%
+\contentsline {section}{\numberline {5}Taxonomy}{14}%
+\contentsline {subsection}{\numberline {5.1}Terminology}{14}%
+\contentsline {subsection}{\numberline {5.2}Pre-arranged, real-time bookings}{15}%
+\contentsline {section}{\numberline {6}Problem Definition}{16}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{16}%
+\contentsline {subsection}{\numberline {6.2}Problem Visualisation}{17}%
+\contentsline {subsection}{\numberline {6.3} Problem Formulation}{18}%
+\contentsline {subsubsection}{\numberline {6.3.1}Introduction}{18}%
+\contentsline {subsubsection}{\numberline {6.3.2}Time Sequence}{19}%
+\contentsline {subsubsection}{\numberline {6.3.3}Part I: Station Matching Optimization}{21}%
+\contentsline {subsubsection}{\numberline {6.3.4}Model}{22}%
+\contentsline {subsubsection}{\numberline {6.3.5}Part II: Driver Matching Optimization}{23}%
+\contentsline {subsubsection}{\numberline {6.3.6}Model}{24}%
+\contentsline {section}{\numberline {7}Solution Approaches}{26}%
+\contentsline {subsection}{\numberline {7.1}Data Structure}{26}%
+\contentsline {subsection}{\numberline {7.2}Defining Pickup Stations}{27}%
+\contentsline {subsubsection}{\numberline {7.2.1}Algorithm}{27}%
+\contentsline {subsubsection}{\numberline {7.2.2}The matching problem}{29}%
+\contentsline {subsection}{\numberline {7.3}Solving the DAR problem}{30}%
+\contentsline {subsubsection}{\numberline {7.3.1}Algorithm}{30}%
+\contentsline {section}{\numberline {8}Results}{31}%
+\contentsline {subsection}{\numberline {8.1}Introduction}{31}%
+\contentsline {subsection}{\numberline {8.2}Optimization Environment}{31}%
+\contentsline {subsection}{\numberline {8.3}Comparison}{31}%
+\contentsline {subsection}{\numberline {8.4}Observations}{31}%
+\contentsline {subsection}{\numberline {8.5}Next Steps}{31}%
+\contentsline {section}{\numberline {9}Conclusion}{32}%

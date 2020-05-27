@@ -1,48 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Rapport_fin_mars_AM.aux
 The style file: ieeetr.bst
 Database file #1: references.bib
 Warning--empty publisher in bookexpalg
-You've used 34 entries,
+You've used 35 entries,
             1876 wiz_defined-function locations,
-            682 strings with 10754 characters,
-and the built_in function-call counts, 7898 in all, are:
-= -- 792
-> -- 279
+            685 strings with 11000 characters,
+and the built_in function-call counts, 7994 in all, are:
+= -- 803
+> -- 280
 < -- 0
-+ -- 110
++ -- 111
 - -- 76
-* -- 522
-:= -- 1068
-add.period$ -- 50
-call.type$ -- 34
+* -- 525
+:= -- 1078
+add.period$ -- 52
+call.type$ -- 35
 change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 35
-duplicate$ -- 421
-empty$ -- 782
+cite$ -- 36
+duplicate$ -- 427
+empty$ -- 796
 format.name$ -- 76
-if$ -- 1981
+if$ -- 2007
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 35
 missing$ -- 27
-newline$ -- 121
+newline$ -- 125
 num.names$ -- 25
-pop$ -- 89
+pop$ -- 91
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 292
+skip$ -- 295
 stack$ -- 0
 substring$ -- 470
-swap$ -- 178
+swap$ -- 179
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
 while$ -- 57
-width$ -- 36
-write$ -- 322
+width$ -- 37
+write$ -- 330
 (There was 1 warning)

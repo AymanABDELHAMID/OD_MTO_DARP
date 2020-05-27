@@ -450,6 +450,59 @@ This part is represented as follows, a simple formulation for the sets included 
 %mobility on demand service where its mathematical model can be found in the following paper. \citep{2008_Cordeau_Laporte}
 
 
+% time sequence
+\subsubsection{Time Sequence}
+\label{subsec:timeseq}
+This model should also serve as a normal shared mobility service, unlike services provided by Mobility on Demand services, the requests are not served as soon as possible. However, the customer is only picked up when to ensure his arrival to destination, 
+if we have a request $P_i$  it should be confirmed by the user before the pickup should have place $M_i$, which leads us to expand the time variant, since there are a lot of times involved. In figure \ref{fig:sequence} the correct sequence of events in the case of a single pick up station, and in figure \ref{fig:sequence2} an expanded sequence where we have more than one pickup station :
+%$T ={ \{x\}}_{x \in \{P,M,D\}} {\{1, ..., y\}}_{y \in \{n,m,s\}}$ , with this logical development we can express the following inequalities: \\ 
+%\begin{equation}
+%\begin{array}{l}
+%{T}_{x \in P, y \in [1,n]} + W < {T}_{x \in M, y \in[1,m]} + C < {T}_{x \in D, y \in [1,s]},\\
+%W \in [0,Time_{dl_{i}}],\\
+%C > 0
+%\label{eq:time_constraint}
+%\end{array}
+%\end{equation}
+
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=\linewidth]{pictures/Time_sequence}
+  \caption{From left to right: the sequence of events with respect to time in the case of a single pickup station}
+\label{fig:sequence}
+\end{figure}
+
+\begin{list}{}
+\item • \textbf{$T_{1}$ :} cut-off time after which clients cannot book anymore for a timeslot.
+\item • \textbf{$T_{2}$ :} Time at which the client should start leaving his(er) location and go to the pickup station.
+\item • \textbf{$T_{3}$ :} Time of arrival at the pickup station.
+\item • \textbf{$T_{4}$ :} Time of beginning of the trip.
+\item • \textbf{$T_{5}$ :} Time of arrival to destination.
+\item • \textbf{$T_{6}$ :} Time the train trip starts.
+\end{list} 
+
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=\linewidth]{pictures/time_sequence_with_manystations}
+  \caption{From left to right: the sequence of events with respect to time in the case of multiple pickup stations}
+\label{fig:sequence2}
+\end{figure}
+
+In figure \ref{fig:sequence} we displayed a logical time sequence of the process starting from booking a trip until arrival to destination. Walking time to pickup station varies depending on the distance between the client (booking) location and the 
+pickup station. It can be equal to zero if the station is right at where the client is located. In case of early arrival to pickup station the client can wait until the vehicle arrives to start the trip. Pickup duration is the duration the clients will take to embark 
+on the vehicle and it is a constant, the trip duration varies depending on the distance between the pickup station and the destination. If the vehicle reaches destination the clients can wait at the destination until the second trip starts. Finally the transfer time 
+is the time the client will take from disembarking the vehicle until reaching his second mode of transportation. As we can notice in figure (\ref{fig:sequence2}) the process (sequence) can accommodate multiple pickup stations as long as al constraints are respected.
+
+We denote the parameter $W$ that represents the time for the client to leave his actual location and reach the pickup station, $W$ can be equal to zero if the pick up station is right where the 
+customer is located. We denote also $C$ which is a contingency variable that takes into consideration many factors: \\
+% it can be $ W: W = maximum(dl_{i_{1}},...,dl_{i_{n}})$ where $n$ here is the number of the people that will be picked up from the pickup station.
+\begin{list}{}
+\item •  Pick up duration that is proportional to the number of clients being picked up at the station.
+\item •  Transfer time which is the time from the drop-off station until reaching the destination.
+\end{list} 
+
+
+
 \subsubsection*{Problem formulation}
 
 
@@ -503,14 +556,15 @@ Finally as mentioned before $dl_i$ is the maximum walking distance the driver is
 \text{subject to:}&   &  &  & &\\
 	&	&	& 	&	& \\
 	 \displaystyle\sum\limits_{j=1}^{m}x_{ij} &=& 1 &  \forall i \in \{1,2,...,n\} & & (1) \\  
-	  still \ don't know &=& 1 &  \forall  i \in \{1,2,...,n\}  & & (2) \\ 
+	  % still \ don't know &=& 1 &  \forall  i \in \{1,2,...,n\}  & & (2) \\ 
 	 c_{ij} &\leq& dl_i &  i \in \{1,2,...,n\} &j \in \{1,2,...,m\}  & (3) \\ 
 	 x_{ij} &=& \{0,1\} &  \forall  i \in \{1,2,...,n\} &j \in \{1,2,...,m\} & (4) \\ 
 	 y_{j} &=& \{0,1\} &  \forall i \in \{1,2,...,n\} & & (5) \\ 
 \end{array}
 \end{equation*}
 
-The first constraints $(1)$ require that each customer’s demand must be satisfied. Constraint $(2)$ provide variable upper bounds; even though they are redundant, they yield a much tighter linear programming. The constraint $(3)$ assures that no travelled distance by any customer passes the distance limit $dl_i$. The constraints $(4)$ and $(5)$ define that $x_{ij}$ and $y_j$ are binaries.
+The first constraints $(1)$ require that each customer’s demand must be satisfied.% Constraint $(2)$ provide variable upper bounds; even though they are redundant, they yield a much tighter linear programming. 
+The constraint $(3)$ assures that no travelled distance by any customer passes the distance limit $dl_i$. The constraints $(4)$ and $(5)$ define that $x_{ij}$ and $y_j$ are binaries.
 
 \subsubsection{Part II: Driver Matching Optimization}
 \label{subsec:darp}
@@ -553,58 +607,6 @@ begins service at node $i$, and $Q^{b}_{i}$ be the load of vehicle $b$ after vis
 \noindent The order of events is described in section (\ref{subsec:timeseq}).
 
 \noindent  The mixed inter linear programming model is represented in section (\ref{subsection:model}).
-
-% time sequence
-\subsection{Time Sequence}
-\label{subsec:timeseq}
-This model should also serve as a normal shared mobility service, unlike services provided by Mobility on Demand services, the requests are not served as soon as possible. However, the customer is only picked up when to ensure his arrival to destination, 
-if we have a request $P_i$  it should be confirmed by the user before the pickup should have place $M_i$, which leads us to expand the time variant, since there are a lot of times involved. In figure \ref{fig:sequence} the correct sequence of events in the case of a single pick up station, and in figure \ref{fig:sequence2} an expanded sequence where we have more than one pickup station :
-%$T ={ \{x\}}_{x \in \{P,M,D\}} {\{1, ..., y\}}_{y \in \{n,m,s\}}$ , with this logical development we can express the following inequalities: \\ 
-%\begin{equation}
-%\begin{array}{l}
-%{T}_{x \in P, y \in [1,n]} + W < {T}_{x \in M, y \in[1,m]} + C < {T}_{x \in D, y \in [1,s]},\\
-%W \in [0,Time_{dl_{i}}],\\
-%C > 0
-%\label{eq:time_constraint}
-%\end{array}
-%\end{equation}
-
-\begin{figure}[H]
-    \centering 
-  \includegraphics[width=\linewidth]{pictures/Time_sequence}
-  \caption{From left to right: the sequence of events with respect to time in the case of a single pickup station}
-\label{fig:sequence}
-\end{figure}
-
-\begin{list}{}
-\item • \textbf{$T_{1}$ :} cut-off time after which clients cannot book anymore for a timeslot.
-\item • \textbf{$T_{2}$ :} Time at which the client should start leaving his(er) location and go to the pickup station.
-\item • \textbf{$T_{3}$ :} Time of arrival at the pickup station.
-\item • \textbf{$T_{4}$ :} Time of beginning of the trip.
-\item • \textbf{$T_{5}$ :} Time of arrival to destination.
-\item • \textbf{$T_{6}$ :} Time the train trip starts.
-\end{list} 
-
-\begin{figure}[H]
-    \centering 
-  \includegraphics[width=\linewidth]{pictures/time_sequence_with_manystations}
-  \caption{From left to right: the sequence of events with respect to time in the case of multiple pickup stations}
-\label{fig:sequence2}
-\end{figure}
-
-In figure \ref{fig:sequence} we displayed a logical time sequence of the process starting from booking a trip until arrival to destination. Walking time to pickup station varies depending on the distance between the client (booking) location and the 
-pickup station. It can be equal to zero if the station is right at where the client is located. In case of early arrival to pickup station the client can wait until the vehicle arrives to start the trip. Pickup duration is the duration the clients will take to embark 
-on the vehicle and it is a constant, the trip duration varies depending on the distance between the pickup station and the destination. If the vehicle reaches destination the clients can wait at the destination until the second trip starts. Finally the transfer time 
-is the time the client will take from disembarking the vehicle until reaching his second mode of transportation. As we can notice in figure (\ref{fig:sequence2}) the process (sequence) can accommodate multiple pickup stations as long as al constraints are respected.
-
-We denote the parameter $W$ that represents the time for the client to leave his actual location and reach the pickup station, $W$ can be equal to zero if the pick up station is right where the 
-customer is located. We denote also $C$ which is a contingency variable that takes into consideration many factors: \\
-% it can be $ W: W = maximum(dl_{i_{1}},...,dl_{i_{n}})$ where $n$ here is the number of the people that will be picked up from the pickup station.
-\begin{list}{}
-\item •  Pick up duration that is proportional to the number of clients being picked up at the station.
-\item •  Transfer time which is the time from the drop-off station until reaching the destination.
-\end{list} 
-
 % LP Presentation here:
 \subsubsection{Model}
 \label{subsection:model}
@@ -657,29 +659,34 @@ In this section we are going to develop our method to find a solution to this pr
 
 \subsection{Data Structure}
 \label{sec:data_struc}
-Below is a sample representation of a Booking node, each booking chooses a drop-off station and a timeslot (as an example: if a user wants to go to the train station shown in fig. \ref{fig:Diagram}, he will choose train $\#1$ and then picks timeslot $14$ that corresponds to the train leaving at $12:15am$ ).
+
+The data being used for idea validation is a modified dataset that was provided by Yuso which is a fleet management startup. The structure remained the same with some exceptions; below is a sample representation of a Booking node, each booking chooses a drop-off station and a timeslot (as an example: if a user wants to go to the train station shown in fig. \ref{fig:Diagram}, he will choose train $\#1$ and then picks timeslot $10$ that corresponds to the train leaving at $12:15am$ ). We can also notice in the following structure that the booking defines the maximum walking distance limit, in this example it is $2000\  meters$ and in the model the algorithm adapts the allocation station to ensure the booking doesn't walk more than the maximum distance to get to the station. 
 \begin{lstlisting}[language=json,firstnumber=1]
 "bookings": [
     {
-	"id": 15,
-     	 "passengers": 2,
-      	"jobs": [
-        	{
-          	    "id": 151,
-          	    "type": "PickUpJob",
-          	    "latitude": 49.01606369018555,
-          	    "longitude": 1.6916327476501465,
-        	},
-        	{
-          	    "id": 152,
-          	    "type": "DropOffJob",
-          	    "timslotbegin": 14,
-          	    "duration": 60,
-          	    "station": "s1"
-        	}
-    }
+        "id": 16566388,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": [
+            {
+                "id": 23926039,
+                "duration": 60,
+                "latitude": 49.01606369018555,
+                "longitude": 1.6916327476501465,
+                "station": "s17",
+                "timeslot": 10,
+                "distancelimit": 2000,
+                "location": [
+                    32,
+                    39
+                ]
+            }
+        ]
+    },
 ]
 \end{lstlisting}
+
+Following this the algorithm will be tested on real datasets provided from Dr. Maxime Chassaing from LIMOS Lab in France, the datasets are collected from cities all over France and the characteristics of the instances can be found in their dedicated website \cite{darp_instances}. The results are shown with the observation in section \ref{sec:results}.
 
 
 % Propose algorithm here
@@ -740,30 +747,23 @@ The stations that will be active are the stations that are closest to the bookin
  initialization\;
 AM $\leftarrow$ empty list [ ]\;
 AM\_temp $\leftarrow$ empty list [ ]\;
+Distances $\leftarrow$ empty list [ ]\;
   \For{$i\gets1$ \KwTo $length(F)$ \KwBy $1$}{
 	pickup\_list $\leftarrow$ empty list [ ]\;
-	$feasible\_pick\_up\_stations  \; \leftarrow 0$\;
-	 \For{$j\gets1$ \KwTo $length(x_e)$ \KwBy $1$}{
-		\uIf{$x_e[j,i]\ ==\ 1$ }{  
-			\tcp{there\rq{s} a match between booking[j] to reach timeslot $F[i]$}
-   			 push(pickup\_list,[P[j][$ID$,$lon$,$lat$], $F[i]$)\;
-			AM\_temp = get\_closest\_stations(P[j][$lon$,$lat$],M[:][$lon$,$lat$])\;
-			\tcp{returns a list of demand nodes and closest pickup stations}
-			}
+	\For{$j\gets1$ \KwTo $length(P)$ \KwBy $1$}{
+		Distances $\leftarrow$  calculate\_distance\_to\_stations(P[j][$lon$,$lat$],M[:][$lon$,$lat$])\;
 		}
-	\tcp{An assignment of demand nodes to each station is made, such that the distance between a demand node and station is minimum}
-	AM = minimize\_n\_stations(AM\_temp)\;
-	%Y\_axis $\leftarrow$ pickup\_list[[\lq{$lat$}\rq]] \;
-	%X\_axis $\leftarrow$ pickup\_list[[\lq{$lon$}\rq]] \;
+	AM = minimize\_n\_stations(Distances, $F$)\;
+	\tcp{An assignment of demand nodes to each station is made, such that the distance between a demand nodes and stations is minimum for every timeslot}
    }
 \KwResult{$AM$}
- \caption{Algorithm to define pickup stations.}
+\caption{Algorithm to define pickup stations.}
 \end{algorithm}
 
 %Another method of clustering bookings into central pickup stations is to set predefined pickup zones and then match bookings to the stations, the station then becomes active if and only if there are bookings matched to it (see explanation in section \ref{subsec:next_steps}).
 
 
-\subsection{The matching problem}
+\subsubsection{The matching problem}
 \label{subsec:matching-prob}
 
 The matching problem is a sub-problem where we have $n$ potential bookings and let $f$ denote the number of time-slots available at a drop-off station. $F = \{ 1, ..., f \}$ As an example let $F_1$ be the timetable of train $\#1$.\\
@@ -810,26 +810,53 @@ Pickup \ time \ at \ station\ i, \ (i \in M) = T_f - W - t_{ij} - C
 %\end{array}
 %\end{equation*}
 
-This approach of maximizing bookings per pickup is still questionable due to the fact that it might not be the optimal solution to move the booking from a time slot to another, it is only beneficial in the case of applying a shift that will directly reduce the number of fleet, this part is subject to testing to validate. 
+This approach of maximizing bookings per pickup is still questionable due to the fact that it might not be the optimal solution to move the booking from a time slot to another, it is only beneficial in the case of applying a shift that will directly reduce the number of fleet, this part is subject to testing to validate, the comparison between the results of the algorithm and the actual results of the real instances can be found in section \ref{sec:results}
+
+\subsection{Solving the DAR problem}
+
+The Dial a ride problem is a developed VRP with time windows, the solution approach in this part is inspired from Cordeau \& Laporte 2008 \cite{2008_Cordeau_Laporte}
+
+\subsubsection{Algorithm}
+
+The algorithm here is a continuation of the output of part 1 of the problem, after given the active pickup stations ...
 
 
-\subsection{Next Steps}
-\label{subsec:next_steps}
-The first step in the problem definition statement is to be able to present the work in a mathematical formulation, the LP model and Algorithm in \ref{subsection:problem_setting}  are a preliminary representation of the work, the DARP part is very similar to the YUSO project in ST7, so I will use a similar model to optimize the LP model in \ref{subsection:problem_setting}, ride matching problem, also an LP model is going to be implemented using CPLEX, to create a seamless connection between timetables in public transport \& booking in MOD. The pickup station should not be the cluster centre, simply because we have constraints on where the station can be located, as an example the pickup station cannot be in a private property, or at a busy street.
-These constraints are set by knowing the demography of the city the service is operating in. The data that is going to be used in this problem is the \textbf{modified} YUSO project data that you can see a sample of in section \ref{sec:data_struc}. \\
+\begin{algorithm}[H]
+\label{alg:darp}
+\SetAlgoLined
+\LinesNumbered
+\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
+\SetKw{KwBy}{by}
+\Input{$M$ a set of predefined active pick up stations}
+\Output{Drivers assignments for each timeslot}
+\BlankLine
+ initialization\;
+\tcp{The algorithm is done but not put here yet}
+Objective = minimize\_total\_distance(data)\;
+\KwResult{$Output$}
+ \caption{Algorithm to define assignments for each driver.}
+\end{algorithm}
 
 
-Next steps to explore include the following:
-\begin{list}{}
-\item • Create user profiles for daily commuters to optimize routing.
-\item • Merge real-time booking with prearranged booking.
-\item • A framework of ride-sharing algorithms to build the most efficient public transport feeder.
-\item • Quantify the benefits in saving time with real data. 
-\item •  How such a model can impact future transportation systems.
-\item •  Merge between real-time and pre-arranged bookings.
-\end{list}
+\section{Results}
+\label{sec:results}
+\subsection{Introduction}
+Here I am going to introduce the main features I want to show in the results.
 
-Better route planning comes with better data, the idea is to have the most amount of input to the problem the earliest possible, in order to be able to better allocate clients to drivers and better choose the pick up stations.The optimization problem will affect globally the operation cost. The cost saved can be reflected in the total ride cost, which will be a great incentive for the customers to book their rides earlier.
+\subsection{Optimization Environment}
+The code python
+the optimizer gurobi
+the laptop hp .. processor...
+
+
+\subsection{Comparison}
+
+I want to create a link that shows all the results in an extensive way.
+I want to show at least 4 plots and a table showing a comparison between given solutions and solutions found by mu algorithm
+
+\subsection{Observations}
+In this section I am going to discuss any data in the results that might give the wrong impression about my algorithm and explain the reason(s) behind it 
+
 
 \subsubsection*{The value of time}
 
@@ -846,6 +873,27 @@ make it in time. The system will help the three types.
 
 In addition to that, if we optimize this system we might prove that we don\rq{t} need all these shared mobility services, shared mobility research in big cities such as Berlin and New York showed us that we don\rq{t} need all these
 taxis circulating around (see section \ref{sec:literature}), numbers showed we need $40\%$ less taxis in New York, Manhattan area. Planning these first and last mile commutes for the customers who are using public transport will help them gain time and save money.
+
+
+\subsection{Next Steps}
+\label{subsec:next_steps}
+The first step in the problem definition statement is to be able to present the work in a mathematical formulation, the LP model and Algorithm in \ref{subsection:problem_setting}  are a preliminary representation of the work, the DARP part is very similar to the YUSO project in ST7, so I will use a similar model to optimize the LP model in \ref{subsection:problem_setting}, ride matching problem, also an LP model is going to be implemented using CPLEX, to create a seamless connection between timetables in public transport \& booking in MOD. The pickup station should not be the cluster centre, simply because we have constraints on where the station can be located, as an example the pickup station cannot be in a private property, or at a busy street.
+These constraints are set by knowing the demography of the city the service is operating in. The data that is going to be used in this problem is the \textbf{modified} YUSO project data that you can see a sample of in section \ref{sec:data_struc}. \\
+
+
+Next steps to explore include the following:
+\begin{list}{}
+\item • Create a mathematical formulation for the whole model
+\item • Optimize the whole model (instead of dividing it into two part) and compare results
+\item • Create user profiles for daily commuters to optimize routing.
+\item • Merge real-time booking with prearranged booking.
+\item • A framework of ride-sharing algorithms to build the most efficient public transport feeder.
+\item • Quantify the benefits in saving time with real data. 
+\item •  How such a model can impact future transportation systems.
+\item •  Merge between real-time and pre-arranged bookings.
+\end{list}
+
+Better route planning comes with better data, the idea is to have the most amount of input to the problem the earliest possible, in order to be able to better allocate clients to drivers and better choose the pick up stations.The optimization problem will affect globally the operation cost. The cost saved can be reflected in the total ride cost, which will be a great incentive for the customers to book their rides earlier.
 
 
 \section{Conclusion}
