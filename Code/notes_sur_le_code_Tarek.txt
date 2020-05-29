@@ -9,7 +9,7 @@ Le model :
 	- pourquoi le modèle est divisé en 2?
 future work
 resultats
-factorize your repport and fix references
+factorize your report and fix references
 
 [14:55] Jakob PUCHINGER
     station * facteur (>1) + distance
@@ -17,25 +17,7 @@ factorize your repport and fix references
 ​
 Optimisation lexicographique
 
-Good luck Ayman
-
 Think about the cost function, you can have a sort of a cost that applies on a condition to the 
 distance, is d > dl then cost per step gors from 1 to 1000 as an example.
 --------------------------------------------
-import re
 
-second_part = False
-costs = []
-
-
-with open("data/darp_instances/RL_DARP/RL_d01.txt", "r") as f:
-    for line in f.readlines()[4:]:
-        if line[0] == "*":
-            second_part = True
-        if not second_part:
-            line_numbers = list(re.split('\s+', line))
-            line_numbers.pop(0)
-            line_numbers.pop()
-            costs.append([int(n) for n in line_numbers])
-
-print(costs)
