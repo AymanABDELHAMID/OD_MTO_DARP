@@ -115,15 +115,16 @@ model.addConstrs((r[i-1] == u[bookings_n+i-1] - u[i-1] - 60 for i in range(1,boo
 
 # The objective is to minimize the total distance travelled
 #model.setObjective(sum(x*cost), GRB.MINIMIZE)
-print(sum(np.multiply(x,cost)))
-#model.setObjective(sum(np.multiply(x,cost)), GRB.MINIMIZE)
-
+#model.setObjective(x.prod(cost), GRB.MINIMIZE)  # sum(np.multiply(x,cost))
+#model.setObjective(sum(cost[:, j, k] @ x[:, j, k] for j in range(n)), GRB.MINIMIZE)
+#model.setObjective(cost @ x.sum(), GRB.MINIMIZE)
+model.setObjective(sum(cost[:,j,k] @ x[:, j,k] for k in range(shifts_n)
+                       for j in range(2*bookings_n+2)), GRB.MINIMIZE)  # I am definite this is the correct one
 # save a linear programming model
 #model.write('DARP.lp')
 
 # optimize model
-#model.optimize()
-#print("Objective value: ", model.getObjective())
-#print('Objective value: %g' % model.objVal)
+model.optimize()
+print('Objective value: %g' % model.objVal)
 
 
