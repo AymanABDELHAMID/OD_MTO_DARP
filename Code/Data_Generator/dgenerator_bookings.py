@@ -48,7 +48,7 @@ with open('data/Data_Yuso-20200302/week_data.json') as f:
 bookings = data["bookings"]
 shifts = data["shifts"]  # not needed for now
 
-"Define variables"
+"Define variables"  # essayer de parametrer ces données
 timeslot_size = 10  # size can be changed later to display a larger array of items
 graph_size = range(0, 50)  # range of points the booking can be at
 pickup_stations_size = 16

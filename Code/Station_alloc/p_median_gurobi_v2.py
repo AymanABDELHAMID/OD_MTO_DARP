@@ -15,7 +15,7 @@ from gurobipy import GRB
 
 # Parameters
 graph_size = 50
-booking_number = 4
+booking_number = 25
 # Generate bookings within the graph limit needs a fix with numpy to plot
 original_values = range(0, graph_size)
 bookings = [(random.choice(original_values), random.choice(original_values))
@@ -48,7 +48,7 @@ shipping_cost = {(c,f): cost_per_step*compute_distance(bookings[c], pickup_stati
 
 # MIP  model formulation
 
-m = gp.Model('facility_location')
+m = gp.Model('pickup_stations')
 
 select = m.addVars(num_stations, vtype=GRB.BINARY, name='Select')
 assign = m.addVars(cartesian_prod, ub=1, vtype=GRB.CONTINUOUS, name='Assign')
@@ -70,10 +70,13 @@ m.optimize()
 
 for facility in select.keys():
     if (abs(select[facility].x) > 1e-6):
-        print(f"\n Build a warehouse at location {facility + 1}.")
+        print(f"\n open station at {facility + 1}.")
 
-
+"""
 for customer, facility in assign.keys():
     if (abs(assign[customer, facility].x) > 1e-6):
         print(f"\n Supermarket {customer + 1} recieves from Warehouse {facility + 1} "
               f"{round(100*assign[customer, facility].x, 2)} % of its demand.")
+"""
+
+# mapping to the bookings I have
