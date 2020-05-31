@@ -13,7 +13,7 @@ import numpy as np
 # Parameters
 # Get booking data
 # adding type hint to the dict
-with open('data/data_generated/bookings_short.json') as f:
+with open('data/data_generated/bookings_medium.json') as f:
     data_bookings = json.load(f)
 
 # Get Stations data
@@ -93,5 +93,63 @@ for station in range(num_pickup_stations):
         num_stations_active = num_stations_active + 1
 print('Total number of stations open:', num_stations_active, " out of", num_pickup_stations)
 
+# timeslot is 7h*60 + Timeslot*60
+# the idea is to add the data we took from here to the big data file:
+"#1 - Add bookings into a new dict"
+bookings = []
+booking = {
+    "id": [],
+    "price": [],  # each booking is worth 1000
+    "passengers": [],  # sum of all bookings going to this station
+    "maximumDuration": [],  # min of all max durations of bookings
+    "jobs":
+            {
+                "duration": 60,
+                "station": [],
+                "timewindow": [],  # timeslot is 7h*60 + Timeslot*60 and can be picked up 2 hours before the timelimit (-120)
+            },
+}
 
-# map timeslot here, it won't affect the distances
+"#2 - Introduce data from this script to the new dict"
+"#2.1 get range of timeslots available"
+timeslots = np.zeros(num_bookings)
+for booking in range(num_bookings):
+    timeslots[booking] = distance_limit[booking] = data_bookings[booking]["jobs"][0]["timeslot"]
+
+timeslots = list(dict.fromkeys(timeslots))
+for station in range(num_pickup_stations):
+    for ts in timeslots:
+        append = False
+        price = 0
+        passengers = 0
+        maximumduration = []
+        t1 = ts * 60 + 7 * 60
+        t0 = t1 - 120
+        for customer in range(num_bookings):
+            if assign[customer, station].X:
+                if data_bookings[customer]["jobs"][0]["timeslot"] == ts:
+                    append = True
+                    id = data_bookings[customer]["id"]  # we will just add any id
+                    price = price + 1000
+                    passengers = passengers + data_bookings[customer]["passengers"]
+                    maximumduration.append(data_bookings[customer]["maximumDuration"])
+        if append:
+            booking = {
+                "id": id,
+                "price": price,  # each booking is worth 1000
+                "passengers": passengers,  # sum of all bookings going to this station
+                "maximumDuration": min(maximumduration),  # min of all max durations of bookings
+                "jobs":
+                    {
+                        "duration": 60,
+                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations)],
+                        "timewindow": [t0, t1],
+                    },
+            }
+            bookings.append(booking)
+
+
+"#3 - put data into a .json file"
+
+with open("data/data_generated/bookings_part2.json", "w") as write_file:
+    json.dump(bookings, write_file, indent=4)

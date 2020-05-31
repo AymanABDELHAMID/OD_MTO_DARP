@@ -1,0 +1,393 @@
+[
+    {
+        "id": 16653139,
+        "price": 1000,
+        "passengers": 2,
+        "maximumDuration": 1980,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s2",
+                "s18"
+            ],
+            "timewindow": [
+                840.0,
+                960.0
+            ]
+        }
+    },
+    {
+        "id": 17161964,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s5",
+                "s18"
+            ],
+            "timewindow": [
+                600.0,
+                720.0
+            ]
+        }
+    },
+    {
+        "id": 16722485,
+        "price": 1000,
+        "passengers": 3,
+        "maximumDuration": 2040,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s5",
+                "s18"
+            ],
+            "timewindow": [
+                780.0,
+                900.0
+            ]
+        }
+    },
+    {
+        "id": 17161029,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s6",
+                "s18"
+            ],
+            "timewindow": [
+                720.0,
+                840.0
+            ]
+        }
+    },
+    {
+        "id": 17113978,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 1920,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s6",
+                "s18"
+            ],
+            "timewindow": [
+                780.0,
+                900.0
+            ]
+        }
+    },
+    {
+        "id": 16566388,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s7",
+                "s18"
+            ],
+            "timewindow": [
+                360.0,
+                480.0
+            ]
+        }
+    },
+    {
+        "id": 16722446,
+        "price": 2000,
+        "passengers": 2,
+        "maximumDuration": 1980,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s7",
+                "s18"
+            ],
+            "timewindow": [
+                420.0,
+                540.0
+            ]
+        }
+    },
+    {
+        "id": 16722421,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2040,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s7",
+                "s18"
+            ],
+            "timewindow": [
+                720.0,
+                840.0
+            ]
+        }
+    },
+    {
+        "id": 16976188,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 1860,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s7",
+                "s18"
+            ],
+            "timewindow": [
+                660.0,
+                780.0
+            ]
+        }
+    },
+    {
+        "id": 17057163,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2580,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s7",
+                "s18"
+            ],
+            "timewindow": [
+                900.0,
+                1020.0
+            ]
+        }
+    },
+    {
+        "id": 17032681,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2460,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s8",
+                "s18"
+            ],
+            "timewindow": [
+                480.0,
+                600.0
+            ]
+        }
+    },
+    {
+        "id": 17027011,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s9",
+                "s18"
+            ],
+            "timewindow": [
+                840.0,
+                960.0
+            ]
+        }
+    },
+    {
+        "id": 17125214,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2220,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s9",
+                "s18"
+            ],
+            "timewindow": [
+                540.0,
+                660.0
+            ]
+        }
+    },
+    {
+        "id": 16898752,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2520,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s10",
+                "s18"
+            ],
+            "timewindow": [
+                360.0,
+                480.0
+            ]
+        }
+    },
+    {
+        "id": 17149523,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s11",
+                "s18"
+            ],
+            "timewindow": [
+                840.0,
+                960.0
+            ]
+        }
+    },
+    {
+        "id": 16566470,
+        "price": 1000,
+        "passengers": 2,
+        "maximumDuration": 2160,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s13",
+                "s18"
+            ],
+            "timewindow": [
+                360.0,
+                480.0
+            ]
+        }
+    },
+    {
+        "id": 17172336,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s14",
+                "s18"
+            ],
+            "timewindow": [
+                360.0,
+                480.0
+            ]
+        }
+    },
+    {
+        "id": 17164183,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 1920,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s14",
+                "s18"
+            ],
+            "timewindow": [
+                420.0,
+                540.0
+            ]
+        }
+    },
+    {
+        "id": 17164825,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 1980,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s15",
+                "s18"
+            ],
+            "timewindow": [
+                420.0,
+                540.0
+            ]
+        }
+    },
+    {
+        "id": 16976174,
+        "price": 1000,
+        "passengers": 2,
+        "maximumDuration": 1920,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s15",
+                "s18"
+            ],
+            "timewindow": [
+                600.0,
+                720.0
+            ]
+        }
+    },
+    {
+        "id": 17160738,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2100,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s16",
+                "s18"
+            ],
+            "timewindow": [
+                540.0,
+                660.0
+            ]
+        }
+    },
+    {
+        "id": 17164167,
+        "price": 2000,
+        "passengers": 3,
+        "maximumDuration": 1920,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s16",
+                "s18"
+            ],
+            "timewindow": [
+                720.0,
+                840.0
+            ]
+        }
+    },
+    {
+        "id": 17161793,
+        "price": 1000,
+        "passengers": 1,
+        "maximumDuration": 2160,
+        "jobs": {
+            "duration": 60,
+            "station": [
+                "s17",
+                "s18"
+            ],
+            "timewindow": [
+                720.0,
+                840.0
+            ]
+        }
+    }
+]
