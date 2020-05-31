@@ -24,6 +24,18 @@ station = {
   "location": []
 }
 
+" add depot station "
+station = {
+  "name": "s0",
+  "pickup": False,
+  "dropoff": True,
+  "max_capacity": None,
+  "location": (0, 65)
+}
+
+stations.append(station)
+
+
 for station_itr in range(len(pickup_stations)):
     """
     station["name"].append("s" + str(station_itr))
@@ -34,7 +46,7 @@ for station_itr in range(len(pickup_stations)):
     stations.append(station)
     """
     station = {
-        "name": "s" + str(station_itr),
+        "name": "s" + str(station_itr+1),
         "pickup": True,
         "dropoff": False,
         "max_capacity": 8,
@@ -43,7 +55,7 @@ for station_itr in range(len(pickup_stations)):
     stations.append(station)
 " add drop off station "
 station = {
-  "name": "s" + str(len(pickup_stations)),
+  "name": "s" + str(len(pickup_stations)+1),
   "pickup": False,
   "dropoff": True,
   "max_capacity": None,

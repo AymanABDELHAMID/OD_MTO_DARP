@@ -1,12 +1,12 @@
 [
     {
         "name": "s0",
-        "pickup": true,
-        "dropoff": false,
-        "max_capacity": 8,
+        "pickup": false,
+        "dropoff": true,
+        "max_capacity": null,
         "location": [
             0,
-            0
+            65
         ]
     },
     {
@@ -16,7 +16,7 @@
         "max_capacity": 8,
         "location": [
             0,
-            15
+            0
         ]
     },
     {
@@ -26,7 +26,7 @@
         "max_capacity": 8,
         "location": [
             0,
-            30
+            15
         ]
     },
     {
@@ -36,7 +36,7 @@
         "max_capacity": 8,
         "location": [
             0,
-            45
+            30
         ]
     },
     {
@@ -45,8 +45,8 @@
         "dropoff": false,
         "max_capacity": 8,
         "location": [
-            15,
-            0
+            0,
+            45
         ]
     },
     {
@@ -56,7 +56,7 @@
         "max_capacity": 8,
         "location": [
             15,
-            15
+            0
         ]
     },
     {
@@ -66,11 +66,21 @@
         "max_capacity": 8,
         "location": [
             15,
-            30
+            15
         ]
     },
     {
         "name": "s7",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            15,
+            30
+        ]
+    },
+    {
+        "name": "s8",
         "pickup": true,
         "dropoff": false,
         "max_capacity": 8,
@@ -80,7 +90,7 @@
         ]
     },
     {
-        "name": "s8",
+        "name": "s9",
         "pickup": true,
         "dropoff": false,
         "max_capacity": 8,
@@ -90,23 +100,13 @@
         ]
     },
     {
-        "name": "s9",
-        "pickup": true,
-        "dropoff": false,
-        "max_capacity": 8,
-        "location": [
-            30,
-            15
-        ]
-    },
-    {
         "name": "s10",
         "pickup": true,
         "dropoff": false,
         "max_capacity": 8,
         "location": [
             30,
-            30
+            15
         ]
     },
     {
@@ -116,7 +116,7 @@
         "max_capacity": 8,
         "location": [
             30,
-            45
+            30
         ]
     },
     {
@@ -125,8 +125,8 @@
         "dropoff": false,
         "max_capacity": 8,
         "location": [
-            45,
-            0
+            30,
+            45
         ]
     },
     {
@@ -136,7 +136,7 @@
         "max_capacity": 8,
         "location": [
             45,
-            15
+            0
         ]
     },
     {
@@ -146,7 +146,7 @@
         "max_capacity": 8,
         "location": [
             45,
-            30
+            15
         ]
     },
     {
@@ -156,11 +156,21 @@
         "max_capacity": 8,
         "location": [
             45,
-            45
+            30
         ]
     },
     {
         "name": "s16",
+        "pickup": true,
+        "dropoff": false,
+        "max_capacity": 8,
+        "location": [
+            45,
+            45
+        ]
+    },
+    {
+        "name": "s17",
         "pickup": false,
         "dropoff": true,
         "max_capacity": null,
