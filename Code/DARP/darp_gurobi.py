@@ -273,7 +273,7 @@ model.setObjective(sum(cost[i,j,l] * x[i, j,l] for i in range(2 * bookings_n + 2
                                                for l in range(shifts_n)), GRB.MINIMIZE)
 
 # save a linear programming model
-model.write('DARP.lp')
+model.write('DARP/DARP.lp')
 
 # optimize model
 model.optimize()
