@@ -43,7 +43,7 @@ import json
 import random
 
 # a Python object (dict):
-with open('data/Data_Yuso-20200302/week_data.json') as f:
+with open('data/Data_Yuso-20200302/day_data_short.json') as f:
     data = json.load(f)
 bookings = data["bookings"]
 shifts = data["shifts"]  # not needed for now
@@ -51,7 +51,7 @@ shifts = data["shifts"]  # not needed for now
 "Define variables"  # essayer de parametrer ces données
 timeslot_size = 10  # size can be changed later to display a larger array of items
 graph_size = range(0, 50)  # range of points the booking can be at
-pickup_stations_size = 16
+pickup_stations_size = 17
 
 "Start modifying data here"
 for booking in range(len(bookings)):
@@ -70,10 +70,11 @@ for booking in range(len(bookings)):
         del bookings[booking]["jobs"][0]["type"]
     except KeyError:
         print("Key 'type' not found")
-    "#4 - remove job time window"
+    "#4 - remove job time window and ID"
     try:
         del bookings[booking]["jobs"][0]["timeWindowBeginDate"]
         del bookings[booking]["jobs"][0]["timeWindowEndDate"]
+        del bookings[booking]["jobs"][0]["id"]
     except KeyError:
         print("Key 'time window' not found")
     "#5 - change destination station to be the same (S + number of stations available + 1)"

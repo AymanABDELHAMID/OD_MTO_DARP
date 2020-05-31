@@ -30,27 +30,21 @@ station = {
   "pickup": False,
   "dropoff": True,
   "max_capacity": None,
-  "location": (0, 65)
+  "location": (0, 65),
+  "setupCost": 1000000  # float('inf') --> gurobipy.GurobiError: Element 0 of a double array is Nan or Inf.
 }
 
 stations.append(station)
 
 
 for station_itr in range(len(pickup_stations)):
-    """
-    station["name"].append("s" + str(station_itr))
-    station["pickup"].append(True)
-    station["dropoff"].append(False)
-    station["max_capacity"].append(8)
-    station["location"].append(pickup_stations[station_itr])
-    stations.append(station)
-    """
     station = {
         "name": "s" + str(station_itr+1),
         "pickup": True,
         "dropoff": False,
         "max_capacity": 8,
-        "location": pickup_stations[station_itr]
+        "location": pickup_stations[station_itr],
+        "setupCost": 1000
     }
     stations.append(station)
 " add drop off station "
@@ -59,7 +53,8 @@ station = {
   "pickup": False,
   "dropoff": True,
   "max_capacity": None,
-  "location": (25, 75)
+  "location": (25, 75),
+  "setupCost": 1000000 # float('inf') --> gurobipy.GurobiError: Element 0 of a double array is Nan or Inf.
 }
 
 stations.append(station)

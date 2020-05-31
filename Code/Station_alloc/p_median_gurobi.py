@@ -1,83 +1,97 @@
 """
 In this script we are going to use p-median
 method to solve the station allocation problem
-
-v0 : static input data treating a single timeslot
 """
 
 import gurobipy as gp
 from gurobipy import GRB
-import random
+import json
 from itertools import product
 from math import sqrt
+import numpy as np
 
 # Parameters
+# Get booking data
+# adding type hint to the dict
+with open('data/data_generated/bookings_short.json') as f:
+    data_bookings = json.load(f)
+
+# Get Stations data
+with open('data/data_generated/stations.json') as f:
+    data_stations = json.load(f)
 
 
-graph_size = 50
-booking_number = 50
-# Generate bookings within the graph limit needs a fix with numpy to plot
-original_values = range(0, graph_size)
-bookings = [(random.choice(original_values), random.choice(original_values))
-            for _ in range(booking_number)]
-# you can also define the station distances and generate all possible permutations
-pickup_stations = [(0, 0), (0, 15), (0, 30), (0, 45), (15, 0), (15, 15), (15, 30), (30, 0),
-(15, 45), (30, 15), (30, 30), (30, 45), (45, 0), (45, 15), (45,30), (45, 45)]
-
-
+# Compute key parameters of MIP model formulation
+num_bookings = len(data_bookings)
+num_pickup_stations = len(data_stations)
+cartesian_prod = list(product(range(num_bookings), range(num_pickup_stations)))
 cost_per_step = 1
+distance_limit = np.zeros(num_bookings)
+for booking in range(num_bookings):
+    distance_limit[booking] = data_bookings[booking]["jobs"][0]["distancelimit"]
+setup_cost = []  # np.zeros(num_pickup_stations)
+for station in range(num_pickup_stations):
+    # setup_cost[station] = data_stations[station]["setupCost"]
+    setup_cost.append(data_stations[station]["setupCost"])
+
 
 # This function determines the Euclidean distance between a pickup station and booking location.
-
-
 def compute_distance(loc1, loc2):
     dx = loc1[0] - loc2[0]
     dy = loc1[1] - loc2[1]
     return sqrt(dx*dx + dy*dy)
 
-# Compute key parameters of MIP model formulation
-
-
-num_pickup_stations = len(pickup_stations)
-num_bookings = len(bookings)
-cartesian_prod = list(product(range(num_bookings), range(num_pickup_stations)))
-
 # Compute shipping costs
-
-matching_cost = {(c, f): cost_per_step*compute_distance(bookings[c], pickup_stations[f]) for c, f in cartesian_prod}
+#matching_cost = {(c, f): cost_per_step*compute_distance(data_bookings[c]["jobs"][0]["location"], data_stations[f]["location"]) for c, f in cartesian_prod}
+matching_cost = np.zeros((num_bookings, num_pickup_stations))
+for c in range(num_bookings):
+    for f in range(num_pickup_stations):
+        matching_cost[c, f] = cost_per_step*compute_distance(data_bookings[c]["jobs"][0]["location"], data_stations[f]["location"])
 # this is a list containing all bookings with the corresponding cost to each station so the size of it
 # is equal to num_bookings*num_pickup_stations
 
-
 # MIP  model formulation
 
-m = gp.Model('pickup_stations')
+model = gp.Model('pickup_stations')
 
-select = m.addVars(num_pickup_stations, vtype=GRB.BINARY, name='Select')
-assign = m.addVars(cartesian_prod, ub=1, vtype=GRB.CONTINUOUS, name='Assign')
+# select = model.addVars(num_pickup_stations, vtype=GRB.BINARY, name='Select')
+assign = model.addMVar(shape=(num_bookings,num_pickup_stations), vtype=GRB.BINARY, name='Assign')  # vtype=GRB.CONTINUOUS
 
-m.addConstrs((assign[(c, f)] <= select[f] for c, f in cartesian_prod), name='Numbers')
-m.addConstrs((gp.quicksum(assign[(c, f)] for f in range(num_pickup_stations)) == 1 for c in range(num_bookings)), name='serveOnce')
+#model.addConstrs((assign[(c, f)] <= select[f] for c, f in cartesian_prod), name='Numbers')
+model.addConstrs((sum(assign[c, :]) == 1 for c in range(num_bookings)), name='serveOnce')
+#model.addConstrs((gp.quicksum(assign[(c, f)] for f in range(num_pickup_stations)) == 1 for c in range(num_bookings)), name='distance_lim')
+model.addConstrs((assign[c,f]*matching_cost[c,f]*250 <= (distance_limit[c] + 2000) for c, f in cartesian_prod), name='distance_lim')  # for f in range(num_pickup_stations) for c in range(num_bookings)
 
 # Save model
-m.write('pickup_pmedian_v1.lp')
+model.write('Station_alloc/pickup_pmedian_v1.lp')
 
-m.setObjective(assign.prod(matching_cost), GRB.MINIMIZE)
+#model.setObjective(select.prod(setup_cost)+assign.prod(matching_cost), GRB.MINIMIZE)
+model.setObjective(sum(assign[c,f]*setup_cost[f] for c in range(num_bookings) for f in range(num_pickup_stations))+ sum(250*assign[c,f]*matching_cost[c,f] for c in range(num_bookings) for f in range(num_pickup_stations)), GRB.MINIMIZE)
 
-m.optimize()
+
+model.optimize()
+
 
 #♦ Analysis
 
-for facility in select.keys():
-    if abs(select[facility].x) > 1e-6:
-        print(f"\n Pickup station at location {facility + 1} will receive customers.")
-"""
-for customer, facility in assign.keys():
-    if abs(assign[customer, facility].x) > 1e-6:
-        print(f"\n Booking {customer + 1} will be picked up from station {facility + 1}.")
-"""
-"""
-- We can't serve a customer from 2 stations
-- We want to minimize the number of stations
-- We want to add capacity limit to each station
-"""
+# Data generation for part II
+total_construction_cost = 0
+counter = 0
+for customer in range(num_bookings):
+    for station in range(num_pickup_stations):
+        if (assign[customer, station].X):
+            counter = counter + 1
+            print(f"\n Pickup station at location", station + 1, "will receive customers.")
+            total_construction_cost = total_construction_cost + setup_cost[station]
+            print(f"\n Booking", customer + 1,  "will go to station", station + 1)
+print('Total number of bookings served:', counter)
+print('Total distance to walk (in meters):', float(model.objVal)-total_construction_cost)
+
+num_stations_active = 0
+for station in range(num_pickup_stations):
+    if sum(assign[:, station].X):
+        num_stations_active = num_stations_active + 1
+print('Total number of stations open:', num_stations_active, " out of", num_pickup_stations)
+
+
+# map timeslot here, it won't affect the distances

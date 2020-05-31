@@ -5,16 +5,15 @@
         "maximumDuration": 2100,
         "jobs": [
             {
-                "id": 23926039,
                 "duration": 60,
                 "latitude": 49.01606369018555,
                 "longitude": 1.6916327476501465,
                 "station": "s17",
-                "timeslot": 10,
+                "timeslot": 6,
                 "distancelimit": 2000,
                 "location": [
-                    32,
-                    39
+                    2,
+                    7
                 ]
             }
         ]
@@ -25,7 +24,6 @@
         "maximumDuration": 2160,
         "jobs": [
             {
-                "id": 23926210,
                 "duration": 60,
                 "latitude": 49.038970947265625,
                 "longitude": 1.8017100095748901,
@@ -33,8 +31,8 @@
                 "timeslot": 7,
                 "distancelimit": 2000,
                 "location": [
-                    19,
-                    2
+                    49,
+                    5
                 ]
             }
         ]
@@ -45,16 +43,15 @@
         "maximumDuration": 2100,
         "jobs": [
             {
-                "id": 25109598,
                 "duration": 60,
                 "latitude": 48.98927307128906,
                 "longitude": 1.715390682220459,
                 "station": "s17",
-                "timeslot": 6,
+                "timeslot": 8,
                 "distancelimit": 2000,
                 "location": [
                     49,
-                    26
+                    5
                 ]
             }
         ]
@@ -65,16 +62,15 @@
         "maximumDuration": 2100,
         "jobs": [
             {
-                "id": 25132378,
                 "duration": 60,
                 "latitude": 49.01248550415039,
                 "longitude": 1.6957569122314453,
                 "station": "s17",
-                "timeslot": 4,
+                "timeslot": 6,
                 "distancelimit": 2000,
                 "location": [
-                    17,
-                    0
+                    49,
+                    5
                 ]
             }
         ]

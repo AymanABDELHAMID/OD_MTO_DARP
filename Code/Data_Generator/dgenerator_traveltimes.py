@@ -29,7 +29,7 @@ for station in range(len(stations)):
     for other_station in range(len(stations)):
         dx = abs(stations[station]["location"][0] - stations[other_station]["location"][0])
         dy = abs(stations[station]["location"][1] - stations[other_station]["location"][1])
-        distance_matrix[station][other_station] = sqrt(dx ** 2 + dy ** 2)/(1 / (20 * 3600))
+        distance_matrix[station][other_station] = sqrt(dx ** 2 + dy ** 2)/(1 / (60 * 3600)) * (1/60)
 
 """
 "show distances in a heat map"
