@@ -13,7 +13,7 @@ import numpy as np
 # Parameters
 # Get booking data
 # adding type hint to the dict
-with open('data/data_generated/bookings_medium.json') as f:
+with open('data/data_generated/bookings_short.json') as f:
     data_bookings = json.load(f)
 
 # Get Stations data
@@ -142,7 +142,7 @@ for station in range(num_pickup_stations):
                 "jobs":
                     {
                         "duration": 60,
-                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations)],
+                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations-1)],
                         "timewindow": [t0, t1],
                     },
             }
