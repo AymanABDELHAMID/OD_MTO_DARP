@@ -84,21 +84,21 @@ r = model.addMVar(shape=(num_bookings), vtype=GRB.INTEGER, name='r')
 
 "2. add model constraints"
 "we need to make sure that each pickup is assured only once by the same vehicle"
-model.addConstrs((sum(x[i, :, :]) == 1 for i in range(1,num_bookings + 1)), name="c1")  # not sure if it should be == or <=
+model.addConstrs((x[i, :, :].sum() == 1 for i in range(1,num_bookings + 1)), name="c1")  # not sure if it should be == or <=
 
 "make sure that each trip starts and end at s0"
-model.addConstrs((sum(x[0, :, l]) == 1 for l in range(num_shifts)), name="c2")  # départ du dépot, not 1 it should be 0
-model.addConstrs((sum(x[:, 2*num_bookings+1, l]) == 1 for l in range(num_shifts)), name="c3")  # retour au dépot
+model.addConstrs((x[0, :, l].sum() == 1 for l in range(num_shifts)), name="c2")  # départ du dépot, not 1 it should be 0
+model.addConstrs((x[:, 2*num_bookings+1, l].sum() == 1 for l in range(num_shifts)), name="c3")  # retour au dépot
 
 "respect the shifts"
 model.addConstrs((v[l,1] <= data_shifts[l]["jobs"][0]["TimeWindow"][1] for l in range(num_shifts)), name="c4")  # respect des shifts
 model.addConstrs((v[l,0] >= data_shifts[l]["jobs"][0]["TimeWindow"][0] for l in range(num_shifts)), name="c5")  # respect des shifts
 
-model.addConstrs((sum(x[i, :, l]) - sum(x[i+num_bookings, :, l]) == 0 for i in range(1, num_bookings + 1)
+model.addConstrs((x[i, :, l].sum() - x[i+num_bookings, :, l].sum() == 0 for i in range(1, num_bookings + 1)
                                                                for l in range(num_shifts)), name="c6")  # you can also add if i != j
-model.addConstrs((sum(x[:, i, l]) - sum(x[i, :, l]) == 0 for i in range(1, num_bookings + 1)
+model.addConstrs((x[:, i, l].sum() - x[i, :, l].sum() == 0 for i in range(1, num_bookings + 1)
                                                                for l in range(num_shifts)), name="c7")
-model.addConstrs((sum(x[:,i+num_bookings,l]) - sum(x[i+num_bookings, :, l]) == 0 for i in range(1, num_bookings + 1)
+model.addConstrs((x[:,i+num_bookings,l].sum() - x[i+num_bookings, :, l].sum() == 0 for i in range(1, num_bookings + 1)
                                                                for l in range(num_shifts)), name="c8")
 
 "Linearization : "
