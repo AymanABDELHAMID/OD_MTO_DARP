@@ -102,6 +102,7 @@ booking = {
     "price": [],  # each booking is worth 1000
     "passengers": [],  # sum of all bookings going to this station
     "maximumDuration": [],  # min of all max durations of bookings
+    "old_location": [],
     "jobs":
             {
                 "duration": 60,
@@ -123,6 +124,7 @@ for station in range(num_pickup_stations):
         price = 0
         passengers = 0
         maximumduration = []
+        old_location = []
         t1 = ts * 60 + 7 * 60
         t0 = t1 - 120
         for customer in range(num_bookings):
@@ -133,12 +135,14 @@ for station in range(num_pickup_stations):
                     price = price + 1000
                     passengers = passengers + data_bookings[customer]["passengers"]
                     maximumduration.append(data_bookings[customer]["maximumDuration"])
+                    old_location.append(data_bookings[customer]["jobs"][0]["location"])
         if append:
             booking = {
                 "id": id,
                 "price": price,  # each booking is worth 1000
                 "passengers": passengers,  # sum of all bookings going to this station
                 "maximumDuration": min(maximumduration),  # min of all max durations of bookings
+                "old_location": old_location,
                 "jobs":
                     {
                         "duration": 2,

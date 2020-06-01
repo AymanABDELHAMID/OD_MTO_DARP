@@ -4,6 +4,12 @@
         "price": 1000,
         "passengers": 2,
         "maximumDuration": 1980,
+        "old_location": [
+            [
+                2,
+                7
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -21,6 +27,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2220,
+        "old_location": [
+            [
+                0,
+                46
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -38,6 +50,12 @@
         "price": 1000,
         "passengers": 3,
         "maximumDuration": 2040,
+        "old_location": [
+            [
+                5,
+                45
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -55,6 +73,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2100,
+        "old_location": [
+            [
+                16,
+                3
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -72,6 +96,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 1920,
+        "old_location": [
+            [
+                21,
+                5
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -89,6 +119,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2100,
+        "old_location": [
+            [
+                9,
+                9
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -106,6 +142,16 @@
         "price": 2000,
         "passengers": 2,
         "maximumDuration": 1980,
+        "old_location": [
+            [
+                22,
+                14
+            ],
+            [
+                19,
+                18
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -123,6 +169,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2040,
+        "old_location": [
+            [
+                22,
+                19
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -140,6 +192,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 1860,
+        "old_location": [
+            [
+                20,
+                18
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -157,6 +215,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2580,
+        "old_location": [
+            [
+                12,
+                16
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -174,6 +238,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2460,
+        "old_location": [
+            [
+                16,
+                23
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -191,6 +261,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2220,
+        "old_location": [
+            [
+                35,
+                7
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -208,6 +284,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2220,
+        "old_location": [
+            [
+                25,
+                1
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -225,6 +307,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2520,
+        "old_location": [
+            [
+                12,
+                48
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -242,6 +330,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2100,
+        "old_location": [
+            [
+                31,
+                9
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -259,6 +353,12 @@
         "price": 1000,
         "passengers": 2,
         "maximumDuration": 2160,
+        "old_location": [
+            [
+                37,
+                39
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -276,6 +376,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2100,
+        "old_location": [
+            [
+                42,
+                3
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -293,6 +399,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 1920,
+        "old_location": [
+            [
+                47,
+                1
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -310,6 +422,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 1980,
+        "old_location": [
+            [
+                48,
+                14
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -327,6 +445,12 @@
         "price": 1000,
         "passengers": 2,
         "maximumDuration": 1920,
+        "old_location": [
+            [
+                40,
+                11
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -344,6 +468,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2100,
+        "old_location": [
+            [
+                38,
+                36
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -361,6 +491,16 @@
         "price": 2000,
         "passengers": 3,
         "maximumDuration": 1920,
+        "old_location": [
+            [
+                38,
+                36
+            ],
+            [
+                44,
+                25
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
@@ -378,6 +518,12 @@
         "price": 1000,
         "passengers": 1,
         "maximumDuration": 2160,
+        "old_location": [
+            [
+                40,
+                46
+            ]
+        ],
         "jobs": {
             "duration": 2,
             "station": [
