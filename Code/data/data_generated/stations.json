@@ -196,5 +196,16 @@
             75
         ],
         "setupCost": 1000000
+    },
+    {
+        "name": "s0",
+        "pickup": false,
+        "dropoff": true,
+        "max_capacity": null,
+        "location": [
+            0,
+            65
+        ],
+        "setupCost": 1000000
     }
 ]

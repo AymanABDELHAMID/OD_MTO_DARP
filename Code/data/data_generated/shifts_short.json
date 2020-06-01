@@ -1,0 +1,44 @@
+[
+    {
+        "id": 3238040,
+        "capacity": 8,
+        "maximumTurnover": 20000,
+        "jobs": [
+            {
+                "latitude": 48.99266052246094,
+                "longitude": 1.6903244256973267,
+                "station": "s0",
+                "location": [
+                    0,
+                    65
+                ],
+                "TimeWindow": [
+                    360,
+                    1320
+                ],
+                "Average_speed": 60
+            }
+        ]
+    },
+    {
+        "id": 3238028,
+        "capacity": 8,
+        "maximumTurnover": 20000,
+        "jobs": [
+            {
+                "latitude": 48.99266052246094,
+                "longitude": 1.6903244256973267,
+                "station": "s0",
+                "location": [
+                    0,
+                    65
+                ],
+                "TimeWindow": [
+                    360,
+                    1320
+                ],
+                "Average_speed": 60
+            }
+        ]
+    }
+  ]

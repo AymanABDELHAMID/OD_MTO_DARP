@@ -5,7 +5,7 @@
         "passengers": 1,
         "maximumDuration": 2100,
         "jobs": {
-            "duration": 60,
+            "duration": 2,
             "station": [
                 "s2",
                 "s17"
@@ -22,7 +22,7 @@
         "passengers": 2,
         "maximumDuration": 2160,
         "jobs": {
-            "duration": 60,
+            "duration": 2,
             "station": [
                 "s14",
                 "s17"
@@ -39,7 +39,7 @@
         "passengers": 2,
         "maximumDuration": 2100,
         "jobs": {
-            "duration": 60,
+            "duration": 2,
             "station": [
                 "s14",
                 "s17"

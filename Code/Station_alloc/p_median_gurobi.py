@@ -141,8 +141,8 @@ for station in range(num_pickup_stations):
                 "maximumDuration": min(maximumduration),  # min of all max durations of bookings
                 "jobs":
                     {
-                        "duration": 60,
-                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations-1)],
+                        "duration": 2,
+                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations-2)],  # because we remove the depot stations
                         "timewindow": [t0, t1],
                     },
             }

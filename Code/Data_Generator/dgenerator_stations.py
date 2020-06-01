@@ -9,7 +9,7 @@ This module generates data corresponding each station
 """
 import json
 
-stations_size = 15
+stations_size = 16
 " you need to automate station location generation "
 pickup_stations = [(0, 0), (0, 15), (0, 30), (0, 45), (15, 0), (15, 15), (15, 30),
                    (30, 0), (15, 45), (30, 15), (30, 30), (30, 45), (45, 0), (45, 15),
@@ -57,6 +57,17 @@ station = {
   "setupCost": 1000000 # float('inf') --> gurobipy.GurobiError: Element 0 of a double array is Nan or Inf.
 }
 
+stations.append(station)
+
+" add depot station "
+station = {
+  "name": "s0",
+  "pickup": False,
+  "dropoff": True,
+  "max_capacity": None,
+  "location": (0, 65),
+  "setupCost": 1000000  # float('inf') --> gurobipy.GurobiError: Element 0 of a double array is Nan or Inf.
+}
 stations.append(station)
 
 with open("data/data_generated/stations.json", "w") as write_file:
