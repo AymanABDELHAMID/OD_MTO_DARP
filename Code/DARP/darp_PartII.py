@@ -19,7 +19,7 @@ with open('data/data_generated/bookings_part2.json') as f:
     data_bookings = json.load(f)
 
 # Get Shifts data
-with open('data/data_generated/shifts_short.json') as f:
+with open('data/data_generated/shifts.json') as f:
     data_shifts = json.load(f)
 
 # get Travel Times Data
@@ -248,9 +248,9 @@ for i in range(1, num_bookings+1):
     model.addConstr(r[i - 1] <= L, name="c14_2"+ str(i))
 
 for i in range(2*num_bookings+2):  # found another error here in for loop
-    model.addConstr(sum(x[i, i, :]) == 0, name="c15")
+    model.addConstr(sum(x[i, i, :]) == 0, name="c15")  # no need to do do [].sum() because the result here is correct
 
-model.addConstr(sum(x[2*num_bookings+1, :, :]) == 0, name="c16")
+model.addConstr(x[2*num_bookings+1, :, :].sum() == 0, name="c16")
 
 "Price vector"
 price = np.zeros(num_bookings)
@@ -264,10 +264,12 @@ for l in range(num_shifts):
 
 #model.setObjective(sum(cost[:,j,k] @ x[:, j,k] for k in range(num_shifts)
 #                          for j in range(2*num_bookings+2)), GRB.MINIMIZE)
+
 from itertools import product
 
 shape = list(product(range(2*num_bookings+2), range(2*num_bookings+2),range(num_shifts)))
 model.setObjective(sum(x[i, j, k]*cost[i, j, k] for i, j, k in shape))
+
 
 # save a linear programming model
 model.write('DARP/DARP_part2.lp')
@@ -276,8 +278,4 @@ model.write('DARP/DARP_part2.lp')
 model.optimize()
 print('Objective value: %g' % model.objVal)
 
-for l in range(num_shifts):
-    for i in range(2 * num_bookings + 2):
-        for j in range(2 * num_bookings + 2):
-            if x.X[i,j,l] == 1:
-                print("Driver", l, " will take customer ", i, " to", j)
+# Data analysis
