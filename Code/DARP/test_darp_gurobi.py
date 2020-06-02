@@ -109,3 +109,60 @@ for i in range(2*num_bookings+2):
 
 "---------------------------------------------------------------------------"
 """
+route_list = []
+
+route = {
+  "id": [],
+  "route": [],
+  "location": []
+}
+append = False
+r = []
+loc = []
+driver_counter = 0
+for l in range(num_shifts):
+    for i in range(2*num_bookings+2):
+        for j in range(2*num_bookings+2):
+            if x.X[i, j, l] == 1:
+                append = True
+                if i == 0:
+                    r.append('p0')
+                    loc.append(0)
+                elif 1 <= i <= num_bookings:
+                    r.append('p'+str(i))
+                    loc.append(int(data_bookings[i - 1]["jobs"]["station"][0][1:]))
+                elif num_bookings + 1 <= i <= 2*num_bookings:
+                    r.append('d' + str(i))
+                    loc.append(int(data_bookings[i - 1 - num_bookings]["jobs"]["station"][1][1:]))
+                elif i == 2*num_bookings+1:
+                    r.append('d0')
+                    loc.append(0)
+
+                if j == 0:
+                    r.append('p0')
+                    loc.append(0)
+                if 1 <= j <= num_bookings:
+                    r.append('p'+str(j))
+                    loc.append(int(data_bookings[j - 1]["jobs"]["station"][0][1:]))
+                elif num_bookings + 1 <= j <= 2*num_bookings:
+                    r.append('d' + str(j))
+                    loc.append(int(data_bookings[j - 1 - num_bookings]["jobs"]["station"][1][1:]))
+                elif j == 2 * num_bookings + 1:
+                    r.append('d0')
+                    loc.append(0)
+            else:
+                append = False
+    if append:
+        driver_counter = driver_counter  + 1
+        route = {
+            "id": data_shifts[l]["id"],
+            "route": r,
+            "location": loc
+        }
+        route_list.append(route)
+        "update r and loc lists"
+        r = []
+        loc = []
+
+with open("data/data_generated/output_final.json", "w") as write_file:
+    json.dump(route_list, write_file, indent=4)
