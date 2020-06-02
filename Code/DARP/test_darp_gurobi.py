@@ -132,7 +132,7 @@ for l in range(num_shifts):
                     r.append('p'+str(i))
                     loc.append(int(data_bookings[i - 1]["jobs"]["station"][0][1:]))
                 elif num_bookings + 1 <= i <= 2*num_bookings:
-                    r.append('d' + str(i))
+                    r.append('d' + str(i - num_bookings))
                     loc.append(int(data_bookings[i - 1 - num_bookings]["jobs"]["station"][1][1:]))
                 elif i == 2*num_bookings+1:
                     r.append('d0')
@@ -145,13 +145,11 @@ for l in range(num_shifts):
                     r.append('p'+str(j))
                     loc.append(int(data_bookings[j - 1]["jobs"]["station"][0][1:]))
                 elif num_bookings + 1 <= j <= 2*num_bookings:
-                    r.append('d' + str(j))
+                    r.append('d' + str(j - num_bookings))
                     loc.append(int(data_bookings[j - 1 - num_bookings]["jobs"]["station"][1][1:]))
                 elif j == 2 * num_bookings + 1:
                     r.append('d0')
                     loc.append(0)
-            else:
-                append = False
     if append:
         driver_counter = driver_counter  + 1
         route = {
@@ -163,6 +161,7 @@ for l in range(num_shifts):
         "update r and loc lists"
         r = []
         loc = []
+        append = False
 
 with open("data/data_generated/output_final.json", "w") as write_file:
     json.dump(route_list, write_file, indent=4)

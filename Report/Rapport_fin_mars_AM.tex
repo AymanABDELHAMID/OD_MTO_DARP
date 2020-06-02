@@ -405,7 +405,7 @@ In this DAR problem the drop-off time window is defined by the timetable of the 
 
 % problem visualization
 
-\subsection{Problem Visualisation}
+\subsection*{Problem Visualisation}
 \label{subsec:problem_vis}
 
 \begin{figure}[H]
@@ -431,14 +431,15 @@ In the following section I am going to present the problem in a mathematical mod
 \subsection*{Problem Statement \& Mathematical Description:}
 
 \subsubsection{Introduction}
-Although with respect to sequence the problem can be divided into two separate parts, we don't neglect the fact that all the problem can be represented and formulated in a single mathematical formulation which, in the context of optimization, can lead to a more optimal solution. This path has not been taken for the reasons listed below:
-\begin{list}{}{}
-\item • The mathematical model that can formulated to solve this problem will be quite large and I will risk not including all the constraints.
-\item • Based on my current level of coding in Python, the work on the coding will be much clearer if the problem is formulated in two sub-mathematical formulations.
-\item • Based on the rhythm of work chosen during the semester it was a wiser choice to handle each part separately in order to get separate results instead of working on a big model and keep the results to the end, it was a micro lean programming cycle. %you can input the lean programming startup figure here
-\end{list}
+Although with respect to sequence the problem can be divided into two separate parts, we don't neglect the fact that all the problem can be represented and formulated in a single mathematical formulation which will lead to an optimal solution for the problem. 
 
-Following these arguments the problem formulation is going to be presented in two mathematical models; the first is going to handle the first part which is the station allocation problem and the second formulation for the driver allocation problem. We can now state that in this context the problem represented is twofold.
+%\begin{list}{}{}
+%\item • The mathematical model that can formulated to solve this problem will be quite large and I will risk not including all the constraints.
+%\item • Based on my current level of coding in Python, the work on the coding will be much clearer if the problem is formulated in two sub-mathematical formulations.
+%\item • Based on the rhythm of work chosen during the semester it was a wiser choice to handle each part separately in order to get separate results instead of working on a big model and keep the results to the end, it was a micro lean programming cycle. %you can input the lean programming startup figure here
+%\end{list}
+
+The problem formulation is going to be presented in two mathematical models for the sake of simplicity and clarity; the first is going to handle the first part which is the station allocation problem and the second formulation for the driver allocation problem. We can now state that in this context the problem represented is twofold and follows a heuristic approach.
 Firstly we tackle an allocation problem where we try to minimize the pickup locations by matching the requests corresponding to the same time window with a nearby pick up station. Once the pickup stations are determined the problem transitions into a many to one dial-a-ride problem with time windows, many-to-one are generalized dial-a-ride problems with an edge. All bookings realized are destined to reach the same end destination with respect to the timeslot chosen, the solution approaches are in section (\ref{sec:Methodd}).
 
 
@@ -530,7 +531,7 @@ that calculates the location of the best virtual pick-up station, for this algor
 
 \begin{figure}[H]
     \centering 
-  \includegraphics[width=\linewidth]{pictures/pmedian}
+  \includegraphics[width=0.5\linewidth]{pictures/pmedian}
   \caption{blue dots are the locations of the booking and red square are the potential pickup stations}
 \label{fig:p-median}
 \end{figure}
@@ -616,22 +617,22 @@ This problem can be represented using a three index formulation. The three index
 \begin{equation*}
 \def\arraystretch{2}
 \begin{array}{lllcll} %{ll@{}ll}
-\text{Minimize:}  && \displaystyle\sum\limits_{b \in B}\sum\limits_{i \in N}\sum\limits_{j \in N}x_{ij}^{b} && & (1)\\
+\text{Minimize:}  && \displaystyle\sum\limits_{b \in B}\sum\limits_{i \in N}\sum\limits_{j \in N}x_{ij}^{b}*c_{ij}^{b} && & \\
 	&	&	&	&	&  \\
 \text{subject to:}&   &  &  & &\\
 	&	&	& 	&	& \\
-	 \displaystyle\sum\limits_{b \in B}\sum\limits_{j \in N}x_{ij}^{b} &=& 1 &  \forall i \in M & & (2) \\ %(i=1 ,..., m)% 
-	 \sum\limits_{j \in N}x_{ij}^{b} - \sum\limits_{j \in N}x_{n+i, j}^{b} &=& 0	& \forall i \in M \ \& \   n+i \in N, \ b \in B	&&  (3) \\
-	 \sum\limits_{j \in N}x_{0j}^{b}&=&1	&\forall b \in B & & (4) \\
-	 \sum\limits_{j \in N}x_{ji}^{b} - \sum\limits_{j \in N}x_{ij}^{b} &=& 0	& \forall i \in N, \ b \in B	&&  (5) \\
-	 \sum\limits_{i \in N}x_{i,m+s+1}^{b} &=& 1	&	\forall \ b \in B& & (6) \\
-	 T^{b}_{j} &\geqslant& ( T^{b}_{i}+t_{ij}+W)x_{ji}^{b} 	& \forall i \in N,\  j \in N, \ b \in B		&&  (7) \\
-	 Q^{b}_{j}& \geqslant& ( Q^{b}_{i}+q_j)x_{ji}^{b} 		&\forall i \in N,\  j \in N, \ b \in B		&&  (8) \\
-	 E^{b}_{i}	&=&T^{b}_{n+i} -( T^{b}_{i}+W)	&\forall i \in M \ \& \   n+i \in N, \ b \in B		& & (9) \\
-	 e_i \leqslant T^{b}_{i}	&\leqslant	&  l_i	&\forall i \in N, \ b \in B	&& (10) \\
-	 max\{0,q_i\} \leqslant Q^{b}_{i}&	\leqslant&min\{Q_k, Q_k + q_i\} 	&\forall i \in N, \ b \in B	&& (11) \\
-	 x_{ij}^{b} &\in& \{0,1\}	&\forall i \in N,\  j \in N, \ b \in B	& & (12) \\
-	 E^{b}_{i} &\leqslant	&  {d}_{max}	&\forall i \in N,\ b \in B	& & (13) \\
+	 \displaystyle\sum\limits_{b \in B}\sum\limits_{j \in N}x_{ij}^{b} &=& 1 &  \forall i \in M & & (1) \\ %(i=1 ,..., m)% 
+	 \sum\limits_{j \in N}x_{ij}^{b} - \sum\limits_{j \in N}x_{n+i, j}^{b} &=& 0	& \forall i \in M \ \& \   n+i \in N, \ b \in B	&&  (2) \\
+	 \sum\limits_{j \in N}x_{0j}^{b}&=&1	&\forall b \in B & & (3) \\
+	 \sum\limits_{j \in N}x_{ji}^{b} - \sum\limits_{j \in N}x_{ij}^{b} &=& 0	& \forall i \in N, \ b \in B	&&  (4) \\
+	 \sum\limits_{i \in N}x_{i,m+s+1}^{b} &=& 1	&	\forall \ b \in B& & (5) \\
+	 T^{b}_{j} &\geqslant& ( T^{b}_{i}+t_{ij}+W)x_{ji}^{b} 	& \forall i \in N,\  j \in N, \ b \in B		&&  (6) \\
+	 Q^{b}_{j}& \geqslant& ( Q^{b}_{i}+q_j)x_{ji}^{b} 		&\forall i \in N,\  j \in N, \ b \in B		&&  (7) \\
+	 E^{b}_{i}	&=&T^{b}_{n+i} -( T^{b}_{i}+W)	&\forall i \in M \ \& \   n+i \in N, \ b \in B		& & (8) \\
+	 e_i \leqslant T^{b}_{i}	&\leqslant	&  l_i	&\forall i \in N, \ b \in B	&& (9) \\
+	 max\{0,q_i\} \leqslant Q^{b}_{i}&	\leqslant&min\{Q_k, Q_k + q_i\} 	&\forall i \in N, \ b \in B	&& (10) \\
+	 x_{ij}^{b} &\in& \{0,1\}	&\forall i \in N,\  j \in N, \ b \in B	& & (11) \\
+	 E^{b}_{i} &\leqslant	&  {d}_{max}	&\forall i \in N,\ b \in B	& & (12) \\
 \end{array}
 \end{equation*}
 
@@ -666,11 +667,11 @@ The data being used for idea validation is a modified dataset that was provided 
     {
         "id": 16566388,
         "passengers": 1,
-        "maximumDuration": 2100,
+        "maximumDuration": 90,
         "jobs": [
             {
                 "id": 23926039,
-                "duration": 60,
+                "duration": 2,
                 "latitude": 49.01606369018555,
                 "longitude": 1.6916327476501465,
                 "station": "s17",
@@ -763,7 +764,212 @@ Distances $\leftarrow$ empty list [ ]\;
 %Another method of clustering bookings into central pickup stations is to set predefined pickup zones and then match bookings to the stations, the station then becomes active if and only if there are bookings matched to it (see explanation in section \ref{subsec:next_steps}).
 
 
-\subsubsection{The matching problem}
+\subsection{Solving the DAR problem}
+
+The Dial a ride problem is a developed VRP with time windows, the solution approach in this part is inspired from Cordeau \& Laporte 2008 \cite{2008_Cordeau_Laporte}
+
+\subsubsection{Algorithm}
+
+The algorithm here is a continuation of the output of part $1$ of the problem, after given the active pickup stations generated from Algorithm $I$, the data generated is as follows:
+\begin{lstlisting}[language=json,firstnumber=1]
+"bookings": [
+   {
+        "id": 17164167,
+        "price": 2000,
+        "passengers": 3,
+        "maximumDuration": 90,
+        "old_location": [
+            [
+                38,
+                36
+            ],
+            [
+                44,
+                25
+            ]
+        ],
+        "jobs": {
+            "duration": 2,
+            "station": [
+                "s15",
+                "s17"
+            ],
+            "timewindow": [
+                720.0,
+                840.0
+            ]
+        }
+    },
+]
+\end{lstlisting}
+ 
+ We can view from this data structure which additional information the first part had provided, first the timeslot is converted into a time window of $30$ minutes, and the $maximumduration$ is shortest duration a booking is willing to stay in a vehicle, the first algorithm also keeps record of the bookings previous locations for analytical purposes.
+ 
+ The algorithm below demonstrates how the data is taken to start assigning vehicles and optimized to reduces the total ride time. In section \ref{sec:results}, the results show the optimization done on the set of data given. The results are analyzed to show the averge ride time and wait time. 
+
+
+\begin{algorithm}[H]
+\label{alg:darp}
+\SetAlgoLined
+\LinesNumbered
+\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
+\SetKw{KwBy}{by}
+\Input{$M$ a dictionary of predefined active pick up stations and respective timeslots, $S$ a set of }
+\Output{Drivers assignments for each timeslot}
+\BlankLine
+ initialization\;
+n\_b $\leftarrow$ $len(M)$\;
+n\_s $\leftarrow$ $len(S)$\;
+\tcp{Define a 3 index variable that is binary and equals to 1 if the driver in this index is assigned this specific edge}
+Initialize: Model $\leftarrow$ [$x_{2*n\_b+2, 2*n\_b+2}^{n\_s}$, $u_{2*n\_b}$, $v_{n\_s, 2}$, $w_{2*n\_b+2}$, $r_{n\_b}$]\;
+Model $\leftarrow$ $add\_constraints$ from section \ref{subsection:model_partI}\;
+Objective = minimize\_total\_distance(Model: sum($x_{0:2*n\_b+2,0: 2*n\_b+2}^{0:n\_s}*c_{0:2*n\_b+2,0: 2*n\_b+2}^{0:n\_s}$))\;
+\KwResult{$Output$}
+ \caption{Algorithm to define assignments for each driver while minimizing total ride time.}
+\end{algorithm}
+
+More details on the solution setup and data generation can be found in the following section.
+
+
+\section{Results}
+\label{sec:results}
+\subsection{Introduction}
+Many challenges were faced to be able to solve such a problem, it was a challenge to find instance describing the situation, which in result led me to generate my own data.
+The work on the coding can be divided into four main parts:
+\begin{itemize}
+\item  Data generation
+\item  Optimization: Part I (\ref{subsec:env_res})
+\item  Optimization: Part II (\ref{subsec:env_res})
+\item Data analysis
+\end{itemize}
+
+\subsubsection*{Data generation}
+The data generated is based on actual instances provided by YUSO which is a fleet management Startup. The data was modified to include reference to timeslot, durations were converted into minutes from second, and location was mapped on Cartesian coordinates instead of geographical ones. Additionally the bookings size was modified to generate many instances with different number of bookings.
+For stations, the data was generated from scratch and the number of stations was defined in order to make sure that all bookings are within a walking distance that is smaller than the distance limit in the Cartesian plan. 
+
+\subsubsection*{Optimization: Part I }
+$25$ bookings in several locations are treated in this part to be matched with the closest pickup station, it activates stations that are receiving bookings and generates data for part two to assign drivers, it also defines the time window of the pickup and drop-off. 
+
+\subsubsection*{Optimization: Part II}
+This part treats the active stations in this problem $13$ out of $16$ that are receiving customers, each station has a set of timeslots and the total number of passengers going to this station
+
+\subsubsection*{Data analysis}
+Data analysis is used to show specific metrics 
+
+\subsection{Optimization Environment}
+\label{subsec:env_res}
+
+The table below shows the environment used to solve the problem, the computer runs on Windows $7$ oprating system and 
+\begin{center}
+ \begin{tabular}{||c c c c||} 
+ %\caption{Problem solution environment}\\
+ \hline
+ \textbf{Programming Language} & \textbf{Optimization Tool} & \textbf{Processor} & \textbf{Solution Time} \\ [0.5ex] 
+ \hline\hline
+ Python$3.7$ & Gurobi $v9.0$ & i7-6600U CPU@  & PartI: 2s \\ 
+ \hline
+ &  & $2.60$Ghz & PartII: 409s  \\
+ \hline
+  &  &  & Preprocessing: 500s  \\
+ \hline
+\end{tabular}
+\end{center}
+
+\subsection{Results}
+The algorithm successfully found a solution for the following set of data:
+$25$ bookings, $16$ Pickup Stations, $10$ Timeslots, $1$ Drop-off Station. The results are displayed below:
+
+\subsubsection*{Part I: Matching Stations: }
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/Example1}
+%Timeslot_numbered
+  \caption{Location of all request}
+\label{fig:requests}
+\end{figure}
+
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/Example1_2}
+%Timeslot_numbered
+  \caption{Location of available pickup stations}
+\label{fig:stations_av}
+\end{figure}
+
+
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/Example1_3}
+%Timeslot_numbered
+  \caption{Matching Algorithm}
+\label{fig:matching}
+\end{figure}
+
+
+
+\subsubsection*{Part II: Average Wait time at destination: }
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/Example3_cb}
+%Timeslot_numbered
+  \caption{Average wait time}
+\label{fig:wts}
+\end{figure}
+
+
+\subsubsection*{Part II: Total Distance Travelled: }
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/Example5}
+%Timeslot_numbered
+  \caption{Total travelled distance}
+\label{fig:td}
+\end{figure}
+
+
+\subsubsection*{Part II: A driver path:}
+\begin{figure}[H]
+    \centering 
+  \includegraphics[width=0.7\linewidth]{pictures/results/chart_2}
+%Timeslot_numbered
+  \caption{An example of a route by one of the drivers, the white dots are the number of bookings at each station}
+\label{fig:driver_path}
+\end{figure}
+
+
+\subsubsection*{Algorithm Robustness}
+The algorithm was tested for a wide range of data to make sure it is not working for only limited patterns of requests . In the table below I show the range of data the algorithm has been tested on:
+
+\begin{center}
+ \begin{tabular}{||c c c c||} 
+ %\caption{Problem solution environment}\\
+ \hline
+ \textbf{Bookings:} & $4$ & $\rightarrow$ & $147$ \\ 
+ \hline
+ \textbf{Shifts:} & $2$  &$\rightarrow$ & $40$ \\ 
+ \hline
+ \textbf{Stations:} &  $2$ & $\rightarrow$ &  $16$  \\
+ \hline
+ \textbf{Timeslots:} & $1$ & $\rightarrow$  & $10$ \\
+ \hline
+ \textbf{Distance Limit:} & $1km$  & $\rightarrow$  & $4km$  \\
+ \hline
+ \textbf{Timewindow:} & $15min$ & $\rightarrow$  & $30min$  \\
+ \hline
+\end{tabular}
+\end{center}
+
+
+%\subsection{Comparison}
+
+%I want to create a link that shows all the results in an extensive way.
+%I want to show at least 4 plots and a table showing a comparison between given solutions and solutions found by mu algorithm
+
+\subsection{Observations  \& Perspectives}
+The results show that the algorithm becomes more efficient when we have less timeslots, in this example it would relate to a large number of bookings in a peak time. However, when the timeslots span over the day, the algorithms acts as a normal vehicle routing problem with time windows. One of the most interesting part in my view is that the total ride distance is reduced. This is due to the fact that each booking  has to walk a specific distance to reach the pickup station. In this set of data the total distance walke by the bookings is $36.715km$, by comparing it to the total distance by vehicles $323.96km$, the walking distance covers around $11\%$ of the total travel distance. This contributes directly to the reduction of the carbon footprint. 
+
+
+\subsubsection*{The matching problem}
 \label{subsec:matching-prob}
 
 The matching problem is a sub-problem where we have $n$ potential bookings and let $f$ denote the number of time-slots available at a drop-off station. $F = \{ 1, ..., f \}$ As an example let $F_1$ be the timetable of train $\#1$.\\
@@ -812,52 +1018,6 @@ Pickup \ time \ at \ station\ i, \ (i \in M) = T_f - W - t_{ij} - C
 
 This approach of maximizing bookings per pickup is still questionable due to the fact that it might not be the optimal solution to move the booking from a time slot to another, it is only beneficial in the case of applying a shift that will directly reduce the number of fleet, this part is subject to testing to validate, the comparison between the results of the algorithm and the actual results of the real instances can be found in section \ref{sec:results}
 
-\subsection{Solving the DAR problem}
-
-The Dial a ride problem is a developed VRP with time windows, the solution approach in this part is inspired from Cordeau \& Laporte 2008 \cite{2008_Cordeau_Laporte}
-
-\subsubsection{Algorithm}
-
-The algorithm here is a continuation of the output of part 1 of the problem, after given the active pickup stations ...
-
-
-\begin{algorithm}[H]
-\label{alg:darp}
-\SetAlgoLined
-\LinesNumbered
-\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\SetKw{KwBy}{by}
-\Input{$M$ a set of predefined active pick up stations}
-\Output{Drivers assignments for each timeslot}
-\BlankLine
- initialization\;
-\tcp{The algorithm is done but not put here yet}
-Objective = minimize\_total\_distance(data)\;
-\KwResult{$Output$}
- \caption{Algorithm to define assignments for each driver.}
-\end{algorithm}
-
-
-\section{Results}
-\label{sec:results}
-\subsection{Introduction}
-Here I am going to introduce the main features I want to show in the results.
-
-\subsection{Optimization Environment}
-The code python
-the optimizer gurobi
-the laptop hp .. processor...
-
-
-\subsection{Comparison}
-
-I want to create a link that shows all the results in an extensive way.
-I want to show at least 4 plots and a table showing a comparison between given solutions and solutions found by mu algorithm
-
-\subsection{Observations}
-In this section I am going to discuss any data in the results that might give the wrong impression about my algorithm and explain the reason(s) behind it 
-
-
 \subsubsection*{The value of time}
 
 \begin{flushright}
@@ -890,7 +1050,7 @@ Next steps to explore include the following:
 \item • A framework of ride-sharing algorithms to build the most efficient public transport feeder.
 \item • Quantify the benefits in saving time with real data. 
 \item •  How such a model can impact future transportation systems.
-\item •  Merge between real-time and pre-arranged bookings.
+\item • Put constraints on pickup stations to be open on specific areas where there are no obstacles.
 \end{list}
 
 Better route planning comes with better data, the idea is to have the most amount of input to the problem the earliest possible, in order to be able to better allocate clients to drivers and better choose the pick up stations.The optimization problem will affect globally the operation cost. The cost saved can be reflected in the total ride cost, which will be a great incentive for the customers to book their rides earlier.
@@ -910,7 +1070,6 @@ In addition to the Methodology and state of the art. I tried to present the moti
 
 In the second part of the report I presented the problem formulation, setting, visualization and next steps.  The new service proposed has the potential to provide major societal, economic and environmental benefits. The development of algorithms for planning and
 operating such systems is at the heart of the shared mobility concept. 
-
 
 The problem reformulation highlights a number of promising optimization opportunities and challenges that arise when developing new systems to support public transport.
 More research is now needed on systems that consider trip synchronization and traveller cost aspects, or more generally the quality of the provided service. With the latest trends to research deploying new autonomous mobility services, inter-modality become more attractive. And there is also a need to introduce new models and algorithms.

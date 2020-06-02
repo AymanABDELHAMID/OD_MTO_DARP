@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  27 MAY 2020 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  2 JUN 2020 20:50
 entering extended mode
 **./Rapport_fin_mars_AM.tex
 (Rapport_fin_mars_AM.tex
@@ -313,7 +313,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 ...and\NAT@force@numbers{}\NAT@force@numbers
+l.194 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? 
 )
@@ -417,7 +417,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `Rapport_fin_mars_AM.toc'.
 
 
-[1] [2]
+[1]
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
@@ -432,13 +432,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-[3] [4] [5] [6] [7] [8] [9]
+[2] [3] [4] [5] [6] [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-[10]
-<pictures/citymapper_experiment/Citymapper_experiment_1.jpg, id=43, 1927.2pt x 
+[9]
+<pictures/citymapper_experiment/Citymapper_experiment_1.jpg, id=40, 1927.2pt x 
 1084.05pt>
 File: pictures/citymapper_experiment/Citymapper_experiment_1.jpg Graphic file (
 type jpg)
@@ -446,7 +446,7 @@ type jpg)
 Package pdftex.def Info: pictures/citymapper_experiment/Citymapper_experiment_1
 .jpg  used on input line 277.
 (pdftex.def)             Requested size: 345.0pt x 194.06194pt.
-<pictures/citymapper_experiment/Citymapper_experiment_2.jpg, id=44, 1927.2pt x 
+<pictures/citymapper_experiment/Citymapper_experiment_2.jpg, id=41, 1927.2pt x 
 1084.05pt>
 File: pictures/citymapper_experiment/Citymapper_experiment_2.jpg Graphic file (
 type jpg)
@@ -454,86 +454,131 @@ type jpg)
 Package pdftex.def Info: pictures/citymapper_experiment/Citymapper_experiment_2
 .jpg  used on input line 282.
 (pdftex.def)             Requested size: 345.0pt x 194.06194pt.
- [11 <./pictures/citymapper_experiment/Citymapper_experiment_1.jpg> <./pictures
-/citymapper_experiment/Citymapper_experiment_2.jpg>] [12] [13] [14]
-[15]
-<pictures/Display_problem.png, id=62, 808.01875pt x 790.955pt>
+ [10 <./pictures/citymapper_experiment/Citymapper_experiment_1.jpg> <./pictures
+/citymapper_experiment/Citymapper_experiment_2.jpg>] [11] [12] [13] [14]
+<pictures/Display_problem.png, id=59, 808.01875pt x 790.955pt>
 File: pictures/Display_problem.png Graphic file (type png)
 <use pictures/Display_problem.png>
 Package pdftex.def Info: pictures/Display_problem.png  used on input line 413.
 (pdftex.def)             Requested size: 323.20177pt x 316.3764pt.
- [16] [17 <./pictures/Display_problem.png>] [18]
-<pictures/Time_sequence.png, id=76, 721.69624pt x 231.86626pt>
+
+[15] [16 <./pictures/Display_problem.png>] [17]
+<pictures/Time_sequence.png, id=72, 721.69624pt x 231.86626pt>
 File: pictures/Time_sequence.png Graphic file (type png)
 <use pictures/Time_sequence.png>
-Package pdftex.def Info: pictures/Time_sequence.png  used on input line 470.
+Package pdftex.def Info: pictures/Time_sequence.png  used on input line 471.
 (pdftex.def)             Requested size: 345.0pt x 110.84166pt.
-<pictures/time_sequence_with_manystations.png, id=77, 671.50874pt x 482.80376pt
+<pictures/time_sequence_with_manystations.png, id=73, 671.50874pt x 482.80376pt
 >
 File: pictures/time_sequence_with_manystations.png Graphic file (type png)
 <use pictures/time_sequence_with_manystations.png>
 Package pdftex.def Info: pictures/time_sequence_with_manystations.png  used on 
-input line 486.
+input line 487.
 (pdftex.def)             Requested size: 345.0pt x 248.0463pt.
- [19 <./pictures/Time_sequence.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 496--500
+ [18 <./pictures/Time_sequence.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 497--501
 
  []
 
-[20 <./pictures/time_sequence_with_manystations.png>]
-<pictures/pmedian.png, id=88, 512.91624pt x 362.35374pt>
+[19 <./pictures/time_sequence_with_manystations.png>]
+<pictures/pmedian.png, id=85, 512.91624pt x 362.35374pt>
 File: pictures/pmedian.png Graphic file (type png)
 <use pictures/pmedian.png>
-Package pdftex.def Info: pictures/pmedian.png  used on input line 533.
-(pdftex.def)             Requested size: 345.0pt x 243.72675pt.
- [21]
+Package pdftex.def Info: pictures/pmedian.png  used on input line 534.
+(pdftex.def)             Requested size: 172.5pt x 121.86061pt.
+ [20]
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 545.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 546.
 
 
-Overfull \hbox (21.1611pt too wide) detected at line 564
+Overfull \hbox (21.1611pt too wide) detected at line 565
 []
  []
 
-[22 <./pictures/pmedian.png>] [23]
-Overfull \hbox (27.0963pt too wide) detected at line 636
+[21 <./pictures/pmedian.png>]
+Overfull \hbox (34.10869pt too wide) detected at line 637
 []
  []
 
-[24] [25]
+[22] [23]
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
-666.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 666.
+667.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 667.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 666.
+(Font)              for symbol `textbraceleft' on input line 667.
 
-[26] [27]
-<pictures/pickup_stations.png, id=115, 332.24126pt x 251.94125pt>
+[24] [25]
+<pictures/pickup_stations.png, id=109, 332.24126pt x 251.94125pt>
 File: pictures/pickup_stations.png Graphic file (type png)
 <use pictures/pickup_stations.png>
-Package pdftex.def Info: pictures/pickup_stations.png  used on input line 720.
+Package pdftex.def Info: pictures/pickup_stations.png  used on input line 721.
 (pdftex.def)             Requested size: 172.5pt x 130.81029pt.
- [28 <./pictures/pickup_stations.png>] [29]
-<pictures/Timeslot.png, id=125, 442.65375pt x 227.85126pt>
+ [26 <./pictures/pickup_stations.png>] [27] [28]
+Overfull \hbox (76.71445pt too wide) in paragraph at lines 864--876
+ [] 
+ []
+
+[29]
+<pictures/results/Example1.png, id=125, 578.16pt x 433.62pt>
+File: pictures/results/Example1.png Graphic file (type png)
+<use pictures/results/Example1.png>
+Package pdftex.def Info: pictures/results/Example1.png  used on input line 885.
+
+(pdftex.def)             Requested size: 241.49895pt x 181.12006pt.
+<pictures/results/Example1_2.png, id=126, 578.16pt x 433.62pt>
+File: pictures/results/Example1_2.png Graphic file (type png)
+<use pictures/results/Example1_2.png>
+Package pdftex.def Info: pictures/results/Example1_2.png  used on input line 89
+3.
+(pdftex.def)             Requested size: 241.49895pt x 181.12006pt.
+ [30 <./pictures/results/Example1.png>]
+<pictures/results/Example1_3.png, id=132, 578.16pt x 433.62pt>
+File: pictures/results/Example1_3.png Graphic file (type png)
+<use pictures/results/Example1_3.png>
+Package pdftex.def Info: pictures/results/Example1_3.png  used on input line 90
+2.
+(pdftex.def)             Requested size: 241.49895pt x 181.12006pt.
+<pictures/results/Example3_cb.png, id=133, 578.16pt x 433.62pt>
+File: pictures/results/Example3_cb.png Graphic file (type png)
+<use pictures/results/Example3_cb.png>
+Package pdftex.def Info: pictures/results/Example3_cb.png  used on input line 9
+13.
+(pdftex.def)             Requested size: 241.49895pt x 181.12006pt.
+ [31 <./pictures/results/Example1_2.png> <./pictures/results/Example1_3.png>]
+<pictures/results/Example5.png, id=139, 578.16pt x 433.62pt>
+File: pictures/results/Example5.png Graphic file (type png)
+<use pictures/results/Example5.png>
+Package pdftex.def Info: pictures/results/Example5.png  used on input line 923.
+
+(pdftex.def)             Requested size: 241.49895pt x 181.12006pt.
+<pictures/results/chart_2.png, id=140, 804.00375pt x 603.25375pt>
+File: pictures/results/chart_2.png Graphic file (type png)
+<use pictures/results/chart_2.png>
+Package pdftex.def Info: pictures/results/chart_2.png  used on input line 933.
+(pdftex.def)             Requested size: 241.49895pt x 181.19844pt.
+ [32 <./pictures/results/Example3_cb.png> <./pictures/results/Example5.png>] [3
+3 <./pictures/results/chart_2.png>]
+<pictures/Timeslot.png, id=150, 442.65375pt x 227.85126pt>
 File: pictures/Timeslot.png Graphic file (type png)
 <use pictures/Timeslot.png>
-Package pdftex.def Info: pictures/Timeslot.png  used on input line 792.
+Package pdftex.def Info: pictures/Timeslot.png  used on input line 998.
 (pdftex.def)             Requested size: 241.49895pt x 124.31032pt.
- [30 <./pictures/Timeslot.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 880--882
+
+[34 <./pictures/Timeslot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1042
 
  []
 
-[31]
-Overfull \hbox (0.38956pt too wide) in paragraph at lines 902--906
+[35]
+Overfull \hbox (0.38956pt too wide) in paragraph at lines 1062--1066
 \OT1/cmr/m/n/10 tems and mo-bil-ity on de-mand sys-tems along with their so-lu-
 tion ap-proaches.Then
  []
 
-[32] [33] (Rapport_fin_mars_AM.bbl
+[36] [37] (Rapport_fin_mars_AM.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 9--13
 []\OT1/cmr/m/it/10 ILE-DE-FRANCE - UNE []ETUDE D[]EMONTRE
  []
@@ -571,7 +616,7 @@ rbestechcouncil / 2019 / 07 / 11 /
 l.21 ...ing and public transit,'' {\em Computers &
                                                   
 ? 
-[34]
+[38]
 Underfull \hbox (badness 1448) in paragraph at lines 75--78
 \OT1/cmr/m/it/10 2008, Province-town, MA, USA, May 30June 1, 2008, Pro-ceed-ing
 s\OT1/cmr/m/n/10 ,
@@ -600,7 +645,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--117
 rt / sites / transport / files /
  []
 
-[35]
+[39]
 ! Misplaced alignment tab character &.
 l.144   generation,'' {\em Computers &
                                        Operations Research}, vol.~38, no.~10,
@@ -611,16 +656,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--190
 l _ life _ instances . php$
  []
 
-) [36] (Rapport_fin_mars_AM.aux)
+) [40] (Rapport_fin_mars_AM.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 8344 strings out of 480930
- 124796 string characters out of 2901658
- 405141 words of memory out of 3000000
- 24086 multiletter control sequences out of 15000+200000
+ 8400 strings out of 480930
+ 126336 string characters out of 2901658
+ 405208 words of memory out of 3000000
+ 24135 multiletter control sequences out of 15000+200000
  540450 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,15n,42p,1516b,1660s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -643,9 +688,9 @@ fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/AYMAN/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/AYMAN/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/AYMAN/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Rapport_fin_mars_AM.pdf (37 pages, 2117380 bytes).
+Output written on Rapport_fin_mars_AM.pdf (41 pages, 2260983 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
