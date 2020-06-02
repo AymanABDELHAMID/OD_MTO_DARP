@@ -146,7 +146,7 @@ for station in range(num_pickup_stations):
                 "jobs":
                     {
                         "duration": 2,
-                        "station": ["s" + str(station + 1), "s" + str(num_pickup_stations-2)],  # because we remove the depot stations
+                        "station": ["s" + str(station), "s" + str(num_pickup_stations-2)],  # because we remove the depot stations
                         "timewindow": [t0, t1],
                     },
             }

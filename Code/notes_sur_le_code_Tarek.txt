@@ -20,4 +20,18 @@ Optimisation lexicographique
 Think about the cost function, you can have a sort of a cost that applies on a condition to the 
 distance, is d > dl then cost per step gors from 1 to 1000 as an example.
 --------------------------------------------
+...
+Driver 4  will take customer  0  to 6
+Driver 4  will take customer  1  to 24
+Driver 4  will take customer  6  to 7
+Driver 4  will take customer  7  to 29
+Driver 4  will take customer  12  to 1
+Driver 4  will take customer  13  to 36
+Driver 4  will take customer  22  to 45
+Driver 4  will take customer  24  to 35
+Driver 4  will take customer  29  to 30
+Driver 4  will take customer  30  to 13
+Driver 4  will take customer  35  to 47
+Driver 4  will take customer  36  to 22
+Driver 4  will take customer  45  to 12
 
