@@ -4,11 +4,6 @@
 
 /Code/.idea
 
-/Code/Report/Older versions
-
-
-/Code/Report/pictures
-
-
-/Code/Report/plagiarism detector
+/Code/Report/*
+!/Code/Report/Rapport_fin_mars_AM
 
