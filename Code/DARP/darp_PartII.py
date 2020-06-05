@@ -5,10 +5,9 @@ This script takes the output of part 1 from the problem definition
 and runs the second part to optimize the driver allocation problem.
 """
 
-import numpy as np, csv, random, operator
+import numpy as np
 import json
 import pandas
-import matplotlib.pyplot as plt
 import gurobipy as gp
 from gurobipy import GRB
 
