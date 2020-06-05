@@ -1,0 +1,1 @@
+from dgenerator.dgenerator import generate_bookings
