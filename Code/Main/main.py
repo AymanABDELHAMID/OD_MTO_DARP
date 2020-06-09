@@ -12,6 +12,7 @@ from dgenerator import generate_bookings
 
 if __name__ == "__main__":
 
+
     parser = argparse.ArgumentParser()
     parser.add_argument("-b,", help="the number of bookings you want in your instance (<150)", required=True)
     parser.add_argument("-s,", help="number of pickup stations in your instance (<20)", required=True)
@@ -87,3 +88,10 @@ if __name__ == "__main__":
     #dg.generate_bookings(bookings_number)
     # generate_bookings(bookings_number)
     # Change color to red
+
+print("You made it through all four steps")
+#################################################"""
+"population generator"
+dg.generate_bookings(bookings_number)
+# Change color to red
+
