@@ -13,7 +13,7 @@ import numpy as np
 # Parameters
 # Get booking data
 # adding type hint to the dict
-with open('data/data_generated/bookings_medium.json') as f:
+with open('data/data_generated/bookings_short.json') as f:
     data_bookings = json.load(f)
 
 # Get Stations data

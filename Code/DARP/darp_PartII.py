@@ -19,7 +19,7 @@ with open('data/data_generated/bookings_part2.json') as f:
     data_bookings = json.load(f)
 
 # Get Shifts data
-with open('data/data_generated/shifts.json') as f:
+with open('data/data_generated/shifts_short.json') as f:
     data_shifts = json.load(f)
 
 # get Travel Times Data
@@ -279,3 +279,59 @@ model.optimize()
 print('Objective value: %g' % model.objVal)
 
 # Data analysis
+print("Starting Data Analysis...")
+route_list = []
+
+route = {
+  "id": [],
+  "route": [],
+  "location": []
+}
+append = False
+rou = []
+loc = []
+driver_counter = 0
+for l in range(num_shifts):
+    i = 0
+    while i != 2*num_bookings+2 - 1:
+        for j in range(2*num_bookings+2):
+            if x.X[i, j, l] == 1:
+                append = True
+                if i == 0:
+                    rou.append('p0')
+                    loc.append(0)
+                if j == 0:
+                    rou.append('p0')
+                    loc.append(0)
+                if 1 <= j <= num_bookings:
+                    rou.append('p'+str(j))
+                    loc.append(int(data_bookings[j - 1]["jobs"]["station"][0][1:]))
+                elif num_bookings + 1 <= j <= 2*num_bookings:
+                    rou.append('d' + str(j - num_bookings))
+                    loc.append(int(data_bookings[j - 1 - num_bookings]["jobs"]["station"][1][1:]))
+                elif j == 2 * num_bookings + 1:
+                    if i == 0:  # it means that this driver didn't perform a route
+                        append = False
+                        break  # maybe we don't need to break but I will keep it from now
+                    else:
+                        rou.append('d0')
+                        loc.append(0)
+                "update i"
+                i = j
+    if append:
+        driver_counter = driver_counter  + 1
+        route = {
+            "id": data_shifts[l]["id"],
+            "route": rou,
+            "location": loc
+        }
+        route_list.append(route)
+        "update r and loc lists"
+        rou = []
+        loc = []
+        append = False
+
+with open("data/data_generated/output_final_" + str(num_bookings) + ".json", "w") as write_file:
+    json.dump(route_list, write_file, indent=4)
+
+print("Data analysed! You can find the route of each shift in data_generated/output_final_" + str(num_bookings)+ ".json")
