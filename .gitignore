@@ -1,6 +1,8 @@
 /Code/venv/
 
 /Code/Examples/
+!/Code/Examples/Matplotlib
+
 
 /Code/.idea
 

@@ -19,7 +19,7 @@ with open('data/data_generated/bookings_part2.json') as f:
     data_bookings = json.load(f)
 
 # Get Shifts data
-with open('data/data_generated/shifts_short.json') as f:
+with open('data/data_generated/shifts.json') as f:
     data_shifts = json.load(f)
 
 # get Travel Times Data
@@ -293,7 +293,8 @@ loc = []
 driver_counter = 0
 for l in range(num_shifts):
     i = 0
-    while i != 2*num_bookings+2 - 1:
+    br = False
+    while i != 2*num_bookings+1:
         for j in range(2*num_bookings+2):
             if x.X[i, j, l] == 1:
                 append = True
@@ -312,12 +313,15 @@ for l in range(num_shifts):
                 elif j == 2 * num_bookings + 1:
                     if i == 0:  # it means that this driver didn't perform a route
                         append = False
+                        br = True
                         break  # maybe we don't need to break but I will keep it from now
                     else:
                         rou.append('d0')
                         loc.append(0)
                 "update i"
                 i = j
+        if br:
+            break
     if append:
         driver_counter = driver_counter  + 1
         route = {
