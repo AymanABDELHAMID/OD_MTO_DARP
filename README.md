@@ -1,5 +1,5 @@
 # OD_MTO_DARP
-![](.\Code\data\Figures\routes\driver_1_route_arrow.gif)
+![](https://github.com/AymanABDELHAMID/OD_MTO_DARP/blob/master/Code/data/Figures/routes/driver_1_route_arrow.gif)
 ## What is OD_MTO_DARP?
 OD_MTO_DARP is a platform for simulating and solving Dial-a-ride problems.
 The platform is fourfold:
@@ -10,7 +10,7 @@ The platform is fourfold:
 The data analysis tool will help you visualize the solution and get key metrics such 
 as the bookings and active stations.
 
-![](.\Code\data\Figures\Example1_3.png)
+![](https://github.com/AymanABDELHAMID/OD_MTO_DARP/blob/master/Code/data/Figures/Example1_3.png)
 ## Documentation
 For a comprehensive documentation about the work please check the documentation...
 ##Usage
