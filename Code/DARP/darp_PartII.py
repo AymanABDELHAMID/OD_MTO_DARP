@@ -321,6 +321,8 @@ for l in range(num_shifts):
                 "update i"
                 i = j
         if br:
+            rou = []
+            loc = []
             break
     if append:
         driver_counter = driver_counter  + 1
